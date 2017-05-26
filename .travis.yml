@@ -20,7 +20,7 @@ install:
   - pip install pre-commit gitinspector
 
 script:
-  - ./scons
+  - scons
 
 addons:
   artifacts:
