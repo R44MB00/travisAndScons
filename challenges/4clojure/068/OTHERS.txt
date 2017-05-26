@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/yveszoundi/4clojure-answers/master/README.org
+https://raw.githubusercontent.com/katox/4clojure-solutions/master/src/foreclojure_solutions/core.clj

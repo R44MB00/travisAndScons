@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/qiuxiafei/4clojure/master/answers/95.To%20Tree%2C%20or%20not%20to%20Tree
+https://raw.githubusercontent.com/katox/4clojure-solutions/master/src/foreclojure_solutions/core.clj
+http://4clojure.clojuregirl.com/

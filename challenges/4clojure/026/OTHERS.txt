@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/yveszoundi/4clojure-answers/master/README.org
+https://raw.githubusercontent.com/katox/4clojure-solutions/master/src/foreclojure_solutions/core.clj
+https://gist.githubusercontent.com/SegFaultAX/3607101/raw/170125da03f311d70bd63b307b9a7de5ef88c127/gistfile1.md
+http://4clojure.clojuregirl.com/

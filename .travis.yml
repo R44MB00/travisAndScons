@@ -1,0 +1,30 @@
+language: python
+
+cache:
+  pip: true
+  directories:
+    - build
+
+python:
+  - "2.7"
+
+sudo: required
+
+before_install:
+  - sudo apt-get update
+
+install:
+  - sudo apt-get install simhash tree pylint splint gitstats aspell aspell-es
+  - sudo apt-get install scons
+  - gem install cucumber
+  - pip install pre-commit gitinspector
+
+script:
+  - ./scons
+
+addons:
+  artifacts:
+    debug: false
+    bucket: travisatfluid
+    paths:
+    - ./build
