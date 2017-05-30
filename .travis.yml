@@ -15,8 +15,8 @@ before_install:
 
 install:
   - sudo apt-get install simhash tree pylint splint gitstats aspell aspell-es
-  #- python scons-2.5.1/setup.py install
-  #- pip install scons
+  - pip install scons
+  - pip install retry
   - gem install cucumber
   - pip install pre-commit gitinspector
 

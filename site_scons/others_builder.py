@@ -8,7 +8,11 @@ This module provides the builder function for all OTHERS.txt files.
 import urllib2
 import cookielib
 import string
+from retry import retry
 
+@retry(urllib2.URLError, tries=4, delay=3, backoff=2)
+def make_request(opener, url):
+    return opener.open(url).getcode()
 
 def build_others(target, source, env):
     """Fn to build OTHERS.txt. Fn makes a request to all URLs in the text file
@@ -45,9 +49,6 @@ def build_others(target, source, env):
         stat_code = 0
         ur_len = len(url)
         if ur_len > 0:
-            # Prepend protocol if missing
-            if not url.startswith("http"):
-                url = 'http://' + url
             try:
                 # Prep and add headers
                 headers = {
@@ -57,10 +58,10 @@ def build_others(target, source, env):
                                   'Gecko/20100101 Firefox/10.0.1', }
                 opener.addheaders = headers.items()
                 # Make req and get HTTP status code
-                stat_code = opener.open(url).getcode()
+                stat_code = make_request(opener, url)
             # Handle errors
             except (urllib2.HTTPError, urllib2.URLError):
-                print url + " -- HTTP/URL ERROR --"
+                print url + " -- Invalid URL --"
                 return 1
             # Check for valid response
             if stat_code != 200:
