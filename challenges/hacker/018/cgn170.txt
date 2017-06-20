@@ -1,0 +1,1 @@
+La firma del archivo es gzip, se puede encontrar usando el comando file, se extrae el archivo comprimido y se tiene la solucion al reto

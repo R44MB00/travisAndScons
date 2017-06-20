@@ -1,0 +1,1 @@
+Alterar el filtro agregando <scrip<script>t> alert("Hack this");</scrip</script>t>

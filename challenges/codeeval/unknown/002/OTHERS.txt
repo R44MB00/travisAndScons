@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/yuheiomori/2664672/raw/ff25b67806bc1152987e56eda91fe95b09e6b843/longest_lines.py
+https://raw.githubusercontent.com/delynn/code-eval/master/ruby/2-longest-lines.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/longestlines.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/longestlines.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/longestlines.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/longestlines.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/longestlines.rb

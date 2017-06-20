@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/armstrong-numbers/Main.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/ArmstrongNumbers.java
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/armstrong_numbers.py2
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/armstrong-numbers.lua
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/82%20-%20Armstrong%20numbers/82.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/82%20-%20Armstrong%20numbers/82.php

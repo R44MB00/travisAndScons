@@ -1,0 +1,5 @@
+Real3--Hackthis
+	1. Inspeccione el boton de entrar y encontre la funcion check() 
+	2. Corri dicha funcion en el depurador
+	3. En dicha funcion habia una matriz m que era la que contenia los nombres de usuario y contraseña pero estaban encriptados
+	4. Los desencripte y las credenciales correctas eran usuario: Jhon T contraseña: sheeprule

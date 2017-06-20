@@ -1,0 +1,1 @@
+asic+ 2: se modifica el user agent por el que le dan por medio de tamper data.

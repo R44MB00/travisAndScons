@@ -1,0 +1,1 @@
+El reto consiste en obtener una contraseña. Revisando el codigo fuente de la pagina se encuentra un codigo javascript en el cual se encuentra que la contraseña es <script>.

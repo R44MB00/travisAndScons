@@ -1,0 +1,4 @@
+GNU/LINUX 0
+http://www.yashira.org/index.php?mode=Retos&resp=inforeto&level=27
+Respuesta:
+chmod 704 Pass.txt

@@ -1,0 +1,1 @@
+La respuesta era los diferentes protocoles en las diferentes capas del modelo TCP/IP

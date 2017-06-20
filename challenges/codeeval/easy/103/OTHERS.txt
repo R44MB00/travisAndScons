@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/lowest_unique_number.py2
+https://gist.githubusercontent.com/yuheiomori/8049532/raw/374f660d75070304885bab9e7f0a1b501a56435a/main.go
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/lowest-unique.lua
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/LowestUniqueNumber.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/103%20-%20Lowest%20unique%20number/103.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/103%20-%20Lowest%20unique%20number/103.php

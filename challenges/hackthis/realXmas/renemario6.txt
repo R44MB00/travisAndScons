@@ -1,0 +1,1 @@
+1-> Enviamos una carta de prueba. 2-> Inyectamos un Null byte al mod.php y nos lleva al login form donde entramos con admin'or'1'='1, luego cargamos el codigo de la pagina a inyectar en los 3 archivos principales, index.php,submit.php y top.php.

@@ -1,0 +1,4 @@
+http://juancho056.blogspot.com.co/2016/01/enunciado-lot-harder-than-sms.html
+http://sebastiancort.es/blog/2016/10/27/canyouhack-it-a-lot-harder-than-sms/
+https://raw.githubusercontent.com/feix/ctf-writeup/master/canyouhackit/cryptography/solution6
+http://deurus.blogspot.com.co/2014/08/canyouhackit-crack6-challenge-lights.html

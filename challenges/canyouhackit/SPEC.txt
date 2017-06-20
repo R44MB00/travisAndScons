@@ -1,0 +1,14 @@
+
+- idioma: en
+- actualizacion: si
+- clasificacion: si
+- puntuaciont: 21450
+- puntuacionb: 10000
+- usuarios: 23850
+- vinculados: 569
+- retos: 93
+- media: 25.96%
+- dificultad: 75.00%
+- diversion: 100.00%
+- wechall: http://www.wechall.net/site/details/65/CanYouHack_It
+- url: http://canyouhack.it/

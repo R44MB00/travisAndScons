@@ -1,0 +1,25 @@
+# El titulo del commmit es el titulo del reto, sustituir la linea siguiente
+Titulo del reto
+
+# Luego la descripcion del reto debe contener la siguiente informacion:
+Site: Name
+Challenge code: 12
+
+Score
+  Initial: X, Final: Y, Progress: Y-X
+Global Rank
+  Initial: X, Final: Y, Progress: Y-X
+National Rank:
+  Initial: X, Final: Y, Progress: Y-X
+
+# Para que esta plantilla aparezca por cada commit puede ejecutar en el repo
+# el siguiente comando:
+# training$ git config --local commit.template templates/commit-msg.txt
+#
+# Recuerde ingresar un commit por cada solucion a cada reto y el
+# correspondiente numero de enlaces a soluciones de otros individuos.
+# Para ello es indispensable el uso del interactive staging.  A continuacion
+# algunos enlaces que le pueden ser de util para este proposito.
+#
+# https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging
+# http://alblue.bandlem.com/2011/10/git-tip-of-week-interactive-adding.html

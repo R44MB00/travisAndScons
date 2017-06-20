@@ -1,0 +1,1 @@
+A traves de ' OR 1=1-- accedemos como admin, luego recavamos informacion y nos pasamos a SuperAdmin, luego de indagar en las carpetas borramos la lista de objetivos.

@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/yuheiomori/2765371/raw/bed0a59d1ed7e0bd0e946920aac3a35372a1745f/number_pairs.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/number-pairs/Main.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/34%20-%20Number%20Pairs/34.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/34%20-%20Number%20Pairs/34.php

@@ -1,0 +1,1 @@
+Buscar el password dentro del directorio oculto .backup y en la archivo bookmarks.html buscar el usuario leviathan1 

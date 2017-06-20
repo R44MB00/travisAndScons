@@ -1,0 +1,1 @@
+http://halls-of-valhalla.org/challenges/xss/xss1/xss1.php

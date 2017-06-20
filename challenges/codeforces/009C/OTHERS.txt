@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/9C%20-%20Hexadecimal's%20Numbers/9C.cpp

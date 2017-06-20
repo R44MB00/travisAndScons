@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/alphabet_blocks.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/alphabet_blocks.json
+https://raw.githubusercontent.com/jtibbertsma/code-eval/master/alphabet-blocks/alphabet.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/alphabet_blocks.go

@@ -1,0 +1,10 @@
+https://github.com/p1o2p3u1/WeChall/blob/master/Training/ASCII.md
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-ascii.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20ASCII/README.md
+https://raw.githubusercontent.com/arma26/challenge/master/wechall.py
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/ASCII/Solution.py
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+https://gist.github.com/trietptm/5553757
+https://nopresearch.com/walkthroughs/wechall/training-ascii/
+http://sithlab.tistory.com/1093

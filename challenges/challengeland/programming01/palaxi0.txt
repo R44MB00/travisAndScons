@@ -1,0 +1,3 @@
+req = $.ajax({url: "Challenges/Programming/0b17c079deRequest", method: "POST", async: 0, success: function(e){  return e; } });
+result = req.responseText.split(" ")[1];
+$.ajax({url: "Challenges/Programming/0b17c079deResponse", method: "POST", data: {solve: result}, success: function(e) { console.log(e) } });

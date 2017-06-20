@@ -1,0 +1,4 @@
+
+Basic 4
+
+There's an option of send Sam an email with the password. So we change using javascript the destination of such an email to get it into our email. There we got the password.

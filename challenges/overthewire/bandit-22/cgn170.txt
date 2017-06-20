@@ -1,0 +1,1 @@
+Analizar el contenido del archivo  cat /etc/cron.d/cronjob_bandit22 y el script cat /usr/bin/cronjob_bandit22.sh para dar con la solucion

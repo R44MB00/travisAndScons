@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/time-to-eat/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TimeToEat/c/tte.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TimeToEat/cpp/tte.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TimeToEat/py2/toe.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TimeToEat/py3/toe.py

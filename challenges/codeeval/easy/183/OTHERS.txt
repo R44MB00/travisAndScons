@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/details/main.py
+https://raw.githubusercontent.com/joshimoo/Challenges/master/CodeEval/Easy/Details/Details.cs

@@ -1,0 +1,1 @@
+el texto usa un cifrado de rotacion para solucion el reto hice uso de una herramienta de crypto analisis

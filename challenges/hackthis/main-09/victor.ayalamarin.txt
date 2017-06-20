@@ -1,0 +1,1 @@
+Inspeccionando el elemento con FireBug, se cambia el correo de contacto para envio de contraseña en el codigo Html

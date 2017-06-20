@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/seek-for-an-intruder/main.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c137%20Seek%20for%20an%20Intruder.py

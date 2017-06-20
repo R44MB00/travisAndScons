@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/age-distribution/main.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/age-distribution/main.cpp
+https://raw.githubusercontent.com/SuhanKoh/CodeEval/master/Age%20Distribution/Main.java
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/AgeDistribution.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/152%20-%20Age%20distribution/152.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/152%20-%20Age%20distribution/152.php

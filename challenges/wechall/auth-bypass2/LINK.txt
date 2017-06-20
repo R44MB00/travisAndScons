@@ -1,0 +1,1 @@
+http://www.wechall.net/challenge/training/mysql/auth_bypass2/index.php

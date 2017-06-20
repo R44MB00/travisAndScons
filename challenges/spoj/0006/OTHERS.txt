@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/mohit-me/Spoj/master/ARITH-6332111-src.c

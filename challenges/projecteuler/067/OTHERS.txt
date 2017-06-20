@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem67.rs

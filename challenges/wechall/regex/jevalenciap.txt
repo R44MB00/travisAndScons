@@ -1,0 +1,9 @@
+REGEX:
+http://www.wechall.net/challenge/training/regex/index.phpSolución Test1
+/^$/
+Solución Test 2
+/^wechall$/
+Solución Test3
+/^wechall4?\.(?:jpg|gif|tiff|bmp|png)$/
+Solución test4
+/^(wechall4?)\.(?:jpg|gif|tiff|bmp|png)$/

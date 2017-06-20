@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: si
+- clasificacion: si
+- puntuaciont: 10057
+- puntuacionb: 5000
+- usuarios: 438
+- vinculados: 	306
+- retos: 49
+- media: 	38.45%
+- dificultad: 25.00%
+- diversion: 33.33%
+- wechall: http://www.wechall.net/site/details/63/Yoire
+- url: http://yoire.com/

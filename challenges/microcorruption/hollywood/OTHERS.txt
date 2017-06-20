@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/HO
+https://github.com/EganMatthew/Microcorruption-Solutions/blob/master/%2319%20Hollywood.md
+https://github.com/tux3/microcorruption/blob/master/hollywood/braindump.txt
+https://github.com/tux3/microcorruption/blob/master/hollywood/bruteforce.cpp
+https://github.com/tux3/microcorruption/blob/master/hollywood/hollywood_crypt.py
+https://github.com/tux3/microcorruption/blob/master/hollywood/hollywood_decrypted_analyze.py
+https://avanpo.github.io/2015/12/20/microcorruption-ctf-hollywood/

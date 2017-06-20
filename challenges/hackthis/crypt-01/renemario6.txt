@@ -1,0 +1,1 @@
+Se desencripta invirtiendo todo el texto.

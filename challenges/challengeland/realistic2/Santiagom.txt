@@ -1,0 +1,1 @@
+Inyección SQLi enumerando los usuarios para entrar con uno de mas privilegios

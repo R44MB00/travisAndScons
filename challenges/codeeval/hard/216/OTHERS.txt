@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/everything_or_nothing.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/everything_or_nothing.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/everything_or_nothing.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/everything_or_nothing.json

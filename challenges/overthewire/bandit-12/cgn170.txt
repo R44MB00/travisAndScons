@@ -1,0 +1,1 @@
+Usar el coma ndo tr para realizar la rotacion y obtener la clave cat data.txt |tr 'A-M N-Z a-m n-z' 'N-Z A-M n-z a-m'

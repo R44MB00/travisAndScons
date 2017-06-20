@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0185-glue-shredded-pieces/0185-glue-shredded-pieces.cpp
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0185-glue-shredded-pieces/0185-glue-shredded-pieces.py

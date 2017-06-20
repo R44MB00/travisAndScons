@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/poker-hands/main.py
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0086-poker-hands/0086-poker-hands.cpp
+https://raw.githubusercontent.com/jingcmu/codeeval/master/POKER%20HANDS.cpp
+https://raw.githubusercontent.com/sloganhmc/CodeEval/master/poker.cpp

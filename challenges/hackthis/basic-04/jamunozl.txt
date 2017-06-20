@@ -1,0 +1,1 @@
+ejecutamos nuevamente inspeccion de la url, vimos el campo de enviar correo y lo cambiamos por nuestro correo, entonces nos envio la contraseña 9aff7ec0

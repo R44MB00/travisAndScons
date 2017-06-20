@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/query-board/solution.rb
+https://gist.githubusercontent.com/UberMouse/5711602/raw/04bd43d9dd63b6135c05fd876a6cfa1e8c4ed6c5/QueryBoard.scala
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/87%20-%20Query%20Board/87.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/87%20-%20Query%20Board/87.php

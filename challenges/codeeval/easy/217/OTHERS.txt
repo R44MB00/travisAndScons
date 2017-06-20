@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/one-zero-two-zeros/main.py
+https://raw.githubusercontent.com/adambose1990/CodeEvalJavaSolutions/master/src/com/codeeval/easy/OneZeroTwoZero.java
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/c/oz.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/cpp/oz.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/py2/oztz.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/OneZeroTwoZero/py3/oz.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/OneZeroTwoZero.java

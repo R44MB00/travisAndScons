@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/yuheiomori/2760155/raw/fb8c3ce59b7b75f322ce6c2ff476aa9d76e9f94f/double_square.py
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/double_squares.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/33%20-%20Double%20squares/33.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/33%20-%20Double%20squares/33.php

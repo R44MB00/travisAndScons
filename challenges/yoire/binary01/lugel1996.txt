@@ -1,0 +1,5 @@
+-Copiar el chorrero de números en binario
+-Partirlo en numeros de 8 bits (256 números que coinciden con el código ASCII)
+-Pasar cada conjunto de 8 a decimales
+-Verificar el numero respectivo en el codigo ASCII
+-Escribir la respuesta

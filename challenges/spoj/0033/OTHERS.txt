@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/venkatrn/SPOJ/master/trip.cpp
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/TRIP.cpp

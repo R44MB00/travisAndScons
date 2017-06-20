@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/161%20-%20Game%20of%20life/161.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/161%20-%20Game%20of%20life/161.php

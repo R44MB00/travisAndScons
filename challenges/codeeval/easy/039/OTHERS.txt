@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/yuheiomori/2656552/raw/7609dfe2197ff5ef7ac0fbeb5542f9b1a5a02d81/happy_numbers.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/happy-numbers/Main.java
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/happy-numbers/js.js
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/happy-numbers/php.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/HappyNumbers.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/39%20-%20Happy%20numbers/39.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/39%20-%20Happy%20numbers/39.php

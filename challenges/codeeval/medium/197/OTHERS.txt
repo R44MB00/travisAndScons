@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ColumnNames/py2/cn.py

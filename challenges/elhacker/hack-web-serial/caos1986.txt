@@ -1,0 +1,11 @@
+Serial--Elhacker.net
+
+1.Vi el codigo fuente
+2.El boton tenia una funcion llamada ver()
+3.Utilize el depurador para ver como funcionaba esta funcion
+4.Entendi que la contraseña tenia que ser de 16 numeros, que guardaba el ultimo en un variable 
+y hacia un calculo con los otros 15
+5.Puse un # al azar utileze el depurador para ver cuanto daba el calculo 
+6.Volvi a ingresar el mismo numero pero en el ultimo digito puse el valor hallado en el paso 5.
+
+Contraseña: 1234567876543211

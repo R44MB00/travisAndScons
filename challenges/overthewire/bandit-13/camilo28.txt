@@ -1,0 +1,1 @@
+Uso de ssh keys para conectarse a otra maquina	scp  bandit13@178.79.134.250:/etc/bandit_pass/bandit14 ./; ssh -o sendEnv=WECHALLUSER -o sendEnv=WECHALLTOKEN -i ./sshkey.private bandit14@178.79.134.250

@@ -1,0 +1,7 @@
+canyouhackit      #domain down
+lostchall         #404 resp if not logged in
+ae27ff            #404 resp if challenge not unlocked
+smashthestack     #challenges are ips not links
+enigmagroup       #certificate error
+trythis0ne        #response time > 18seconds
+4clojure          #certificate mismatch error

@@ -1,0 +1,2 @@
+ La contraseña se almacena de nuevo en un archivo txt. Esta vez sin embargo, no es tan sencillo como ver la fuente. Ni siquiera se encontraría la página mediante un motor de búsqueda que se han excluido los robots de búsqueda.
+Como el motor de busqueda de google esta bloqueado, se busca en otro como Bing que ignora Disallow, y se entra a la ruta donde se encuentra el archivo con el usuario y clave

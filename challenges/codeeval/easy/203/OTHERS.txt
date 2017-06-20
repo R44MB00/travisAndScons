@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/c/saa.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/cpp/saa.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/py2/saa.py
+https://github.com/nikai3d/ce-challenges/blob/master/easy/strings_and_arrows.rb

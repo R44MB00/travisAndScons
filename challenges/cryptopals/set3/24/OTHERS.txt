@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c24.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/24/run.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/24/mersenne.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/24/stream_cipher.py

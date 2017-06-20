@@ -1,0 +1,2 @@
+Una gran cantidad de contenido interactivo en Internet se logra utilizando flash. Si Flash necesita comunicarse con un servidor lo hace de la misma manera una página normal haría.
+Se intala el complemento Tamper Data en FireFox y  se va a la barra de menu>herramientas>Tamper Data> Comenzar modificación> Modificar y cambia el resultado.

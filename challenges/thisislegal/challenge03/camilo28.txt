@@ -1,0 +1,1 @@
+El servidor es vulnerable a ataques RFI, lo que permitió instalar una web shell (c99) a traves de la vulnerabilidad

@@ -1,0 +1,45 @@
+import requests
+
+def getDict(d):
+    di={}
+    for i in d:
+        if i in di:
+            di[str(i)]+=1
+        else:
+            di[str(i)]=1
+    return di
+
+def compDict(d1,d2):
+    for key in d1:
+        if key not in d2:
+            return 0
+        else:
+            if d1[key]!=d2[key]:
+                return 0
+    return 1
+
+def getLen(x,l):
+    return [i for i in l if len(i)==x]
+
+def getMatch(s,l):
+    ds=getDict(s)
+    for i in l:
+        dl=getDict(i)
+        if compDict(ds,dl):
+            return i
+    return "Not Found"
+
+cookies = dict(PHPSESSID='',enigmafiedV4='')
+r=requests.get("http://www.enigmagroup.org/missions/programming/6/keywords.txt",cookies=cookies)
+l=r.text.split("\r\n")
+l=sorted(l, key=len)
+r=requests.get("http://www.enigmagroup.org/missions/programming/6/",cookies=cookies)
+dl=r.text[r.text.find("<p class=\"style7\">")+18:r.text.find("</p>",r.text.find("<p class=\"style7\">"))].split("<br />")
+a=""
+for i in dl:
+    i=i.replace("\n","")
+    if i=="":
+        continue
+    a+=getMatch(i,getLen(len(i),l))+","
+print a[:-1]
+payload={'anagram':a[:-1],'submit':'true'}

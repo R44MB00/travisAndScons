@@ -1,0 +1,2 @@
+Log in as administrator using the login box below. This is the simplest of SQL challenges and can be done in a number of ways. Don't over think this.
+Solución: Se realiza SQLi inyección usando usuario: 'or '1'='1 y los mismo de password

@@ -1,0 +1,2 @@
+https://alexandervoidstar.wordpress.com/2015/09/20/hackthis-javascript-level-5/
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/HackThis/Javascript-5/Solution.txt

@@ -1,0 +1,1 @@
+Directory traversal a la pagina del admin, está protegida contra autenticacion, usando un RFI se abre el archivo .httpasswd y se crackea la contraseña

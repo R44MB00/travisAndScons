@@ -1,0 +1,1 @@
+Expresiones regulares	strings ./data.txt  | grep =

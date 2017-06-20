@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/362B%20-%20Petya%20and%20Staircases/362B.cpp

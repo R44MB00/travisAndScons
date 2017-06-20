@@ -1,0 +1,1 @@
+Se descargo la pagina completa y se inserto un formulario POST con la variable password y su respuesta para pasar el nivel.

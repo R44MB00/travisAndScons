@@ -1,0 +1,27 @@
+http://www.enigmagroup.org/missions/programming/1/
+
+# -*- coding: utf-8 -*-
+import requests
+payload = {'ip': '200.116.65.171', 'username': 'caos1986'}
+cookies = dict(PHPSESSID='4p6m3rv5afv48rus9bs55lhgj5',enigmafiedV4='a%3A4%3A%7Bi%3A0%3Bs%3A5%3A%2280486%22%3Bi%3A1%3Bs%3A40%3A%22d51a1d67910d5b7d3767d628ec99d84cbf02a623%22%3Bi%3A2%3Bi%3A1619810396%3Bi%3A3%3Bi%3A2%3B%7D',mission='yes')
+r=requests.get("http://www.enigmagroup.org/missions/programming/1/",cookies=cookies)
+print(r.text)
+r=requests.post("http://www.enigmagroup.org/missions/programming/1/",cookies=cookies,data=payload)
+print(r.text)
+
+http://www.enigmagroup.org/missions/programming/1/
+
+# -*- coding: utf-8 -*-
+import requests
+
+cookies = dict(PHPSESSID='4p6m3rv5afv48rus9bs55lhgj5',enigmafiedV4='a%3A4%3A%7Bi%3A0%3Bs%3A5%3A%2280486%22%3Bi%3A1%3Bs%3A40%3A%22d51a1d67910d5b7d3767d628ec99d84cbf02a623%22%3Bi%3A2%3Bi%3A1619810396%3Bi%3A3%3Bi%3A2%3B%7D',mission='yes')
+r=requests.get("http://www.enigmagroup.org/missions/programming/2/index.php",cookies=cookies)
+n=int(r.text[r.text.find("E[number]")+18:r.text.find("\"",r.text.find("E[number]")+18)])
+a=n*4
+h=r.text[r.text.find("hash")+13:r.text.find("\"",r.text.find("hash")+18)]
+t=int(r.text[r.text.find("E[time]")+16:r.text.find("\"",r.text.find("E[time]")+18)])
+payload = {'answer': str(a), 'hash': str(h),'E[number]':str(n),'E[time]':t, 'submit':''}
+print r.text
+print n,a,h,t
+r=requests.post("http://www.enigmagroup.org/missions/programming/2/",cookies=cookies,data=payload)
+print(r.text)

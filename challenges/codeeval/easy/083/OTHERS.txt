@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/beautiful-strings/Main.java
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/beautiful_strings.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/83%20-%20Beautiful%20strings/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/83%20-%20Beautiful%20strings/main.php

@@ -1,0 +1,1 @@
+Con el Debug del navegador se pudo ver el comportamiento de las funciones js, las credenciales estaban en un script adjunto

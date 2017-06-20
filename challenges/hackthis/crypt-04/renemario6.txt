@@ -1,0 +1,1 @@
+Se desencripta con el algoritmo de sustitucion simple.

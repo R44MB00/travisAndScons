@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/type-ahead/main.py
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/type-ahead.py
+https://raw.githubusercontent.com/adamgriffis/code-eval-solutions/master/type-ahead/test.rb

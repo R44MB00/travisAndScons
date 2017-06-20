@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/119%20-%20Chain%20Inspection/119.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/119%20-%20Chain%20Inspection/119.php

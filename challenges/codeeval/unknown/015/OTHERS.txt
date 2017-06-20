@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/endian.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/endian.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/endian.clj
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/endian.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/endian.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/endian.rb
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/endianness.hs
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/endianness/Main.java
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Endianness/c/endianness.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Endianness/py2/endian.py

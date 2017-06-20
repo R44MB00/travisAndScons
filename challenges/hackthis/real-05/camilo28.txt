@@ -1,0 +1,1 @@
+La aplicación tenia un directorio para el administrador sin ninguna protección, la única protección es que la contraseña estaba hasheada, pero era una trivialidad decifrarla con http://hashkiller.co.uk/

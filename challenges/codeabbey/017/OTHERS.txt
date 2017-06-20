@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id017-Array_Checksum.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Array%20Checksum.cpp
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/ArrayChecksum.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/array_checksum.rb
+

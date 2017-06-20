@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/EvenNumbers.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/EvenNumbers.py
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/even_numbers.py2
+https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/EvenNumbers.hs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/EvenNumber.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/100%20-%20Even%20numbers/100.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/100%20-%20Even%20numbers/100.php

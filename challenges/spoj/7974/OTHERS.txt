@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/madhurbhargava/SPOJ-Solutions/master/ACPC10A.java
+https://raw.githubusercontent.com/mintuhouse/spoj-solutions/master/7974-acpc10a.cpp

@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Prime%20Numbers%20Generation%20.cpp
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Prime%20Numbers%20Generation
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id061-Prime_Numbers_Generation.py
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2061/Problem%2061.cpp

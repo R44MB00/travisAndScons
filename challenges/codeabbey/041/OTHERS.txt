@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Median%20of%20Three/src/Main.java
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id041-Median_of_Three.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Median%20of%20Three
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2041/Problem%2041.cpp
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Median%20of%20Three%20.cpp
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/MedianOfThree.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/median_of_three.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem041/Program.cs

@@ -1,0 +1,13 @@
+- idioma: es
+- actualizacion: si
+- clasificacion: si
+- puntuaciont: 20003
+- puntuacionb: 10000
+- usuarios: 1950
+- vinculados: 20
+- retos: 101
+- media: 40.29%
+- dificultad: 50.00%
+- diversion: 75.00%
+- wechall: http://www.wechall.net/site/details/40/World_of_Wargame
+- url: https://wow.sinfocol.org/

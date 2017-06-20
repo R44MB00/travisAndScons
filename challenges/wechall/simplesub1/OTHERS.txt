@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Crypto/Crypto%20-%20Simple%20Substitution%20I.js

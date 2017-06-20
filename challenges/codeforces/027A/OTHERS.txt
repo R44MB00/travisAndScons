@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/27A%20-%20Next%20Test/27A.cpp
+https://raw.githubusercontent.com/fuwutu/CodeForces/master/27A%20-%20Next%20Test.py

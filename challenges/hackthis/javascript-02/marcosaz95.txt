@@ -1,0 +1,1 @@
+Javascript 2: con Ctrl + u se busca el password que es igual a length que por medio de cálculos matemáticos se encuentra el valor de este.

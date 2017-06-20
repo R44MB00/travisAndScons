@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/75%20-%20Flavius%20josephus/75.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/75%20-%20Flavius%20josephus/75.php

@@ -1,0 +1,1 @@
+Ejecutar el siguiente comando para leer el archivo readme con la contrase#a ssh bandit18@bandit.labs.overthewire.org "cat readme"

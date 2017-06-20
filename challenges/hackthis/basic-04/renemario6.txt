@@ -1,0 +1,1 @@
+Bajar imagen y buscar usuario y clave (la clave no esta explicita).

@@ -1,0 +1,1 @@
+el archivo del password del siguiente nivel tiene un cifrado de rotacion de 13 caracteres, se puede romper con el siguiente comando en bash  cat krypton2 |tr '[A-Za-z]' '[N-ZA-Mn-za-m]' y se realiza la rotacion con tr

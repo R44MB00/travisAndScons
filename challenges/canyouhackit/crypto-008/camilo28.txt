@@ -1,0 +1,1 @@
+Se uso un cifrado por sustitución, para decifrarlo fue necesario verificar la frecuencia de aparición de cada letra en la palabra y asi formar el nuevo texto

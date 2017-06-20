@@ -1,0 +1,13 @@
+- idioma: es
+- actualizacion: yes
+- clasificacion: yes
+- puntuaciont: 22114
+- puntuacionb: 10000
+- usuarios: 25078
+- vinculados: 295
+- retos: 56
+- media: 6.02%
+- dificultad: 72.22%
+- diversion: 66.67%
+- wechall: http://www.wechall.net/site/details/20/elhacker_net
+- url: http://warzone.elhacker.net/

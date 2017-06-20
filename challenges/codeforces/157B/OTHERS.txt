@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/157B%20-%20Trace/157B.cpp

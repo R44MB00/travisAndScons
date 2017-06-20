@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/stepwise-word/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StepwiseWord/c/saa.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StepwiseWord/cpp/saa.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StepwiseWord/py2/sw.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StepwiseWord/py3/sw.py

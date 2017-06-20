@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Yacht%20or%20Dice%20Poker
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id075-Yacht_or_Dice_Poker.py

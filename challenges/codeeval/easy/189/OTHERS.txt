@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/minimum-distance/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MinimumDistance/c%23/MinimumDistance.cs
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MinimumDistance/c/md.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MinimumDistance/cpp/md.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MinimumDistance/py2/md.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/MinimumDistance/py3/md.py

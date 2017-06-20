@@ -1,0 +1,1 @@
+Buscando entre la url el archivo txt, descrito en la codigo fuente, se obtiene un par de hash con la ayuda de la pagina https://md5hashing.net/ se logra decodificar los hash sha256

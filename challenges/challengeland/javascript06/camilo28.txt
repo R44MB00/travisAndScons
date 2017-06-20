@@ -1,0 +1,1 @@
+Las credenciales estaban ofuscado en un archivo .js fue necesario reproducir parte del código y obtener otra porción de código en donde estaban las credenciales cifradas en DES 128 

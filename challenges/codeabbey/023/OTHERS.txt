@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id023-Bubble_in_Array.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Bubble%20in%20Array%20.cpp
+https://www.reddit.com/r/learnprogramming/comments/56y2al/ccodeabbey_problem23_palindromes/
+https://ideone.com/uj458m
+https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Bubble%20in%20Array

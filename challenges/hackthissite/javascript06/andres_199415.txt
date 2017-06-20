@@ -1,0 +1,17 @@
+Reto 6 javaScript Hackthissite
+dairycow="moo";
+moo = "pwns";
+rawr = "moo";
+
+function checkpass(pass)
+{
+if(pass == rawr+" "+moo)
+{	
+alert("How did you do that??? Good job!");
+window.location = "../../../missions/javascript/6/?lvl_password="+pass;
+} else {
+alert("Nope, try again");
+}
+}
+
+La respuesta es: "moo pwns"

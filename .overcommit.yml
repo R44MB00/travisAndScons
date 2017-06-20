@@ -1,0 +1,981 @@
+# Default configuration that all Overcommit configurations inherit from.
+#
+# This is an opinionated list of which hooks are valuable to run and what their
+# out-of-the-box settings should be.
+#------------------------------------------------------------------------------
+
+# Loads Bundler context from a Gemfile. If false, does nothing (default).
+#
+# Specifying a Gemfile for Bundler to load allows you to control which gems are
+# available in the load path (i.e. loadable via `require`) within your hook
+# runs. Note that having a Gemfile requires you to include `overcommit` itself
+# in your Gemfile (otherwise Overcommit can't load itself!).
+#
+# This is useful if you want to:
+#
+#   - Enforce a specific version of Overcommit to use for all hook runs
+#     (or to use a version from the master branch that has not
+# been released yet)
+#   - Enforce a specific version or unreleased branch
+# is used for a gem you want
+#     to use in your git hooks
+#
+# WARNING: This makes your hook runs slower, but you can work around this!
+#
+# Loading a Bundler context necessarily adds a startup delay to your hook runs
+# as Bundler parses the Gemfile and checks that the dependencies are satisfied.
+# Thus for projects with many gems this can introduce a noticeable delay.
+#
+# The recommended workaround is to create a separate Gemfile
+# in the root of your
+# repository (call it `.overcommit_gems.rb`), and include only the gems that
+# your Overcommit hooks need in order to run. This significantly reduces the
+# startup delay in your hook runs. Make sure to commit both
+# `.overcommit_gems.rb` and the resulting `.overcommit_gems.rb.lock` file to
+# your repository, and then set the `gemfile` option below to the name you gave
+# the file.
+# (Generate lock file by running `bundle install
+#  --gemfile=.overcommit_gems.rb`)
+gemfile: false
+
+# Where to store hook plugins specific to a repository. These are loaded in
+# addition to the default hooks Overcommit comes with. The location is relative
+# to the root of the repository.
+plugin_directory: '.git-hooks'
+
+# Whether to hide hook output by default. This results in completely silenthook
+# runs except in the case of warning or failure.
+quiet: false
+
+# Number of hooks that can be run concurrently. Typically this won't need to be
+# adjusted, but if you know that some of your hooks themselves use multiple
+# processors you can lower this value accordingly. You can define
+# single-operator mathematical expressions, e.g. '%{processors} * 2', or
+# '%{processors} / 2'.
+concurrency: '%{processors}'
+
+# Whether to check if a hook plugin has changed since Overcommit last ran it.
+# This is a defense mechanism when working with repositories which can contain
+# untrusted code (e.g. when you fetch a pull request from a third party).
+# See https://github.com/brigade/overcommit#security for more information.
+verify_signatures: true
+
+# Hooks that are run against every commit message after a user has written it.
+# These hooks are useful for enforcing policies on commit messages
+# written for a
+# project.
+CommitMsg:
+  ALL:
+    requires_files: false
+    quiet: false
+
+  CapitalizedSubject:
+    enabled: true
+    on_warn: fail
+    description: 'Check subject capitalization'
+
+  EmptyMessage:
+    enabled: true
+    description: 'Check for empty commit message'
+    quiet: true
+
+  GerritChangeId:
+    enabled: false
+    description: 'Ensure Gerrit Change-Id is present'
+    required: true
+
+  HardTabs:
+    enabled: true
+    on_warn: fail
+    description: 'Check for hard tabs'
+
+  MessageFormat:
+    enabled: false
+    description: 'Check commit message matches expected pattern'
+    pattern: '(.+)[|](.+)[|](.+)'
+    expected_pattern_message: '<Issue Id> | <Commit Message Description>
+    | <Developer(s)>'
+    sample_message: 'DEFECT-1234 | Refactored Onboarding flow | John Doe'
+
+  RussianNovel:
+    enabled: true
+    description: 'Check length of commit message'
+    quiet: true
+
+  SingleLineSubject:
+    enabled: true
+    description: 'Check subject line'
+
+  SpellCheck:
+    enabled: false
+    description: 'Check for misspelled words'
+    required_executable: 'hunspell'
+    flags: ['-a']
+
+  TextWidth:
+    enabled: true
+    description: 'Check text width'
+    max_subject_width: 50
+    max_body_width: 63
+
+  TrailingPeriod:
+    enabled: true
+    description: 'Check for trailing periods in subject'
+
+  Commitplease:
+    enabled: false
+    description: 'Analyze with Commitplease'
+    required_executable: './node_modules/.bin/commitplease'
+    install_command: 'npm install --save-dev commitplease'
+
+# Hooks that are run after `git commit` is executed, before the commit message
+# editor is displayed. These hooks are ideal for syntax checkers, linters, and
+# other checks that you want to run before you allow a commit object to be
+# created.
+PreCommit:
+  ALL:
+    problem_on_unmodified_line: report
+    requires_files: true
+    required: false
+    quiet: false
+
+  LineLength:
+    enabled: true
+    on_warn: fail
+    description: Checking for length of lines
+    max: 81
+    exclude:
+      - '**/*.js'
+      - '**/*.xml'
+      - '**/*.xsl'
+      - '**/*.gif'
+      - '**/*.jpg'
+      - '**/*.png'
+      - '**/*.bmp'
+
+
+  AuthorEmail:
+    enabled: true
+    description: 'Check author email'
+    requires_files: false
+    required: true
+    quiet: true
+    pattern: '^[^@]+@.*$'
+
+  AuthorName:
+    enabled: true
+    description: 'Check for author name'
+    requires_files: false
+    required: true
+    quiet: true
+
+  BerksfileCheck:
+    enabled: false
+    description: 'Check Berksfile lock'
+    required_executable: 'berks'
+    flags: ['list', '--quiet']
+    install_command: 'gem install berks'
+    include:
+      - 'Berksfile'
+      - 'Berksfile.lock'
+
+  BrokenSymlinks:
+    enabled: true
+    description: 'Check for broken symlinks'
+    quiet: true
+
+  BundleAudit:
+    enabled: false
+    description: 'Check for vulnerable versions of gems'
+    required_executable: 'bundle-audit'
+    install_command: 'gem install bundler-audit'
+
+  BundleCheck:
+    enabled: false
+    description: 'Check Gemfile dependencies'
+    required_executable: 'bundle'
+    flags: ['check']
+    install_command: 'gem install bundler'
+    include:
+      - 'Gemfile'
+      - 'Gemfile.lock'
+      - '*.gemspec'
+
+  BundleOutdated:
+    enabled: false
+    description: 'List installed gems with newer versions available'
+    required_executable: 'bundle'
+    flags: ['outdated', '--strict', '--parseable']
+    install_command: 'gem install bundler'
+
+  CaseConflicts:
+    enabled: true
+    description: 'Check for case-insensitivity conflicts'
+    quiet: true
+
+  ChamberSecurity:
+    enabled: false
+    description: 'Check that settings have been secured with Chamber'
+    required_executable: 'chamber'
+    flags: ['secure', '--files']
+    install_command: 'gem install chamber'
+    include:
+      - 'config/settings.yml'
+      - 'config/settings/**/*.yml'
+
+  CoffeeLint:
+    enabled: false
+    description: 'Analyze with coffeelint'
+    required_executable: 'coffeelint'
+    flags: ['--reporter=csv']
+    install_command: 'npm install -g coffeelint'
+    include: '**/*.coffee'
+
+  Credo:
+    enabled: false
+    description: 'Analyze with credo'
+    required_executable: 'mix'
+    flags: ['credo', '--all', '--strict', '--format', 'flycheck']
+    include:
+      - '**/*.ex'
+      - '**/*.exs'
+
+  CssLint:
+    enabled: false
+    description: 'Analyze with csslint'
+    required_executable: 'csslint'
+    flags: ['--quiet', '--format=compact']
+    install_command: 'npm install -g csslint'
+    include: '**/*.css'
+
+  Dogma:
+    enabled: false
+    description: 'Analyze with dogma'
+    required_executable: 'mix'
+    flags: ['dogma']
+    include:
+      - '**/*.ex'
+      - '**/*.exs'
+
+  EsLint:
+    enabled: false
+    description: 'Analyze with ESLint'
+    required_executable: 'eslint'
+    flags: ['--format=compact']
+    install_command: 'npm install -g eslint'
+    include: '**/*.js'
+
+  ExecutePermissions:
+    enabled: false
+    description: 'Check for file execute permissions'
+    quiet: true
+
+  Fasterer:
+    enabled: false
+    description: 'Analyzing for potential speed improvements'
+    required_executable: 'fasterer'
+    install_command: 'gem install fasterer'
+    include: '**/*.rb'
+
+  FixMe:
+    enabled: false
+    description: 'Check for "token" strings'
+    required_executable: 'grep'
+    flags: ['-IEHnw']
+    keywords: ['BROKEN', 'BUG', 'ERROR',
+'FIXME', 'HACK', 'NOTE', 'OPTIMIZE',
+'REVIEW', 'TODO', 'WTF', 'XXX']
+
+  Foodcritic:
+    enabled: false
+    description: 'Analyze with Foodcritic'
+    required_executable: 'foodcritic'
+    flags: ['--epic-fail=any']
+    install_command: 'gem install foodcritic'
+
+  ForbiddenBranches:
+    enabled: false
+    description: 'Check for commit to forbidden branch'
+    quiet: true
+    branch_patterns: ['master']
+
+  GjsLint:
+    enabled: true
+    on_warn: fail
+    description: 'Analyze with GjsLint'
+    required_executable: 'gjslint'
+    flags: ['']
+    install_command: 'npm install -g gjslint'
+    include: '**/*.js'
+
+  GoLint:
+    enabled: false
+    description: 'Analyze with golint'
+    required_executable: 'golint'
+    install_command: 'go get github.com/golang/lint/golint'
+    include: '**/*.go'
+
+  GoVet:
+    enabled: false
+    description: 'Analyze with go vet'
+    required_executable: 'go'
+    flags: ['tool', 'vet']
+    install_command: 'go get golang.org/x/tools/cmd/vet'
+    include: '**/*.go'
+
+  HamlLint:
+    enabled: false
+    description: 'Analyze with haml-lint'
+    required_executable: 'haml-lint'
+    install_command: 'gem install haml-lint'
+    include: '**/*.haml'
+
+  HardTabs:
+    enabled: true
+    on_warn: fail
+    description: 'Check for hard tabs'
+    quiet: true
+    required_executable: 'grep'
+    flags: ['-IHn', "\t"]
+
+  Hlint:
+    enabled: true
+    on_warn: fail
+    description: 'Analyze with hlint'
+    required_executable: 'hlint'
+    install_command: 'sudo cabal install hlint'
+    include: '**/*.hs'
+
+  HtmlHint:
+    enabled: false
+    description: 'Analyze with HTMLHint'
+    required_executable: 'htmlhint'
+    install_command: 'npm install -g htmlhint'
+    include: '**/*.html'
+
+  HtmlTidy:
+    enabled: false
+    description: 'Analyze HTML with tidy'
+    required_executable: 'tidy'
+    flags: ['-errors', '-quiet', '-utf8']
+    include: '**/*.html'
+
+  ImageOptim:
+    enabled: false
+    description: 'Check for optimizable images'
+    required_executable: 'image_optim'
+    install_command: 'gem install image_optim'
+    include:
+      - '**/*.gif'
+      - '**/*.jpeg'
+      - '**/*.jpg'
+      - '**/*.png'
+      - '**/*.svg'
+
+  JavaCheckstyle:
+    enabled: true
+    description: 'Analyze with checkstyle'
+    required_executable: 'checkstyle'
+    #flags: ['-c', '/usr/share/checkstyle/sun_checks.xml']
+    flags: ['-c', './.git-hooks/checkstyle/sun_checks.xml']
+    include: '**/*.java'
+
+  Jscs:
+    enabled: false
+    description: 'Analyze with JSCS'
+    required_executable: 'jscs'
+    flags: ['--reporter=inline']
+    install_command: 'npm install -g jscs'
+    include: '**/*.js'
+
+  JsHint:
+    enabled: false
+    on_warn: fail
+    description: 'Analyze with JSHint'
+    required_executable: 'jshint'
+    flags: ['--verbose']
+    install_command: 'npm install -g jshint'
+    include: '**/*.js'
+
+  JsLint:
+    enabled: false
+    description: 'Analyze with JSLint'
+    required_executable: 'jslint'
+    flags: ['--terse']
+    install_command: 'npm install -g jslint'
+    include: '**/*.js'
+
+  Jsl:
+    enabled: false
+    description: 'Analyze with JSL'
+    required_executable: 'jsl'
+    flags: ['-nologo', '-nofilelisting', '-nocontext', '-nosummary']
+    include: '**/*.js'
+
+  JsonSyntax:
+    enabled: false
+    description: 'Validate JSON syntax'
+    required_library: 'json'
+    install_command: 'gem install json'
+    include: '**/*.json'
+
+  LicenseHeader:
+    enabled: false
+    license_file: 'LICENSE.txt'
+    description: 'Check source files for license headers'
+
+  LocalPathsInGemfile:
+    enabled: false
+    description: 'Check for local paths in Gemfile'
+    required_executable: 'grep'
+    flags: ['-IHnE', "^[^#]*((\\bpath:)|(:path[ \t]*=>))"]
+    include: '**/Gemfile'
+
+  Mdl:
+    enabled: false
+    description: 'Analyze with mdl'
+    required_executable: 'mdl'
+    install_command: 'gem install mdl'
+    include: '**/*.md'
+
+  MergeConflicts:
+    enabled: true
+    description: 'Check for merge conflicts'
+    quiet: true
+    required_executable: 'grep'
+    flags: ['-IHn', "^<<<<<<<[ \t]"]
+
+  NginxTest:
+    enabled: false
+    description: 'Test nginx configs'
+    required_executable: 'nginx'
+    flags: ['-t']
+    include: '**/nginx.conf'
+
+  Pep257:
+    enabled: false
+    description: 'Analyze docstrings with pep257'
+    required_executable: 'pep257'
+    install_command: 'pip install pep257'
+    include: '**/*.py'
+
+  Pep8:
+    enabled: false
+    description: 'Analyze with pep8'
+    required_executable: 'pep8'
+    install_command: 'pip install pep8'
+    include: '**/*.py'
+
+  PuppetLint:
+    enabled: false
+    description: 'Analyze with puppet-lint'
+    required_executable: 'puppet-lint'
+    install_command: 'gem install puppet-lint'
+    flags:
+      - '--log-format="%{fullpath}:%{line}:
+        %{column}:%{KIND}: %{message} (%{check})"'
+      - '--fail-on-warnings'
+      - '--error-level=all'
+    include: '**/*.pp'
+
+  Pyflakes:
+    enabled: false
+    description: 'Analyze with pyflakes'
+    required_executable: 'pyflakes'
+    install_command: 'pip install pyflakes'
+    include: '**/*.py'
+
+  Pylint:
+    enabled: true
+    on_warn: fail
+    description: 'Analyze with Pylint'
+    required_executable: 'pylint'
+    install_command: 'pip install pylint'
+    flags:
+      - '--msg-template="{path}:{line}:{C}: {msg} ({symbol})"'
+      - '--reports=n'
+      - '--persistent=n'
+    include: '**/*.py'
+
+  PythonFlake8:
+    enabled: true
+    on_warn: fail
+    description: 'Analyze with flake8'
+    required_executable: 'flake8'
+    install_command: 'pip install flake8'
+    include: '**/*.py'
+
+  RailsBestPractices:
+    enabled: false
+    description: 'Analyze with RailsBestPractices'
+    required_executable: 'rails_best_practices'
+    flags: ['--without-color']
+    install_command: 'gem install rails_best_practices'
+
+  RailsSchemaUpToDate:
+    enabled: false
+    description: 'Check if database schema is up to date'
+    include:
+      - 'db/migrate/*.rb'
+      - 'db/schema.rb'
+      - 'db/structure.sql'
+
+  Reek:
+    enabled: false
+    description: 'Analyze with Reek'
+    required_executable: 'reek'
+    flags: ['--single-line', '--no-color']
+    install_command: 'gem install reek'
+    include:
+      - '**/*.gemspec'
+      - '**/*.rake'
+      - '**/*.rb'
+      - '**/Gemfile'
+      - '**/Rakefile'
+
+  RuboCop:
+    enabled: false
+    description: 'Analyze with RuboCop'
+    required_executable: 'rubocop'
+    flags: ['--format=emacs', '--force-exclusion', '--display-cop-names']
+    install_command: 'gem install rubocop'
+    include:
+      - '**/*.gemspec'
+      - '**/*.rake'
+      - '**/*.rb'
+      - '**/*.ru'
+      - '**/Gemfile'
+      - '**/Rakefile'
+
+  RubyLint:
+    enabled: true
+    description: 'Analyze with ruby-lint'
+    required_executable: 'ruby-lint'
+    flags: ['--presenter=syntastic', '--levels=error,warning']
+    install_command: 'gem install ruby-lint'
+    include:
+      - '**/*.gemspec'
+      - '**/*.rb'
+
+  Scalariform:
+    enabled: false
+    description: 'Check formatting with Scalariform'
+    required_executable: 'scalariform'
+    flags: ['--test']
+    include: '**/*.scala'
+
+  Scalastyle:
+    enabled: false
+    description: 'Analyze with Scalastyle'
+    required_executable: 'scalastyle'
+    include: '**/*.scala'
+
+  ScssLint:
+    enabled: false
+    description: 'Analyze with scss-lint'
+    required_library: 'json'
+    required_executable: 'scss-lint'
+    flags: ['--format', 'JSON']
+    install_command: 'gem install scss-lint'
+    include: '**/*.scss'
+
+  SemiStandard:
+    enabled: false
+    description: 'Analyze with semistandard'
+    required_executable: 'semistandard'
+    flags: ['--verbose']
+    install_command: 'npm install -g semistandard'
+    include: '**/*.js'
+
+  ShellCheck:
+    enabled: true
+    on_warn: fail
+    description: 'Analyze with ShellCheck'
+    required_executable: 'shellcheck'
+    flags: ['--format=gcc']
+    include: '**/*.sh'
+
+  SlimLint:
+    enabled: false
+    description: 'Analyze with slim-lint'
+    required_executable: 'slim-lint'
+    install_command: 'gem install slim_lint'
+    include: '**/*.slim'
+
+  Splint:
+    enabled: true
+    on_warn: fail
+    description: 'Analizando con splint'
+    required_executable: 'splint'
+    flags: ['-weak']
+    include:
+      - '**/*.c'
+      - '**/*.h'
+      - '**/*.lcl'
+
+  Sqlint:
+    enabled: false
+    description: 'Analyze with sqlint'
+    required_executable: 'sqlint'
+    install_command: 'gem install sqlint'
+    include: '**/*.sql'
+
+  Standard:
+    enabled: false
+    description: 'Analyze with standard'
+    required_executable: 'standard'
+    flags: ['--verbose']
+    install_command: 'npm install -g standard'
+    include: '**/*.js'
+
+  TsLint:
+      enabled: false
+      description: 'Analyze with TSLint'
+      required_executable: 'tslint'
+      install_command: 'npm install -g tslint typescript'
+      flags: ['--t=prose']
+      include: '**/*.ts'
+
+  TrailingWhitespace:
+    enabled: true
+    on_warn: fail
+    description: 'Check for trailing whitespace'
+    required_executable: 'grep'
+    flags: ['-IHn', "[ \t]$"]
+
+  TravisLint:
+    enabled: false
+    description: 'Check Travis CI configuration'
+    required_executable: 'travis'
+    flags: ['lint']
+    install_command: 'gem install travis'
+    include: '.travis.yml'
+
+  Vint:
+    enabled: false
+    description: 'Analyze with Vint'
+    required_executable: 'vint'
+    install_command: 'pip install vim-vint'
+    include:
+      - '**/*.vim'
+      - '**/*.vimrc'
+
+  W3cCss:
+    enabled: false
+    description: 'Analyze with W3C CSS validation service'
+    required_library: 'w3c_validators'
+    install_command: 'gem install w3c_validators'
+    validator_uri: 'http://jigsaw.w3.org/css-validator/validator'
+    language: 'en'
+    profile: 'css3'
+    warn_level: 2
+    include:
+      - '**/*.css'
+
+  W3cHtml:
+    enabled: false
+    description: 'Analyze with W3C HTML validation service'
+    required_library: 'w3c_validators'
+    install_command: 'gem install w3c_validators'
+    validator_uri: 'http://validator.w3.org/check'
+    charset: 'utf-8'
+    doctype: 'HTML5'
+    include:
+      - '**/*.html'
+
+  LineEndings:
+    description: 'Check line endings'
+    enabled: false
+    eol: "\n" # or "\r\n" for Windows-style newlines
+
+  XmlLint:
+    enabled: false
+    description: 'Analyze with xmllint'
+    required_executable: 'xmllint'
+    flags: ['--noout']
+    include:
+      - '**/*.xml'
+      - '**/*.svg'
+
+  XmlSyntax:
+    enabled: false
+    description: 'Check XML syntax'
+    required_library: 'rexml/document'
+    include:
+      - '**/*.xml'
+      - '**/*.svg'
+
+  YamlLint:
+    enabled: false
+    description: 'Analyze with YAMLlint'
+    required_executable: 'yamllint'
+    flags: ['--format=parsable']
+    install_command: 'pip install yamllint'
+    include:
+      - '**/*.yaml'
+      - '**/*.yml'
+
+  YamlSyntax:
+    enabled: false
+    description: 'Check YAML syntax'
+    required_library: 'yaml'
+    include:
+      - '**/*.yaml'
+      - '**/*.yml'
+
+# Hooks that run after HEAD changes or a file is explicitly checked out.
+PostCheckout:
+  ALL:
+    required: false
+    quiet: false
+    skip_file_checkout: true
+
+  BowerInstall:
+    enabled: false
+    description: 'Install bower dependencies'
+    requires_files: true
+    required_executable: 'bower'
+    install_command: 'npm install -g bower'
+    flags: ['install']
+    include: 'bower.json'
+
+  BundleInstall:
+    enabled: false
+    description: 'Install Bundler dependencies'
+    requires_files: true
+    required_executable: 'bundle'
+    install_command: 'gem install bundler'
+    flags: ['install']
+    include:
+      - 'Gemfile'
+      - 'Gemfile.lock'
+      - '*.gemspec'
+
+  IndexTags:
+    enabled: false
+    description: 'Generate tags file from source'
+    quiet: true
+    required_executable: 'ctags'
+
+  NpmInstall:
+    enabled: false
+    description: 'Install NPM dependencies'
+    requires_files: true
+    required_executable: 'npm'
+    flags: ['install']
+    include:
+      - 'package.json'
+      - 'npm-shrinkwrap.json'
+
+  SubmoduleStatus:
+    enabled: false
+    description: 'Check submodule status'
+    quiet: true
+    recursive: false
+
+# Hooks that run after a commit is created.
+PostCommit:
+  ALL:
+    requires_files: false
+    required: false
+    quiet: false
+
+  BowerInstall:
+    enabled: false
+    description: 'Install bower dependencies'
+    requires_files: true
+    required_executable: 'bower'
+    install_command: 'npm install -g bower'
+    flags: ['install']
+    include: 'bower.json'
+
+  BundleInstall:
+    enabled: false
+    description: 'Install Bundler dependencies'
+    requires_files: true
+    required_executable: 'bundle'
+    install_command: 'gem install bundler'
+    flags: ['install']
+    include:
+      - 'Gemfile'
+      - 'Gemfile.lock'
+      - '*.gemspec'
+
+  GitGuilt:
+    enabled: false
+    description: 'Calculate changes in blame since last commit'
+    requires_files: true
+    required_executable: 'git-guilt'
+    flags: ['HEAD~', 'HEAD']
+    install_command: 'npm install -g git-guilt'
+
+  IndexTags:
+    enabled: false
+    description: 'Generate tags file from source'
+    quiet: true
+    required_executable: 'ctags'
+
+  NpmInstall:
+    enabled: false
+    description: 'Install NPM dependencies'
+    requires_files: true
+    required_executable: 'npm'
+    flags: ['install']
+    include:
+      - 'package.json'
+      - 'npm-shrinkwrap.json'
+
+  SubmoduleStatus:
+    enabled: false
+    description: 'Check submodule status'
+    quiet: true
+    recursive: false
+
+# Hooks that run after `git merge` executes successfully (no merge conflicts).
+PostMerge:
+  ALL:
+    requires_files: false
+    quiet: false
+
+  BowerInstall:
+    enabled: false
+    description: 'Install bower dependencies'
+    requires_files: true
+    required_executable: 'bower'
+    install_command: 'npm install -g bower'
+    flags: ['install']
+    include: 'bower.json'
+
+  BundleInstall:
+    enabled: false
+    description: 'Install Bundler dependencies'
+    requires_files: true
+    required_executable: 'bundle'
+    install_command: 'gem install bundler'
+    flags: ['install']
+    include:
+      - 'Gemfile'
+      - 'Gemfile.lock'
+      - '*.gemspec'
+
+  IndexTags:
+    enabled: false
+    description: 'Generate tags file from source'
+    quiet: true
+    required_executable: 'ctags'
+
+  NpmInstall:
+    enabled: false
+    description: 'Install NPM dependencies'
+    requires_files: true
+    required_executable: 'npm'
+    flags: ['install']
+    include:
+      - 'package.json'
+      - 'npm-shrinkwrap.json'
+
+  SubmoduleStatus:
+    enabled: false
+    description: 'Check submodule status'
+    quiet: true
+    recursive: false
+
+# Hooks that run after a commit is modified by an amend or rebase.
+PostRewrite:
+  ALL:
+    requires_files: false
+    quiet: false
+
+  BowerInstall:
+    enabled: false
+    description: 'Install bower dependencies'
+    requires_files: true
+    required_executable: 'bower'
+    install_command: 'npm install -g bower'
+    flags: ['install']
+    include: 'bower.json'
+
+  BundleInstall:
+    enabled: false
+    description: 'Install Bundler dependencies'
+    requires_files: true
+    required_executable: 'bundle'
+    install_command: 'gem install bundler'
+    flags: ['install']
+    include:
+      - 'Gemfile'
+      - 'Gemfile.lock'
+      - '*.gemspec'
+
+  IndexTags:
+    enabled: false
+    description: 'Generate tags file from source'
+    quiet: true
+    required_executable: 'ctags'
+
+  NpmInstall:
+    enabled: false
+    description: 'Install NPM dependencies'
+    requires_files: true
+    required_executable: 'npm'
+    flags: ['install']
+    include:
+      - 'package.json'
+      - 'npm-shrinkwrap.json'
+
+  SubmoduleStatus:
+    enabled: false
+    description: 'Check submodule status'
+    quiet: true
+    recursive: false
+
+# Hooks that run during `git push`, after remote refs have been updated but
+# before any objects have been transferred.
+PrePush:
+  ALL:
+    requires_files: false
+    required: false
+    quiet: false
+
+  ProtectedBranches:
+    enabled: false
+    description: 'Check for illegal pushes to protected branches'
+    destructive_only: true
+    branches: ['master']
+
+  RSpec:
+    enabled: false
+    description: 'Run RSpec test suite'
+    required_executable: 'rspec'
+
+  Minitest:
+    enabled: false
+    description: 'Run Minitest test suite'
+    command: ['ruby', '-Ilib:test', '-rminitest', "-e 'exit! Minitest.run'"]
+    include: 'test/**/*_test.rb'
+
+  TestUnit:
+    enabled: false
+    description: 'Run Test::Unit test suite'
+    command: ['ruby', '-Ilib:test', '-rtest/unit',
+"-e 'exit! Test::Unit::AutoRunner.run'"]
+
+  Brakeman:
+    enabled: false
+    description: 'Check for security vulnerabilities'
+    required_executable: 'brakeman'
+    flags: ['--exit-on-warn', '--quiet', '--summary']
+    install_command: 'gem install brakeman'
+
+# Hooks that run during `git rebase`, before any commits are rebased.
+# If a hook fails, the rebase is aborted.
+PreRebase:
+  ALL:
+    requires_files: false
+    required: false
+    quiet: false
+
+  MergedCommits:
+    enabled: false
+    description: 'Check for commits that have already been merged'
+branches: ['master']

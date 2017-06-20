@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/stack-implementation/Main.java
+https://raw.githubusercontent.com/ssmehta/programming-challanges/master/codeeval/009_stack-implementation.py
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/stack-implementation.py
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/stack.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/stack.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/stack.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/stack.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/stack.rb
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/stackimplementation.hs

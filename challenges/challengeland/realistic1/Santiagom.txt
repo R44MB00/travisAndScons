@@ -1,0 +1,1 @@
+Bypass el filtor del login con SQLi

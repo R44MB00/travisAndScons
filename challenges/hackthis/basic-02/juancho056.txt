@@ -1,0 +1,2 @@
+No se aceptan agente de usuario, sólo se permite secure_user_agent
+Se descarga el complemento “User-Agent Switcher for Chrome” y se borra la configuración actual y se configura en opciones como “secure_user_agent” para Chrome.

@@ -1,0 +1,6 @@
+https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id081-Bit_Count.py
+https://raw.githubusercontent.com/DionysiosB/CodeAbbey/master/BitCount.cpp
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Bit%20Count.cpp
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/bit%20count.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Bit%20Count
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id081-Bit_Count.py

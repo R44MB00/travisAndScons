@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/swap-numbers/main.py
+https://gist.githubusercontent.com/satour/da0b1e48c6ad5f0ca76a/raw/0b054af42abd8412a7283bbd048aa44eaaac05ee/SWAP_NUMBERS.rb
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/c%23/SwapNumbers.cs
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/c/sn.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/cpp/sn.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/py2/sn.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SwapNumbers/py3/sn.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SwapNumbers.java

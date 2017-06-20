@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/reverse-groups/Main.java
+https://raw.githubusercontent.com/newtonrd/CodeEval/master/src/reverse_groups.java

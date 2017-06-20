@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/lucky-tickets/fast.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/lucky-tickets/slow.py
+https://raw.githubusercontent.com/TheCK/codeChallenges/master/codeEval/src/main/java/org/ck/codeEval/medium/luckytickets/Main.java

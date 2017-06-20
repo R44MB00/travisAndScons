@@ -1,0 +1,6 @@
+https://github.com/thiagoalessio/codeeval/blob/master/easy/find-a-writer/solution.js
+https://github.com/thiagoalessio/codeeval/blob/master/easy/find-a-writer/solution.rb
+https://raw.githubusercontent.com/dkandel/codeeval-solutions/master/findthewriter.cs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/FindAWriter.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/97%20-%20Find%20a%20writer/97.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/97%20-%20Find%20a%20writer/97.php

@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NumberOperations/cpp/no.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NumberOperations/py2/no.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NumberOperations/py3/no.py
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/medium/number_operations.py

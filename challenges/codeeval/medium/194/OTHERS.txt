@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/zhuli19901106/codeeval/master/moderate/twenty-forty-eight(AC).py
+https://raw.githubusercontent.com/manzyuk/twenty-forty-eight/master/twenty-forty-eight.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/twenty_forty_eight.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/twenty_forty_eight.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/twenty_forty_eight.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/twenty_forty_eight.c

@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id020-Vowel_Count.py
+https://gist.githubusercontent.com/timconnor1/d5348bbe3388717be0d3/raw/b57b8285d0b5b53e6d79f5bb183913429b69927f/problem20.cpp
+https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Vowel%20Count/src/Main.java
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Vowel%20Count.cpp
+https://raw.githubusercontent.com/AssumeACanOpener/CodeAbbey/master/vowel_count.rb
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/VowelCount.cs
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem020/Program.cs

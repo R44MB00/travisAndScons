@@ -1,0 +1,2 @@
+Se abre el fichero descargado y la primera y única palabra es BM6. BM significa Bitmap que es un formato de imágenes de Windows.
+Se guarda el archivo con extensión .jpg y se leen los datos ocultos.

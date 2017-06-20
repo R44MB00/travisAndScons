@@ -1,0 +1,6 @@
+
+Realistic 6 Challengeland
+
+First enter without any credentials, blank spaces, then identify the drop down request's from the API and access to the URL where the request is being make. 
+
+Now the only yhing we need is to modify the URL so we can get another attribute that is not shown in the dropdown, password, make the test with all the ids and the getpassword request and there we get the password for this level.

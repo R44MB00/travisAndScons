@@ -1,0 +1,2 @@
+https://github.com/BirkhoffLee/wechall/tree/master/exploit/No%20Escape
+https://github.com/james9909/PracticeCTF/blob/master/WeChall/No-Escape/Solution.txt

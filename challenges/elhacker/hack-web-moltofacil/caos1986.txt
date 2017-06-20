@@ -1,0 +1,8 @@
+Molto Facil--Elhacker.net
+
+1. Primero desactive Javascript de Mi navegador
+2. Mire el codigo fuente el cual contenia un Sript con la contraseña que era: 
+	Ro0T_latiño
+3.Volvi a activar Javascript
+4.Ingrese el password
+5.Fin

@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Blackjack%20Counting
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2042/Problem%2042.cpp
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id042-Blackjack_Counting.py

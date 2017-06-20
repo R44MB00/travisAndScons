@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Qwaz/solved-hacking-problem/master/pwnable.kr/note/solver.py

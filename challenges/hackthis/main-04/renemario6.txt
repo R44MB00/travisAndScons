@@ -1,0 +1,1 @@
+Buscar la clave en un archivo oculto descrito en el codigo fuente.

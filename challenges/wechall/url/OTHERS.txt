@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/p1o2p3u1/WeChall/master/Training/Encodings_URL.md
+http://sp4hack.blogspot.com.co/2012/10/we-chall-encodings-url.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Encodings%20URL/README.md
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Encodings/Encodings%20-%20URL%20encode.js
+https://raw.githubusercontent.com/arma26/challenge/master/wechall.py
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/URL/Solution.txt

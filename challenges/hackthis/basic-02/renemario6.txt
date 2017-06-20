@@ -1,0 +1,1 @@
+Cambiar el agente del navegador para que sea aceptado.

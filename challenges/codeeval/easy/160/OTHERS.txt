@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/nice-angles/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/160%20-%20Nice%20angles/160.js
+https://raw.githubusercontent.com/NanoDano/codeeval/master/nice-angles/nice-angles.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/NiceAngles.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/160%20-%20Nice%20angles/160.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/160%20-%20Nice%20angles/160.php

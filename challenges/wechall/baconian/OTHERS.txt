@@ -1,0 +1,2 @@
+https://github.com/CyrilP/wechall/blob/master/Bacon.java
+http://winkar.github.io/2015/01/24/wechall.html

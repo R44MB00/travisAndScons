@@ -1,0 +1,3 @@
+https://gist.githubusercontent.com/Vijay13/4013239/raw/464f6ea5d92c698cacdf6355002b255f348ff108/ONP.java
+https://raw.githubusercontent.com/sarupbanskota/SPOJ/master/ONP.py
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/ONP.cpp

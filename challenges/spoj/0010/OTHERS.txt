@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/Vijay13/5047796/raw/515c43ddbca58c41eaeafa1ceb8cd63a0624ef69/CMEXPR.py
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/CMEXPR.cpp

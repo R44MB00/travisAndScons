@@ -1,0 +1,11 @@
+= FEATURE: Yashira Windows 1
+
+== Background:
+
+[.step-list]
+* *Given* A description of a command on Windows
+
+== Solution
+
+[.step-list]
+* *HINT* ICMP

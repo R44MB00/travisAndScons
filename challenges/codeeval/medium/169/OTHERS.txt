@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/filename-pattern/main.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c169%20Filename%20Pattern.py

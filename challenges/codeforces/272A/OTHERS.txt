@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/272A%20-%20Dima%20and%20Friends/272A.cpp

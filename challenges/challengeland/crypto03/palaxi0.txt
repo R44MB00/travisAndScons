@@ -1,0 +1,1 @@
+Nuevamente una sentencia pero esta vez hay espacios en ella y no es tan larga, empiezo por el cifrado mas facil: cesar. Voy  a decryp caesar tool y ya está.

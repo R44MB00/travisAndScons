@@ -1,0 +1,5 @@
+Crypt5-Hackthis
+	1. Note que el texto estaba invertido asi que voltie la cadena de texto 
+	2. Empeze a buscar palabras como password o pass
+	3. Encontre pass en la ultima palabra y la reemplaze, asi sucesivamente hasta traducir todo el texto
+	4. Al final encontre que el pass decia: TheMentor.

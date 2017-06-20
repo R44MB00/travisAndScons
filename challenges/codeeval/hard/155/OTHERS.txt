@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/TheCK/codeChallenges/master/codeEval/src/main/java/org/ck/codeEval/hard/asciiDecryption/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/ascii-decryption/main.py
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/ascii-decryption.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/ascii_decryption.go

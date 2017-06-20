@@ -1,0 +1,1 @@
+El reto consiste en obtener un codigo de un ejecutable .exe. Este codigo se obtiene introduciendo el usuario y contraseña. Por medio de Olly debugger se obtiene el codigo ensamblador del ejecutable y buscando en el codigo se obtiene que el usuario es pere_noel y la contraseña es g3r0N1mO. Introduciendo usuario y contraseña se encuentra que el codigo es WiNdObE.

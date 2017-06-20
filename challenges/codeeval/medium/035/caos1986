@@ -1,0 +1,10 @@
+import scala.util.matching.Regex
+
+object Main extends App {
+  val source = scala.io.Source.fromFile(args(0))
+  val lines = source.getLines.filter(_.length > 0)
+  val pattern = "^[_A-Za-z0-9-\\.\\+]+(\\.[_A-Za-z0-9-]+)*@[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$"  
+  for (l <- lines) {
+    println(l.matches(pattern))
+  }
+}

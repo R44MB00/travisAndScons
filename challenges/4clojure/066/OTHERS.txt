@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/yveszoundi/4clojure-answers/master/README.org
+https://raw.githubusercontent.com/katox/4clojure-solutions/master/src/foreclojure_solutions/core.clj
+https://gist.githubusercontent.com/SegFaultAX/3607101/raw/170125da03f311d70bd63b307b9a7de5ef88c127/gistfile1.md
+http://4clojure.clojuregirl.com/
+https://raw.githubusercontent.com/jasonmc/4clojure-solutions/master/66.clj
+http://langram.org/2016/04/08/4clojure-puzzle-66/
+http://www.gerardsweeney.com/wp/2013/10/27/4clojure-organising-my-solutions/
+https://raw.githubusercontent.com/qiuxiafei/4clojure/master/answers/66.Greatest%20Common%20Divisor

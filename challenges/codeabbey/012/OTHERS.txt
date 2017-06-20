@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id012-Modulo_and_time_difference.py
+https://gist.githubusercontent.com/cmatthews85/b8c937979f5f2c034922/raw/26d3c3cb4d0ba2ef7f83ee65195bde56b0921a3c/time_diff.cs
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Modulo%20and%20time%20difference%20.cpp
+https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Modulo%20and%20time%20difference

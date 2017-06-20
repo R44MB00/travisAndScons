@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/delta-time/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/166%20-%20Delta%20time/166.js
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DeltaTime/c/dt.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DeltaTime/cpp/dt.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DeltaTime/py2/dt.pyhttps://raw.githubusercontent.com/StevenDunn/CodeEval/master/DeltaTime/py3/dt.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/166%20-%20Delta%20time/166.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/166%20-%20Delta%20time/166.php

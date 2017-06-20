@@ -1,0 +1,7 @@
+https://gist.githubusercontent.com/yuheiomori/9380835/raw/d7d0279ace4efa12b1b1ce74cf2f448cb005745f/main.py
+https://gist.githubusercontent.com/yuheiomori/9382733/raw/42b128055a6ba2693e33712622811f45eaff7f2d/main.go
+https://gist.githubusercontent.com/yuheiomori/940cd0b239d8d37776ea/raw/83c57c8fbee30df68867d205a0eb35413aba0c43/main.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/decode-numbers/main.py
+https://raw.githubusercontent.com/joedicastro/code_eval/master/moderate/decode_numbers.py2
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/73%20-%20Decode%20Numbers/73.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/73%20-%20Decode%20Numbers/73.php

@@ -1,0 +1,1 @@
+Para dar solucion de este reto se debe implementar tecnicas de sqli con UNION en el url y asi obtener las credenciales del usuario de ingreso, la solucion es agregar la siguiente linea en el url para ejecutar el ataque 3 or 1=1  UNION SELECT 1,2,username,password FROM  level1_users -- ' 

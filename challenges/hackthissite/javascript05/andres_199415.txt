@@ -1,0 +1,5 @@
+Reto 5 javaScript Escape! Hackthissite
+1. En el script me muestran esta variable
+	moo = unescape('%69%6C%6F%76%65%6D%6F%6F');
+2. Descifrar en URL
+	ilovemoo

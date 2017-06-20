@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/calculate_distance.py2
+https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/CalculateDistance.hs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/CalculateDistance.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/99%20-%20Calculate%20distance/99.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/99%20-%20Calculate%20distance/99.js

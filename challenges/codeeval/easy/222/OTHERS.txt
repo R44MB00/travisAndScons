@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/black-card/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BlackCard/c/bc.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BlackCard/cpp/bc.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BlackCard/py2/bc.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BlackCard/py3/bc.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/BlackCard.java

@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: yes
+- clasificacion: yes
+- puntuaciont: 20946
+- puntuacionb: 10000
+- usuarios: 30288
+- vinculados: 784
+- retos: 95
+- media: 30.74%
+- dificultad: 65.00%
+- diversion: 70.24%
+- wechall: http://www.wechall.net/site/details/16/Net_Force
+- url: https://net-force.nl/

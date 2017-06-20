@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/NO
+https://ctfwriteup.wordpress.com/2014/04/08/microcorruption-new-orleans/
+http://www.rockfishsec.com/2014/01/microcorruption-new-orleans.html
+https://desgod.github.io/blog/microcorruption-new-orleans
+http://n1ghtingale.me/write-ups/2015/06/16/Microcorruption-writeup-New-orleans.html

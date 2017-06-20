@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Panacea/c/pan.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Panacea/cpp/pan.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Panacea/py2/pan.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Panacea/py3/pan.py

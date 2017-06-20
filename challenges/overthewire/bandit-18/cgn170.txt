@@ -1,0 +1,1 @@
+Ejecutar el siguiente comando y sacar el password de la linea de diferencia este los dos archivos presentes en el reto diff passwords.new passwords.old

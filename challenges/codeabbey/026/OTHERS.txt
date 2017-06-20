@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id026-GCD_and_LCM.py
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/greatest%20common%20divisor.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Greatest%20Common%20Divisor%20.cpp
+https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Greatest%20Common%20Divisor

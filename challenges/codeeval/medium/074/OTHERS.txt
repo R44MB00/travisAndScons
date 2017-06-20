@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Minimum%20Coins.cpp
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/74%20-%20Minimum%20Coins/74.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/74%20-%20Minimum%20Coins/74.php

@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/p1o2p3u1/WeChall/master/Training/Programming_I.md
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-programming-1.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20Programming%201/README.md
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Programming-1/Solution.py
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+https://github.com/BakaRei/wechall/blob/master/programming1.py
+https://lightrains.org/wechall-programming-1/
+http://aizuctf.hatenablog.jp/entry/2015/01/24/214539
+http://qkqhxla1.tistory.com/201

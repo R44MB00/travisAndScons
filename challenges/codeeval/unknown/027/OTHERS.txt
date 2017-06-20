@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/decimal-to-binary/Main.java
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/decimaltobinary.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/dec2bin.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/dec2bin.clj
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/dec2bin.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/dec2bin.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/dec2bin.rb

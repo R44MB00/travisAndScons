@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/feix/ctf-writeup/master/canyouhackit/mobile/solution1
+http://deurus.info/2014/08/canyouhack-it-mobile1-challenge-simple-comparison-english/

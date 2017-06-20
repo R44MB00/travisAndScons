@@ -1,0 +1,3 @@
+HI
+http://www.wechall.net/challenge/hi/index.php
+Respuesta:[n*(n+1)]/2 = 154722098935564539692256152

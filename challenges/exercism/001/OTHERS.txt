@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/exercism/xrust/master/exercises/hello-world/example.rs
+https://raw.githubusercontent.com/exercism/xrust/master/exercises/hello-world/src/lib.rs
+http://exercism.io/submissions/58d943fae720437ab0a2d769c6c9bdf7
+http://exercism.io/submissions/c48c26c7fb3342b7a9577b01ce9ccc4a

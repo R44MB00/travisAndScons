@@ -1,0 +1,1 @@
+El reto consiste en encontrar una contraseña. La pagina contiene una funcion en javascript llamada calculate(). Por medio de un interprete de javascript y la funcion alert se saca por pantalla el calculo correspondiente a la contraseña. La respuesta es 2898.

@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/furlox/4359354/raw/a040907adfbfef86c76ed7d051039dec53181b67/spoj_palin.cpp
+https://raw.githubusercontent.com/darrensun/OJ-Solutions/master/src/com/darrensun/spoj/palin/Main.java
+https://raw.githubusercontent.com/TomConerly/Competition-Programming/master/SPOJ/PALIN.java
+https://raw.githubusercontent.com/sarupbanskota/SPOJ/master/PALIN.py

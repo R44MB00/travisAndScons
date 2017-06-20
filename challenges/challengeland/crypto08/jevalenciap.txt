@@ -1,0 +1,4 @@
+Crypto8
+http://challengeland.co/Challenges/Cryptography/4c8549c7f1
+Respuesta:
+windows is the operative system most vulnerable

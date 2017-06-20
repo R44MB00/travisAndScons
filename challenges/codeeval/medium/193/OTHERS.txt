@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/magic-numbers/main.py
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/medium/magic_numbers.py

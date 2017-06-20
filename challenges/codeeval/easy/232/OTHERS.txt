@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/not-so-clever/main.go
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/not-so-clever/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NotSoClever/c/nsc.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NotSoClever/cpp/nsc.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NotSoClever/py2/nsc.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/NotSoClever/py3/nsc.py
+https://raw.githubusercontent.com/mementum/codeeval/master/01-easy/0232-not-so-clever/0232-not-so-clever.py

@@ -1,0 +1,14 @@
+
+- idioma: fr
+- actualizacion: si
+- clasificacion: si
+- puntuaciont: 31230
+- puntuacionb: 10000
+- usuarios: 43177
+- vinculados: 748
+- retos: 273
+- media: 14.38%
+- dificultad: 75.00%
+- diversion: 79.69%
+- wechall: http://www.wechall.net/site/details/10/NewbieContest
+- url: https://www.newbiecontest.org/

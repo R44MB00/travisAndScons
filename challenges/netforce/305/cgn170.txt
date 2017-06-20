@@ -1,0 +1,1 @@
+Realizar la operacion XOR y realizar un decode de binario a string para obtener la respuesta

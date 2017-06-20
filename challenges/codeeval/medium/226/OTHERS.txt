@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/try_to_solve_it.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/try_to_solve_it.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/try_to_solve_it.clj
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/try_to_solve_it.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/try_to_solve_it.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/try_to_solve_it.lua

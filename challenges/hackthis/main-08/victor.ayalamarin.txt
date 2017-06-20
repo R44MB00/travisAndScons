@@ -1,0 +1,1 @@
+Se encuentra archivo de texto con usuario y contraseña en codigo fuente, y se modifico lo encontrado de binario a hexadecimal. 

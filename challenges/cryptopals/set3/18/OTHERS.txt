@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c18.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/18/run.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/18/AES_128.py

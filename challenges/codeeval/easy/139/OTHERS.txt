@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/working-experience/js.js
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/working_experience.py2
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/139%20-%20Working%20experience/139.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/139%20-%20Working%20experience/139.php
+https://github.com/unrealities/code-eval/blob/master/easy/139_WorkingExperience/ruby/lib/working_experience.rb

@@ -1,0 +1,1 @@
+Javascript 1: con Ctrl + u se busca el password que es igual a la variable correct, en el mismo documento está el valor de correct.

@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: no
+- clasificacion: yes
+- puntuaciont: 26647
+- puntuacionb: 10000
+- usuarios: 46571
+- vinculados: 552
+- retos: 182
+- media: 16.86%
+- dificultad: 75.00%
+- diversion: 66.67%
+- wechall: http://www.wechall.net/site/details/53/EnigmaGroup
+- url: https://www.enigmagroup.org/

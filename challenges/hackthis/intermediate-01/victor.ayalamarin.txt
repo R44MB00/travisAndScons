@@ -1,0 +1,1 @@
+Siguiendo instrucción se envia a traves de metodo GET de HTML la palabra flubergump, para la variable password

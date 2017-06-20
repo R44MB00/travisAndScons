@@ -1,0 +1,1 @@
+Extraer el password decompilando el .jar referenciado en el codigo fuente del reto

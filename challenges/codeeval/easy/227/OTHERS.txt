@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/real-fake/main.py
+https://raw.githubusercontent.com/adambose1990/CodeEvalJavaSolutions/master/src/com/codeeval/easy/RealFake.java
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/RealFake/c/rf.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/RealFake/cpp/rf.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/RealFake/py2/rf.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/RealFake/py3/rf.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/RealFake.java

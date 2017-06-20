@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0224-prisoner-or-citizen/0224-prisoner-or-citizen.cpp
+https://raw.githubusercontent.com/mementum/codeeval/master/03-hard/0224-prisoner-or-citizen/0224-prisoner-or-citizen.py

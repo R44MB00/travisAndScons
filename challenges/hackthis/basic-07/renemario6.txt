@@ -1,0 +1,1 @@
+Se escanea con NMAP, y luego se empieza  a realizar conexiones contra los puertos abierto y recolectar informacion…..

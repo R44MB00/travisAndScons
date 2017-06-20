@@ -1,0 +1,1 @@
+Escaneo de puertos con nmap buscando puertos activos y servicios especificos, luego crear la llave ssh	nmap -sV -p31000-32000 localhost; openssl s_client -ign_eof -connect localhost:31790, nano sskey.private; chmod 400 /tmp/sskey.private sshkey.private; ssh -o sendEnv=WECHALLUSER -o sendEnv=WECHALLTOKEN -i ./tmp/sshkey.private

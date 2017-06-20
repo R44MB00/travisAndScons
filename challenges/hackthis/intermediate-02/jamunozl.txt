@@ -1,0 +1,3 @@
+se debia crear un archivo html nuevo con los siguientes datos <form action='https://www.hackthis.co.uk/levels/intermediate/2' method='POST'>
+        <input type="text" name="password" value="flubergump">
+        <input type="submit" value=POST to Server>

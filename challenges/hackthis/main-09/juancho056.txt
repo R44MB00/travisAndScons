@@ -1,0 +1,2 @@
+El desarrollador ha añadido una característica que permite que él consiga un recordatorio. ¿Se puede explotarla para enviarle los datos de acceso en su lugar?
+Se ingresa a el codigo fuente  Ctrol+U, se busca el email, y se cambia con click derecho Edit As HTML por el correo deseado

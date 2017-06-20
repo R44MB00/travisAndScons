@@ -1,0 +1,9 @@
+Cocinar--Elhacker.net
+
+1.Me registro con un usuario cualquiera
+2.Entro y me dice que entre con privilegios de admin
+3.Miro las cookies y ahi una llamada logueo
+4.Esta encriptada en base64
+5.Desencripto esta en el formato 1::user:password donde el 1 indica que no tiene permisos de admin
+la cambio a 0::user::password y encripto en base64
+6.Con edit this cookie modifico el valor de dicha cookie. Salgo y vuelvo a entrar a la prueba. Reto finalizado

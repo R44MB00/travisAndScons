@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/TheCK/codeChallenges/master/codeEval/src/main/java/org/ck/codeEval/medium/sumOfIntegers/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/sum-of-integers/Main.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/17%20-%20Sum%20of%20integers/17.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/17%20-%20Sum%20of%20integers/17.php

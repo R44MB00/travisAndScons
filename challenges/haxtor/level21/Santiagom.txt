@@ -1,0 +1,7 @@
+level21 hax.tor.hu:
+
+host: hax.tor.hu
+Pagina: serioussec.info/a.php
+
+
+https://hax.tor.hu/serioussec.info/a.php

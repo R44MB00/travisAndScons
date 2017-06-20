@@ -1,0 +1,1 @@
+leer la imagen con cat via terminal y extraer el password

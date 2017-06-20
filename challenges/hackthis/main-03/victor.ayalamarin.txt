@@ -1,0 +1,1 @@
+Scrip JS, que valida usuario y contraseña visible del lado del cliente

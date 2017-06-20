@@ -1,0 +1,1 @@
+Debemos logearnos como Sandra Murphy, (ejem: Pepe' or  realname/text() = 'Sandra Murphy)

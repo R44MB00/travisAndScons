@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id013-Weighted_sum_of_digits.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Weighted%20sum%20of%20digits.cpp
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/WeightedSumOfDigits.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/weighted_sum_of_digits.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem013/Program.cs

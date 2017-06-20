@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/string-list/main.py
+https://raw.githubusercontent.com/erdennis13/code-eval-scripts/master/string-list.rb

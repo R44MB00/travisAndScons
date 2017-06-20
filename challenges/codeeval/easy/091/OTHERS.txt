@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/simple-sorting/Main.java
+https://raw.githubusercontent.com/wolfbiter/codeeval/master/simple-sorting.c
+https://gist.githubusercontent.com/iamdustan/83d8f3c8759e31eb0f74/raw/8ec8fc9b5232bdd0b424703b83b1d0dc9a7b2f20/simple-sorting.clj
+https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/SimpleSorting.hs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SimpleSorting.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/91%20-%20Simple%20sorting/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/91%20-%20Simple%20sorting/main.php

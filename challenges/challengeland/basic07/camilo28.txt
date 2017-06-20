@@ -1,0 +1,1 @@
+Modificando las cabeceras se consigue saltar los controles de seguridad

@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/array-absurdity/Main.java
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/array_absurdity.php
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.r
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/array_absurdity.pl
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/41%20-%20Array%20absurdity/41.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/41%20-%20Array%20absurdity/41.php

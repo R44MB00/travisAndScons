@@ -1,0 +1,13 @@
+import requests
+from PIL import Image
+from StringIO import StringIO
+
+cookies = dict(PHPSESSID='',enigmafiedV4='')
+r=requests.get("http://www.enigmagroup.org/missions/programming/3/image.php",cookies=cookies)
+i = Image.open(StringIO(r.content))
+t = i.getpixel((0,0))
+print t
+payload = {'color':str(t[0])+";"+str(t[1])+";"+str(t[2]), 'submit':'1'}
+print payload
+r=requests.post("http://www.enigmagroup.org/missions/programming/3/image.php",cookies=cookies,data=payload,headers={'referer':'http://www.enigmagroup.org/missions/programming/3/image.php'})
+print(r.text)

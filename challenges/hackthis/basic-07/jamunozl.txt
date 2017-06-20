@@ -1,0 +1,1 @@
+En este nivel s debía de poner primero un ; y luego el ls para que me listara todos los directorios donde encontré el archivo k1kh31b1n55h.php Luego accedí a él por la url encontrando el código 2480980d

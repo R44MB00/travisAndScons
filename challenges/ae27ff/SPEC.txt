@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: no
+- clasificacion: no
+- puntuaciont: 18319
+- puntuacionb: 10000
+- usuarios: 1642
+- vinculados: 270
+- retos: 37
+- media: 32.32%
+- dificultad: 56.25%
+- diversion: 93.75%
+- wechall: http://www.wechall.net/site/details/82/ae27ff
+- url: http://mirror.otp22.com/chal/register.php

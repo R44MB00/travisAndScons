@@ -1,0 +1,1 @@
+Se intenta ingresando Username admin pass: 'or 1=1 --';, el tresultado no es exitoso, como se especifica el Username admin la respuesta se da de la siguiente manera en username: admin'or 1=1 --';

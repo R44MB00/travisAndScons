@@ -1,0 +1,1 @@
+Acceder por path traversal a la carpeta del backup y romper el hash en md4

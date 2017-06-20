@@ -1,0 +1,1 @@
+Se debe ingresar el nombre de usuario y contraseña, por lo que se entra a el codigo fuente de la pagina Control + U, se ubica y se escribe para ingresar extisomente.

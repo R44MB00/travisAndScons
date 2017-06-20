@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/fizz-buzz/cs.cs
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/fizz-buzz/js.js
+https://gist.githubusercontent.com/fuzeman/5711801/raw/dc56b9133263dc113e4791825d2a5ba3a807d829/fizzbuzz.cs
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/fizzbuzz/fizz_buzz_main.lua
+https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/FizzBuzz.hs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/fizzbuzz.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fizz-buzz/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fizz-buzz/solution.php
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fizz-buzz/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fizz-buzz/solution.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fizz-buzz/solution.sh
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/1%20-%20Fizz%20Buzz/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/1%20-%20Fizz%20Buzz/main.php

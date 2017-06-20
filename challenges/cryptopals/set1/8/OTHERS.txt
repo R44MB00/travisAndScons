@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c08.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set1/8/run.py

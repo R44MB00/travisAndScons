@@ -1,0 +1,3 @@
+Prime factory
+http://www.wechall.net/challenge/training/prime_factory/index.php
+Solución: 10000331000037

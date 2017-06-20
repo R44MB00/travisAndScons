@@ -1,0 +1,8 @@
+Thisislegal.com Basic 11
+
+-La idea de este reto es enviar un mail anónimo y en el cuerpo del mensaje un código, este se encarga
+de validar que sea el remitente para dar el reto como solucionado.
+
+* Se accede al servicio de emkei.cz el cual es una web para enviar mails anónimos
+* se envía el mail
+* se resuelve el reto

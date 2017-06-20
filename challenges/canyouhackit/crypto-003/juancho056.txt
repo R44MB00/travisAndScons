@@ -1,0 +1,1 @@
+Se ingresa a la extesion, robot.txt indica la ruta excluida y muestra la contraseña Werobots

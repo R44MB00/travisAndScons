@@ -1,0 +1,61 @@
+-   repo: https://github.com/pre-commit/pre-commit.git
+    sha: HEAD
+    hooks:
+    -   id: validate_config
+    -   id: validate_manifest
+-   repo: git://github.com/pre-commit/pre-commit-hooks
+    sha: HEAD
+    hooks:
+    -   id: trailing-whitespace
+    -   id: check-docstring-first
+    -   id: check-added-large-files
+    -   id: check-ast
+    -   id: check-json
+    -   id: check-case-conflict
+    -   id: check-merge-conflict
+    -   id: check-symlinks
+    -   id: detect-private-key
+    -   id: check-xml
+    -   id: check-yaml
+    -   id: debug-statements
+    -   id: name-tests-test
+    -   id: flake8
+-   repo: git://github.com/pre-commit/mirrors-pylint
+    sha: HEAD
+    hooks:
+    -   id: pylint
+#-   repo: git://github.com/Lucas-C/pre-commit-hooks
+#    sha: HEAD
+#    hooks:
+#    -   id: forbid-crlf
+#    -   id: forbid-html-img-without-alt-text
+#    -   id: forbid-non-std-html-attributes
+#    -   id: detect-missing-css-classes
+#-   repo: git://github.com/pre-commit/mirrors-eslint
+#    sha: HEAD
+#    hooks:
+#    -   id: eslint
+-   repo: git://github.com/pre-commit/mirrors-jshint
+    sha: HEAD
+    hooks:
+    -   id: jshint
+-   repo: git://github.com/hootsuite/pre-commit-php
+    sha: HEAD
+    hooks:
+    -   id: php-lint
+    -   id: php-unit
+    -   id: php-cs
+        files: \.(php)$
+        args: [--standard=PSR1 -p]
+    -   id: php-cbf
+        files: \.(php)$
+        args: [--standard=PSR1 -p]
+-   repo: https://bitbucket.org/SamWhited/go-pre-commit.git
+    sha: HEAD
+    hooks:
+    -   id: gofmt
+    -   id: gobuild
+-   repo: git://github.com/jordant/rubocop-pre-commit-hook
+    sha: HEAD
+    hooks:
+    -   id: check-rubocop

@@ -1,0 +1,1 @@
+Con ayuda de Firebug, se logro modificar uno de los items de la lista, que requeria el reto.

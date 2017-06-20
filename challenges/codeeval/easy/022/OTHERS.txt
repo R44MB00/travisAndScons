@@ -1,0 +1,14 @@
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/Fibonacci.java
+https://gist.githubusercontent.com/yuheiomori/2571467/raw/d48740aa4278e5eb3d85bdb572d9b35fb5e97d42/fibonacci_series.py
+https://gist.githubusercontent.com/nich0s/8551905/raw/4303205962a7b6b0de4b1bd7c4b524a83e0129a8/fibSeq.py
+https://gist.githubusercontent.com/yuheiomori/7227865/raw/92ce3ce8ec3afb0611b05ee79e88fe5c6e9201e3/fibonacci_series.go
+https://raw.githubusercontent.com/Schonge/CodeEval-Solutions/master/Code%20Eval/Code%20Eval/com/jconnolly/codeeval/easy/FibonacciSeries.java
+https://raw.githubusercontent.com/mirandaio/codeeval/master/easy/FibonacciSeries/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/fibonacci-series/Main.java
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/fibonacci-series.lua
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/fibonacci.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fibonacci-series/solution.php
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fibonacci-series/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/fibonacci-series/solution.rb
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/22%20-%20Fibonacci%20Series/22.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/22%20-%20Fibonacci%20Series/22.php

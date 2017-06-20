@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id022-Two_Printers.py
+https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Two%20Printers

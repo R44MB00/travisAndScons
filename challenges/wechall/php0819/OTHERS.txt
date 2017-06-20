@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/PHP%200819/README.md
+http://joizel.readthedocs.io/ko/latest/web/Condition/[wechall]%20php0819.html
+http://rk700.github.io/2014/05/26/php-0819/
+http://blog.csdn.net/qq_19876131/article/details/50927701#t9
+http://0x48.pw/2015/08/07/0x06/#0x05-PHP-0819
+https://github.com/rk700/rk700.github.io/blob/master/_posts/2014-05-26-php-0819.md

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/feix/ctf-writeup/master/canyouhackit/script/solution2
+http://hacksitesolutions.blogspot.com.co/2015/10/solution-canyouhackit-script-challenge-2.html

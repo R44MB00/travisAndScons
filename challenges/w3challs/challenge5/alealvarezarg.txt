@@ -1,0 +1,1 @@
+Al cargar la pagina se restringe el acceso por medio del User-Agent. Cambiando por medio del Add-on Tamper Data en Firefox para modificar los headers http se cambia el User-Agent por W3Challs_browser. Una vez se tiene acceso la respuesta es el significado de SQL. La respuesta es structured query language.

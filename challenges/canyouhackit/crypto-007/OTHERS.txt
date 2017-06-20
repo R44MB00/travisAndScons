@@ -1,0 +1,3 @@
+http://sebastiancort.es/blog/2016/10/27/canyouhack-it-as-key/
+http://juancho056.blogspot.com.co/2016/01/canyouhackit-cryptography-challenge-7.html
+https://raw.githubusercontent.com/feix/ctf-writeup/master/canyouhackit/cryptography/solution7

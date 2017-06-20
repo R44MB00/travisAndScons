@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/medium/broken_lcd.py
+https://raw.githubusercontent.com/zhuli19901106/codeeval/master/moderate/broken-lcd(AC).py
+https://raw.githubusercontent.com/rohanagrawal/code-eval-challenges/master/broken-lcd.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BrokenLCD/py2/blcd.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BrokenLCD/c/blcd.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BrokenLCD/cpp/blcd.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BrokenLCD/py2/blcd.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/BrokenLCD/py3/blcd.py

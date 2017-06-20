@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/number-pairs/Main.java
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/numberpairs.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/number_pairs.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/number_pairs.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/number_pairs.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/number_pairs.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/number_pairs.rb

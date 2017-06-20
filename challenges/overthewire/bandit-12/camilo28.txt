@@ -1,0 +1,1 @@
+Descomprimir bin dentro de bin, hasta encontrar los metadatos, uso de r2	xxd ./data.txt /tmp/camilo28/f.bin file ;zcat f.bin | bzcat | zcat | tar xO | tar xO | bzcat | tar xO |  zcat | strings

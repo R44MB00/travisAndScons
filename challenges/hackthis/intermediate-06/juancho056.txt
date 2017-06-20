@@ -1,0 +1,3 @@
+This login screen is trying something a bit different and is not using SQL. Try and login as the user whose real name is 'Sandra Murphy'
+Solución: Inyección XPath requiere un conocimiento poco acerca de esquema XML y se consulta XPath como funciona.  . Es inyectando
+'or realname='Sandra Murphy' or 'a'='a

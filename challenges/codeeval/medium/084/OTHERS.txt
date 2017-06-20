@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/balanced-smileys/main.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c84%20Balanced%20Smileys.py
+https://raw.githubusercontent.com/adamgriffis/code-eval-solutions/master/balanced-smileys/test.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.pl
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.r
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/balanced_smileys.hs
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/84%20-%20Balanced%20Smileys/84.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/84%20-%20Balanced%20Smileys/84.php

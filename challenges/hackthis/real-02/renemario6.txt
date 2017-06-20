@@ -1,0 +1,1 @@
+1-> Se revisa codigo fuente en busca de informacion. En este se observa un link a members, se abre este link y luego se empezan a probar todas las combinaciones disponibles de usuario y contraseña.

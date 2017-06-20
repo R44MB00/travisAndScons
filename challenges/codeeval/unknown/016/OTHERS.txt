@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/numberofones.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/num_of_ones.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/num_of_ones.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/num_of_ones.clj
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/num_of_ones.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/num_of_ones.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/num_of_ones.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/number-of-ones/Main.java
+https://raw.githubusercontent.com/delynn/code-eval/master/ruby/16-number-of-ones.rb

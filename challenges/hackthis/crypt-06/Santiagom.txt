@@ -1,0 +1,1 @@
+Nos dan un audio, lo abrí con audacity que es un programa open source para en analisis de audios, modificando el espectograma del sonido se puede ver una imagen con el logo de hacthis y unos simbolos, los simbolos corresponden a unos numeros mayas, despues de transformalos a decimales, se pasa de hexadecimal a texto.

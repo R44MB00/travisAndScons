@@ -1,0 +1,2 @@
+http://hackerorgsolution.blogspot.com.co/2014/09/didactic-red.html
+https://raw.githubusercontent.com/charles-wangkai/hacker.org/master/challenge/DidacticRed.py

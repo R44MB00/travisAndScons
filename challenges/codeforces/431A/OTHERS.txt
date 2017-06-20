@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/431A%20-%20Black%20Square/431A.cpp

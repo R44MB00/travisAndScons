@@ -1,0 +1,1 @@
+La solucion del reto es lograr leer el contenido de un codigo de barras, para solucionarlo hice uso de la pagina https://online-barcode-reader.inliteresearch.com/default.aspx que es un lector de barras online

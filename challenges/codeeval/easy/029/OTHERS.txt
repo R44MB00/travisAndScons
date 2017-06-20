@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/unique-elements/Main.java
+https://gist.githubusercontent.com/yuheiomori/28636a87dc2c65c42554/raw/ee42cb5db66ccdb3c547919be2fb528cb8e9899b/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/29%20-%20Unique%20elements/29.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/29%20-%20Unique%20elements/29.js

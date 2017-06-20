@@ -1,0 +1,1 @@
+con tamper data tomo la cookie, y cambiar el valor a true de restricted_login

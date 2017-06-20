@@ -1,0 +1,1 @@
+1-> Encontramos en contact.php que realizan una busqueda de archivo, empezamos a inyectar pruebas junto con el null byte para ver que se consigue. 2-> Por ultimo traemos el admin.php y revisamos su codigo fuete en el cual se encuentra la contraseña.

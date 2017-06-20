@@ -1,0 +1,6 @@
+http://sp4hack.blogspot.com.co/2012/11/we-chall-guesswork-exploit.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Guesswork/README.md
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Guesswork/Solution.txt
+http://mimaunes.hatenablog.com/entry/20151227/1451173712
+http://0xc0de.tistory.com/18

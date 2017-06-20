@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/arikj/spoj/master/afs.cpp
+https://raw.githubusercontent.com/UtkarshPathrabe/Competetive-Coding/master/SPOJ%20Solutions/AFS.c

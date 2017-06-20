@@ -1,0 +1,3 @@
+http://hackerorgsolution.blogspot.com.co/2014/09/valuation.html
+https://raw.githubusercontent.com/charles-wangkai/hacker.org/master/challenge/Valuation.py
+https://raw.githubusercontent.com/keroro520/Hacker.org/master/Valuation.py

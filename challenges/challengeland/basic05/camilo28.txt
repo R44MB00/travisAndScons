@@ -1,0 +1,1 @@
+Modificando el  parámetro $_get[user] se conseguía pasar el nivel

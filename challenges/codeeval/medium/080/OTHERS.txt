@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/uri-comparison/main.py
+https://raw.githubusercontent.com/mneudert/codeeval/master/moderate/uri-comparison/php.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/80%20-%20URI%20Comparison/80.php
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/url_comparison.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/80%20-%20URI%20Comparison/80.js

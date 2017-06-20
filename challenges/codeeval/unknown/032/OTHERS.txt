@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/trailing-string/Main.java
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/trailingstring.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/sameend.clj
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/sameend.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/sameend.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/sameend.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/sameend.c

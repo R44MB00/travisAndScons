@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c28.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set4/28/run.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set4/28/SHA1.py

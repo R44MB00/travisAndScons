@@ -1,0 +1,13 @@
+- idioma: fr
+- actualizacion: yes
+- clasificacion: yes
+- puntuaciont: 29923
+- puntuacionb: 10000
+- usuarios: 72018
+- vinculados: 744
+- retos: 244
+- media: 14.14%
+- dificultad: 56.25%
+- diversion: 65.00%
+- wechall: http://www.wechall.net/site/details/46/Root_Me
+- url: https://www.root-me.org/

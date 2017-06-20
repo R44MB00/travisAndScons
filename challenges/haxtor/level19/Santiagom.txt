@@ -1,0 +1,5 @@
+level19 hax.tor.hu:
+
+Utilizar GIMP para sacar el color y sumar el Hex
+
+16756816

@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/m4ndingo/yoire.com/master/var/www/yoire.com/challenges/binary/conversion/2_chall_mid.php

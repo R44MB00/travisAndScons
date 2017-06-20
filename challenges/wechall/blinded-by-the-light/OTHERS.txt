@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mukarramkhalid/WeChall/master/blinded_by_the_light.py
+https://mukarramkhalid.com/solution-blinded-by-the-light/
+https://github.com/CyrilP/wechall/blob/master/BlindedByTheLight.java

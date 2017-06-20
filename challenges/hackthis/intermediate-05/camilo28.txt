@@ -1,0 +1,1 @@
+Para resolver este ejercicio, fue necesario cambiar la dirección IP del pc con un proxy, en mi caso tenia un socket the TOR corriendo en el pc, configurando el navegador y accediendo a la url se resolvía el ejercicio

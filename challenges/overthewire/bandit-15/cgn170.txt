@@ -1,0 +1,1 @@
+Enviar la clave del nivel actual al puerto 30000 para obtener la clave del proximo nivel nc localhost 30000

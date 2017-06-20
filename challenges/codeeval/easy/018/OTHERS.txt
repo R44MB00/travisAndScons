@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.rb
+https://gist.githubusercontent.com/yuheiomori/11415221/raw/d5fc55ec2d2a122ec9110a553fbe0ba9580e4833/main.c
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/MultiplesOfANumber.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/MultiplesOfANumber.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.sh
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.py
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/multiples/multiples.lua
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/NumberMultiples.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.php
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.rb
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/18%20-%20Multiples%20of%20a%20number/18.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/18%20-%20Multiples%20of%20a%20number/18.php

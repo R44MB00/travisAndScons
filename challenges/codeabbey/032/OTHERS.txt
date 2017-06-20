@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id032-Josephus_Problem.py
+https://gist.githubusercontent.com/cmatthews85/fddb42b00a9ab64d9fbc/raw/2e08d0f31e75e8aa4ca36b4550195e55bcb19031/josephus_problem.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Josephus%20Problem
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/Josephus%20problem.py
+https://www.reddit.com/r/learnprogramming/comments/38o0gh/codeabbey_32_josephus_problemjava_review/

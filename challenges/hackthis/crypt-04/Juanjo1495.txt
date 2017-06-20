@@ -1,0 +1,5 @@
+Crypt4--Hackthis
+	1. Copie dicho texto en el bloc de notas y empeze a buscar palabras que quiza estarian en dicho texto como password o pass
+	2. La antepenultima palabra decia pass encriptado asi que reemplaze las letras en todo el texto y asi sucesivamente con cada 
+	letra que ya conocia hasta descubrir todo el texto
+	3. Al final nos decia que la contraseña era: ihavefriends

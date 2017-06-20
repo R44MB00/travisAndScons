@@ -1,0 +1,1 @@
+http://exercism.io/exercises/rust/sum-of-multiples/readme

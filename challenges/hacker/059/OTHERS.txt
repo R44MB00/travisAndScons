@@ -1,0 +1,2 @@
+http://hackerorgsolution.blogspot.com.co/2014/09/3280.html
+https://raw.githubusercontent.com/charles-wangkai/hacker.org/master/challenge/3280.py

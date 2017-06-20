@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/string-mask/js.js
+https://raw.githubusercontent.com/mementum/codeeval/master/01-easy/0199-string-mask/0199-string-mask.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringMask/c/sm.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringMask/cpp/sm.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringMask/py2/sm.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringMask/py3/sm.py

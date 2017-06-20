@@ -1,0 +1,1 @@
+se utilizo inspeccionar elemento en la pagina web, encontramos un campo hidden el cual tenia el valor de password.php, entramos a esa pagina y nos dio este codigo c6d97711, el cual entramos como password 

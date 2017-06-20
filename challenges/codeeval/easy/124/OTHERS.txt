@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py2
+https://raw.githubusercontent.com/taibhse/Code-Eval/master/Easy%20Python/42%20Road%20Trip/roadtrip.py3
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/RoadTrip.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/124%20-%20Road%20trip/124.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/124%20-%20Road%20trip/124.php

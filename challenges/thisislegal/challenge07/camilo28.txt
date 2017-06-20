@@ -1,0 +1,1 @@
+Conseguir las credenciales del usuario que están en un archivo protegido (LFI) y decifrarlo con John de ripper

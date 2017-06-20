@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: no
+- clasificacion: si
+- puntuaciont: 33908
+- puntuacionb: 10000
+- usuarios: 4221
+- vinculados: 273
+- retos: 306
+- media: 7.89%
+- dificultad: 54.17%
+- diversion: 58.33%
+- wechall: http://www.wechall.net/site/details/13/Yashira
+- url: http://www.yashira.org/

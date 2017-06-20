@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/multiply-lists/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/multiply-lists/main.cpp
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/multiply_lists.py2
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/MultiplyLists.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/113%20-%20Multiply%20lists/113.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/113%20-%20Multiply%20lists/113.php
+https://github.com/jtibbertsma/code-eval/blob/master/multiply-lists/mult.rb

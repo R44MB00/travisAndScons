@@ -1,0 +1,79 @@
+Center: (47.26, -7.06); Radius: 10.15; Point: (48, -5.38)
+
+Center: (-45.27, 29); Radius: 57.21; Point: (10.91, -43)
+
+Center: (22.94, -40); Radius: 43.95; Point: (39.16, -33.04)
+
+Center: (-34.94, 11.06); Radius: 18.75; Point: (-26, 16.22)
+
+Center: (29, -6); Radius: 2.98; Point: (-13.69, 33.64)
+
+Center: (-25.50, -48.12); Radius: 53; Point: (-28.80, -22)
+
+Center: (-22, 21.23); Radius: 52.08; Point: (71.06, 39)
+
+Center: (11, 43.21); Radius: 6.23; Point: (15, 40)
+
+Center: (-21.63, 45.77); Radius: 12.86; Point: (-20, 43.07)
+
+Center: (-46.76, -33.55); Radius: 24.57; Point: (-34.04, -28)
+
+Center: (-4.04, 2.47); Radius: 20; Point: (-12.34, 5)
+
+Center: (33.09, -39); Radius: 30.94; Point: (11, -48)
+
+Center: (-28.89, 35.71); Radius: 3; Point: (-27, 36.00)
+
+Center: (-27.56, 25); Radius: 5; Point: (-76.88, 38.03)
+
+Center: (-45, 26); Radius: 4; Point: (-45, 29.69)
+
+Center: (36, -11); Radius: 5; Point: (-77, -3.39)
+
+Center: (-18, -48); Radius: 14; Point: (-27, -39)
+
+Center: (45, 41); Radius: 42.16; Point: (23, 12)
+
+Center: (-12, 18); Radius: 54; Point: (28, 47)
+
+Center: (-46.84, 12.53); Radius: 43; Point: (7.29, 64)
+
+Center: (-10, -16); Radius: 22.42; Point: (11, -23.60)
+
+Center: (5, 16); Radius: 14.41; Point: (-8, -24)
+
+Center: (-9, 42.57); Radius: 51; Point: (26, 20.68)
+
+Center: (30, 48); Radius: 35.64; Point: (19, 23)
+
+Center: (3, 24); Radius: 25.21; Point: (-4.88, 1.78)
+
+Center: (22.97, 40); Radius: 5.52; Point: (25.63, 44.07)
+
+Center: (-24.82, -14.32); Radius: 15; Point: (-31, -21)
+
+Center: (-48.26, 33); Radius: 35.04; Point: (-66, -0.10)
+
+Center: (-19, -19.76); Radius: 27.73; Point: (35, -6.59)
+
+Center: (-41.44, 11); Radius: 55; Point: (65.11, -19.29)
+
+Center: (13, 19.47); Radius: 56; Point: (2.43, 25)
+
+Center: (5.51, 4); Radius: 10.75; Point: (4.07, -1)
+
+Center: (-28.78, 34.85); Radius: 55.46; Point: (-6, 87.49)
+
+Center: (5.05, -11); Radius: 21.2; Point: (-31, -45)
+
+Center: (-37.63, 22.98); Radius: 27; Point: (66, -40.25)
+
+Center: (2.12, -3.48); Radius: 17.22; Point: (16.21, -5)
+
+Center: (22, 19.49); Radius: 37.70; Point: (-41.35, -48)
+
+Center: (-19, -3.47); Radius: 8.08; Point: (-14.72, 0.92)
+
+Center: (16, -1.77); Radius: 26.13; Point: (31, -19.44)
+
+Center: (32, 44.51); Radius: 38.03; Point: (30.83, 42.62)

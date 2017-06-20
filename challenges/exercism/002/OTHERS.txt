@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/exercism/xrust/master/exercises/gigasecond/example.rs
+http://exercism.io/submissions/57506196408046539e057d508b6c1721
+http://exercism.io/submissions/37f256320b8b4d2894148ae5d2d1af1a
+http://exercism.io/submissions/b47230aa604b40bfa74aaf39e28f7578

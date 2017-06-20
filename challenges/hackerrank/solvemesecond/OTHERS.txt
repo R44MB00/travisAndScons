@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/rofrol/rust-hackerrank/master/src/bin/solve-me-second.rs
+https://raw.githubusercontent.com/andrewrk/hackerrank/master/solve-me-second/main.rs

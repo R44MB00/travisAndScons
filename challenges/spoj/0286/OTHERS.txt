@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/marioyc/Online-Judge-Solutions/master/SPOJ/Classical/286%20-%20Selfish%20Cities.cpp

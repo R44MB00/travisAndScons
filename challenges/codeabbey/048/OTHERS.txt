@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id048-Collatz_Sequence.py
+https://gist.githubusercontent.com/cmatthews85/7a0bdffa74e614c1ca9a/raw/7d973bb588a8776c27bee11b42a45d63a127851c/collatz_sequence.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Collatz%20Sequence
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2048/Problem%2048.cpp
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id048-Collatz_Sequence.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Collatz%20Sequence%20.cpp
+http://codeevo.blogspot.com.co/2014/09/codeabbey-48.html
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/CollatzSequence.cs

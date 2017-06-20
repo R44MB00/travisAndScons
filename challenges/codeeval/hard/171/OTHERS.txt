@@ -1,0 +1,1 @@
+https://gist.githubusercontent.com/bitout/2d2d0a1de9809a12b722/raw/15e8d03774f129f7660644252def48288e5dcf76/codeeval_dna_alignment.cpp

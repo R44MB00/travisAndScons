@@ -1,0 +1,1 @@
+Se envia la clave via GET.

@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id029-Sort_with_Indexes.py
+https://gist.githubusercontent.com/cmatthews85/d61e75746c051598c603/raw/148b2b7d8c2be6c61b72c9a28d65aa2c94db5030/sort_with_index.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Sort%20with%20Indexes.cpp
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/sort%20with%20indexes.py
+https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Sort%20with%20Indexes

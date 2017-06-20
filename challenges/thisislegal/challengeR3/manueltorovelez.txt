@@ -1,0 +1,4 @@
+"en una pagina escolar, se tenia la opcion de agregar links de interes, al momento de agregar 
+estos links se debia cambiar el valor de una variable para que este se publicara inmediatamente 
+ y en los campos del link poner codigo javascript para laterar la pagina
+"

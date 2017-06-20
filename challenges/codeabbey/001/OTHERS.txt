@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id001-Sum_of_two.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Sum%20%22A%2BB%22.cpp
+http://codeevo.blogspot.com.co/2014/09/codingabbey-1.html
+https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-1-6-15/
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/Sum.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/sum_of_two.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem001/Program.cs

@@ -1,0 +1,2 @@
+https://github.com/p1o2p3u1/WeChall/blob/master/Training/MySQL_Authentication_Bypass_II.md
+https://github.com/stefanoschrs/wechall/blob/master/Exploit/Exploit%20-%20MySQL%20Authentication%20Bypass%20II

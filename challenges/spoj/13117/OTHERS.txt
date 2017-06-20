@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/sus-g/spoj/master/pucmm334.cpp

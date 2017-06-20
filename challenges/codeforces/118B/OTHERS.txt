@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/118B%20-%20Present%20from%20Lena/118B.cpp

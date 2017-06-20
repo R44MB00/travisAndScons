@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/CU
+https://ctfwriteup.wordpress.com/2014/05/03/microcorruption-cusco/
+http://piratezpdx.blogspot.com.co/2014/09/microcorruption-cusco.html
+https://www.reddit.com/r/microcorruption/comments/1vly7l/level_cusco_may_contain_spoilers/
+http://jpaglier.blogspot.com.co/2015/02/microcorruption-iv-cusco.html
+https://www.youtube.com/watch?v=UG_S0Qf9Grk
+http://ctfunhax00r.blogspot.com.co/2017/01/microcorruption-cusco.html
+http://tlk.tuxfamily.org/doku.php?id=writeup:microcorruption:cusco

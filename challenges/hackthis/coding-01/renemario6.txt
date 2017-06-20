@@ -1,0 +1,1 @@
+Se descargan las palabras y se ordena alfabeticamente para subirlo nuevamente. (Se hizo en python)

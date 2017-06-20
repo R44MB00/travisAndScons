@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/313A%20-%20Ilya%20and%20Bank%20Account/313A.cpp

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/STABLEMP.cpp
+https://raw.githubusercontent.com/t3nsor/SPOJ/master/stablemp.cpp

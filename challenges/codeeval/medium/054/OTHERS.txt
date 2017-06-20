@@ -1,0 +1,5 @@
+https://gist.githubusercontent.com/yuheiomori/2785249/raw/2f5253330b522dffb9bbf27f14eb9ff01248e22b/cash_register.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/cash-register/main.py
+https://raw.githubusercontent.com/mneudert/codeeval/master/moderate/cash-register/php.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/54%20-%20Cash%20register/54.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/54%20-%20Cash%20register/54.js

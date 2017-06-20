@@ -1,0 +1,1 @@
+Se descarga un programa para observar el codigo fuente del flash y obtener la clave.

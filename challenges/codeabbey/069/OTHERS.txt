@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Fibonacci%20Divisibility
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id069-Fibonacci_Divisibility.py

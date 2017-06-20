@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/adambose1990/CodeEvalJavaSolutions/master/src/com/codeeval/easy/FindtheHighestScore.java
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/FindTheHighestScore/cpp/fths.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/FindTheHighestScore/py2/fths.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/FindTheHighestScore/py3/fths.py

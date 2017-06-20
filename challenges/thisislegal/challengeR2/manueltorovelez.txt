@@ -1,0 +1,4 @@
+"encontrar un archivo dentro de la pagina con la base de datos y eliminarlo.Para loggearse en la 
+pagina fue necesario un sql injection,luego se debia encontrar informacion de la base de datos 
+que tiene los password de las cuentas en md5, luego de obtener dichos passwords, se obtenia 
+loggin como superadmin, para asi eliminar el archivo de la base de datos"

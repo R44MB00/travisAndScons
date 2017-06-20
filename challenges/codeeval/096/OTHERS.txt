@@ -1,0 +1,9 @@
+https://github.com/mneudert/codeeval/blob/master/easy/swap-case/c.c
+https://github.com/mneudert/codeeval/blob/master/easy/swap-case/cpp.cpp
+https://github.com/mneudert/codeeval/blob/master/easy/swap-case/cs.cs
+https://github.com/mneudert/codeeval/blob/master/easy/swap-case/go.go
+https://github.com/mneudert/codeeval/blob/master/easy/swap-case/js.js
+https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/SwapCase.hs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SwapCase.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/96%20-%20Swap%20Case/96.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/96%20-%20Swap%20Case/96.php

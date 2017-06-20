@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/benol/rust-hacker-rank/master/src/bin/solve-me-first.rs

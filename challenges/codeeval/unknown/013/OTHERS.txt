@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/removecharacters.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/remove_chars.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/remove_chars.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/remove_chars.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/remove_chars.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/remove_chars.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/remove-characters/main.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/remove-characters/Main.java

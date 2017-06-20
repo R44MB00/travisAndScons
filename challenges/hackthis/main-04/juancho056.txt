@@ -1,0 +1,3 @@
+ampos veces adicionales ocultos se agregan al formulario que contiene información adicional para la secuencia de comandos de inicio de sesión. Una vez más esto es muy fácil para que cualquiera pueda acceder a como se muestra claramente en el código fuente. A veces, estos campos pueden contener información muy importante.
+Se ingresa a el codigo fuente Ctrol+U, se verifica el aechivo oculto y se busca en google
+Usuario: 999  Password: 911

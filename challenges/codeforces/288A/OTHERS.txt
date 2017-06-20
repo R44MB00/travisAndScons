@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/288A%20-%20Polo%20the%20Penguin%20and%20Strings/288A.cpp

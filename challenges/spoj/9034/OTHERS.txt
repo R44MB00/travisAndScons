@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/t3nsor/SPOJ/master/tohu.cpp
+https://raw.githubusercontent.com/srikanthmalipatel/Spoj-Problems/master/TOHU-6459960-src.c

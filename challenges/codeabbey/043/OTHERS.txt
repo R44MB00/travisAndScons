@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id043-Dice_Rolling.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Dice%20Rolling
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2043/Problem%2043.cpp
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id043-Dice_Rolling.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Dice%20Rolling%20.cpp
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/DiceRolling.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/dice_rolling.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem043/Program.cs

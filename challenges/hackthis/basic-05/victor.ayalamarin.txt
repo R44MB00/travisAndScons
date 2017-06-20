@@ -1,0 +1,1 @@
+Igual que el nivel 4, revisando el contenido de la imagen con un editor de texto, esta vez al final se observa incristado de manera explicita el nombre del usuario y contraseña para pasar de nivel.

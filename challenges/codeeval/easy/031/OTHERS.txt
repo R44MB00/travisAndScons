@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/RightmostChar.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/RightmostChar.py
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/rightmost_char.py2
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/RightmostChar.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/31%20-%20Rightmost%20Char/31.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/31%20-%20Rightmost%20Char/31.php

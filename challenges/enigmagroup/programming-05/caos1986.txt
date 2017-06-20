@@ -1,0 +1,9 @@
+import requests
+
+cookies = dict(PHPSESSID='',enigmafiedV4='')
+r=requests.get("http://www.enigmagroup.org/missions/programming/5/",cookies=cookies)
+brainfuk=r.text[r.text.find(">",r.text.find("auto;\">")+7)+1:r.text.find("<br />",r.text.find(">",r.text.find("auto;\">")+7))]
+r=requests.post("http://www.splitbrain.org/_static/ook/",cookies=cookies,data={'do':'Brainfuck to Text','input':brainfuk})
+answer=r.text[r.text.find("\"10\"")+5:r.text.find("</textarea>")]
+r=requests.get("http://www.enigmagroup.org/missions/programming/5/?ans="+answer,cookies=cookies)
+print r.text

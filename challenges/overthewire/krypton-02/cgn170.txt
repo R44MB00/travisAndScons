@@ -1,0 +1,1 @@
+El archivo cifrado se encontraba en el servidor, pero sin privilegios, fue necesario compilar aplicación C para obteenr el archivo, fue necesario aplicar cifrado cesar para obtener la clave

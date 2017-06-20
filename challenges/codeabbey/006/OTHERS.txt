@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id006-Rounding.py
+https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Rounding/src/Main.java
+https://raw.githubusercontent.com/AssumeACanOpener/CodeAbbey/master/rounding.rb
+https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-1-6-15/
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/Rounding.cs
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem006/Program.cs

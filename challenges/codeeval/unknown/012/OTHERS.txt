@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/firstnonrepeatedcharacter.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/nrc.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/nrc.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/nrc.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/nrc.rb
+https://gist.githubusercontent.com/trendsetter37/8b5c80ea9f0674eb782d/raw/522402fe0a77914541f7d2edea12d4078e2ca9ea/first_nrc.cpp

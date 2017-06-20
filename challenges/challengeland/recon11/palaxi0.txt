@@ -1,0 +1,1 @@
+Reconocimiento de imagen en google y traduccion porque es la imagen de una montaña que tiene 3 nombres según el pais que la limita, alemania, republica checa o polonia.

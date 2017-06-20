@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/IncludeZ/root-me/master/Web-Server/Directory%20Traversal
+https://raw.githubusercontent.com/anomen-s/programming-challenges/master/root-me.org/Web-Server/Directory-traversal/run.sh
+http://sebastiancort.es/blog/2016/09/23/root-me-directory-traversal/
+http://www.cnblogs.com/joy-nick/p/5569475.html

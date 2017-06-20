@@ -1,0 +1,1 @@
+Extraer la frase en codigo binario dentro de la imagen y realizar un parser de binario a string 

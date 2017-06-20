@@ -1,0 +1,5 @@
+Reto Didactic Byte
+
+Convertir los tres numeros en binario representandolos en un byte, se debe agregar un 0 al 77 ya que este se representa en 7 bits
+la respuesta es:
+13061578

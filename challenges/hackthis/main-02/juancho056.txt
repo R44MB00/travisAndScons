@@ -1,0 +1,6 @@
+Se debe ingresar a el codigo fuente para encontrar le usuario y contraseña con Contro + U, se observa en el codigo fuente que las etiquetas de usuario y contraseña, tienen una extensión en color negro :
+<label for="user">Username:</label> <span style="color: #000000">resu</span>
+                <input type="Text" name="user" id="user" autocomplete="off"><br>
+                <label for="user">Password:</label> <span style="color: #000000">ssap</span>
+Userneame: resu
+Contraseña: ssap

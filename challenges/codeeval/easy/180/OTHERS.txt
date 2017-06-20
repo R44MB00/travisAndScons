@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/knight-moves/main.py
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/knight-moves.py

@@ -1,0 +1,2 @@
+ Esta página está codificado para sólo en un usuario (Ronald). Pero no hay Ronald ?
+Se presiona la tecla F12, se ubica la lista y se modifica con click derecho opción Edit as HTML, uno de los nombre que se encuentre en la lista.

@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/roller-coaster/main.py
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/RollerCoaster.java
+https://raw.githubusercontent.com/lpeterse/codeeval/master/rollercoaster/rollercoaster.hs
+https://raw.githubusercontent.com/mirandaio/codeeval/master/easy/RollerCoaster/Main.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/156%20-%20Roller%20Coaster/156.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/156%20-%20Roller%20Coaster/156.php

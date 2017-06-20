@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/nayuki/Project-Euler-solutions/master/java/p007.java
+https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem7.rs
+https://raw.githubusercontent.com/japaric/euler_criterion.rs/master/problems/007/007.rs

@@ -1,0 +1,38 @@
+engines:
+  pmd:
+    enabled: true
+    channel: "beta"
+  shellcheck:
+    enabled: true
+  pep8:
+    enabled: true
+  hlint:
+    enabled: true
+  phpmd:
+    enabled: true
+  reek:
+    enabled: true
+  fixme:
+    enabled: true
+  radon:
+    enabled: true
+  gjslint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+        ruby:
+        javascript:
+        php:
+        python:
+
+ratings:
+  paths:
+  - "**.sh"
+  - "**.py"
+  - "**.hs"
+  - "**.rb"
+  - "**.js"
+  - "**.php"
+  - "**.java"

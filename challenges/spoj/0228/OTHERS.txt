@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/mukel/ProgrammingContests/master/OldStuff/SPOJ/new6/shaman.cpp

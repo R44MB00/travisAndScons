@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/CH
+https://github.com/EganMatthew/Microcorruption-Solutions/blob/master/%2318%20Chernobyl.md
+https://avanpo.github.io/2015/12/18/microcorruption-ctf-chernobyl/
+https://github.com/tux3/microcorruption/blob/master/chernobyl/braindump.txt

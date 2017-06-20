@@ -1,0 +1,1 @@
+Abrir un puerto con netcat y con la aplicación que hay en el servidor realizar la conexión e intercambiar el  pass

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/lexandro/codeeval/master/1-Moderate/BurrowsWheelerTransform/src/main/java/Main.java
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/medium/burrows_wheeler_transform.py

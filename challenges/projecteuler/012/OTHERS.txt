@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/nayuki/Project-Euler-solutions/master/java/p012.java
+https://raw.githubusercontent.com/zsiciarz/euler.rs/master/src/solutions/problem12.rs

@@ -1,0 +1,1 @@
+Se crea un form con el valor password y se envia via post.

@@ -1,0 +1,4 @@
+GNU/LINUX 2
+http://www.yashira.org/index.php?mode=Retos&resp=inforeto&level=268
+Repuesta:
+tail -15 /etc/passwd

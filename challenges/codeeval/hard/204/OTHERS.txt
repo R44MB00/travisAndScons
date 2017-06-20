@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/straight_lines.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/straight_lines.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/straight_lines.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/straight_lines.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/straight_lines.rb

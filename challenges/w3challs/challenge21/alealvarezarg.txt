@@ -1,0 +1,1 @@
+El reto consiste en encontrar los terminos 74 y 150 de la serie de fibonnaci. Por medio de un algoritmo en python se encuentran los terminos correspondientes. La respuesta es 806515533049393-6161314747715278029583501626149.

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/138%20-%20Car%20race/138.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/138%20-%20Car%20race/138.php

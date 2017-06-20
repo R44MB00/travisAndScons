@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/alternative-reality/main.py
+https://raw.githubusercontent.com/mementum/codeeval/master/02-medium/0223-alternative-reality/0223-alternative-reality.cpp
+https://raw.githubusercontent.com/mementum/codeeval/master/02-medium/0223-alternative-reality/0223-alternative-reality.py
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.pl
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.r
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/alternative_reality.scala

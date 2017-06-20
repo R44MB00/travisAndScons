@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id014-Modular_Calculator.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Modular%20Calculator%20.cpp
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/ModularCalculator.cs

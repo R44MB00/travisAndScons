@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/rofrol/rust-hackerrank/master/src/bin/flipping-bits.rs
+https://raw.githubusercontent.com/andrewrk/hackerrank/master/flipping-bits/main.rs

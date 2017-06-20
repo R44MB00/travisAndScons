@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c20.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/20/run.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/20/xor_crack.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set3/20/AES_128.py

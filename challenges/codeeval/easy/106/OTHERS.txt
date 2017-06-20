@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/jingcmu/codeeval/master/ROMAN%20NUMERALS.cpp
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/roman_numerals.py2
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/106%20-%20Roman%20Numerals/106.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/106%20-%20Roman%20Numerals/106.php

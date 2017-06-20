@@ -1,0 +1,12 @@
+"Ejecutar la siguiente secuencia de comandos para obtener la solucion al resto: xxd -r data.txt > test.gz
+gzip -d test.gz
+file test
+bzip2 -d test.bz2 
+gzip test
+tar xfv test
+file data5.bin
+tar xvf data5.bin
+bzip2 -d data6.bin
+mv data8.bin data8.gz 
+gzip -d data8
+cat data8"

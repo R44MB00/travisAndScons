@@ -1,0 +1,3 @@
+Se visualiza los permisos con el comando javascript:alert(document.cookie);
+Se identifica que el permiso “restricted_login=false”
+Se modifica los permisos con la linea de comando javascript:void(document.cookie=”restricted_login=true”);

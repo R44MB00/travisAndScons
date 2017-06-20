@@ -1,0 +1,1 @@
+Se altera la variable oculta para que nuestros links sean publicados con javascript malicioso.

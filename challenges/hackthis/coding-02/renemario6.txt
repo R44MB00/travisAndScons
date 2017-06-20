@@ -1,0 +1,1 @@
+Se descarga la encriptacion, se desencripta y luego se sube. (Se hizo en python)

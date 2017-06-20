@@ -1,0 +1,1 @@
+Escanear puertos con nmap localhost -p31000-32000 y probar cada uno de ellos, ejecutar el comando echo cluFn7wTiGryunymYOu4RcffSxQluehd| openssl  s_client -connect localhost:31790 -ign_eof para extraer la clave privada para saltar al siguiente reto

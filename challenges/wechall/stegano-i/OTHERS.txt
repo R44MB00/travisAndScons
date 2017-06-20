@@ -1,0 +1,9 @@
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-stegano-i.html
+http://www.creatigon.com/blog/wechall-stegano-i-solution/
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/stegano1/README.md
+https://b0ngsec.blogspot.com.co/2016/08/wechall-training-stegano-1.html
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Stegano-1/Solution.txt
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+http://dipanjan.in/ctf/wechall-stegano-i/
+http://deurus.info/2014/08/wechall-stegano-attachment-esteganografia/

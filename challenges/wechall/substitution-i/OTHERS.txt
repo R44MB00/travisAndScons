@@ -1,0 +1,5 @@
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-crypto-substitution-i.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Crypto/Crypto%20-%20Simple%20Substitution%20I.js
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Substitution-1/Solution.txt
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md

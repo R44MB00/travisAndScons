@@ -1,0 +1,2 @@
+Beat the cookie script
+Solución: javascript:void(document.cookie=”ALLOWED_ACCES=YES”);

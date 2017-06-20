@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/compressed-sequence/js.js
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/compressed-sequence/php.php
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/compressed-sequence/Main.java
+https://gist.githubusercontent.com/yuheiomori/8627352/raw/cdea57cea4afdf85c02fe68069eb17897e0a576f/main.go

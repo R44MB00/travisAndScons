@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/maxwellE/CodeEval/master/Sudoku/sudoku.rb
+https://gist.githubusercontent.com/yuheiomori/9926928/raw/6f52469c80120cecca59542a1a9bc24e6144a803/main.py
+https://raw.githubusercontent.com/fabriziocucci/CodeEval/master/moderate/sudoku/java/src/main/java/Main.java
+https://raw.githubusercontent.com/DionysiosB/CodeEval/master/Sudoku.cpp
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/sudoku.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/78%20-%20Sudoku/78.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/78%20-%20Sudoku/78.php

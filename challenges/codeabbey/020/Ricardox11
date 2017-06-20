@@ -1,0 +1,43 @@
+package vocales;
+
+import java.util.Scanner;
+
+public class Vocales {
+
+   public static void main(String[] args) {
+
+      String sPalabra = " ";
+      String sResultado = "";
+      int contador = 0;
+      char[] cVocales = new char[6];
+
+      cVocales[0] = 'a';
+      cVocales[1] = 'e';
+      cVocales[2] = 'i';
+      cVocales[3] = 'o';
+      cVocales[4] = 'u';
+      cVocales[5] = 'y';
+
+      System.out.println("Por favor digitar N:\n");
+      Scanner entrada = new Scanner(System.in);
+      String sN = entrada.nextLine();
+
+      for (int y = 1; y <= Integer.parseInt(sN); y++) {
+         System.out.println("Por favor digitar palabra" + y +":");
+         sPalabra = entrada.nextLine();
+         char[] Cletras = sPalabra.toCharArray();
+         contador = 0;
+
+         for (int i = 0; i < Cletras.length; i++) {         
+            if ((Cletras[i] == cVocales[0]) || (Cletras[i] == cVocales[1]) || (Cletras[i] == cVocales[2]) 
+               || (Cletras[i] == cVocales[3]) || (Cletras[i] == cVocales[4]) || (Cletras[i] == cVocales[5]) )  {
+
+                 contador++; 
+         }
+      }
+          sResultado =  sResultado + String.valueOf(contador) + " ";
+       }
+       entrada.close();
+       System.out.println(sResultado);
+  }
+}

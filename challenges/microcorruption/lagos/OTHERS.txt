@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/LA
+https://github.com/EganMatthew/Microcorruption-Solutions/blob/master/%2317%20Lagos.md
+https://avanpo.github.io/2015/12/15/microcorruption-ctf-lagos/
+https://github.com/tux3/microcorruption/blob/master/lagos/braindump.txt

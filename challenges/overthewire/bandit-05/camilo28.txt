@@ -1,0 +1,1 @@
+Buscar archivo especifico en todas las carpetas en /home/bandit4, usando el comando find y buscar por tamaño	find ./inhere/maybehere*/* -print0 | xargs -0 wc -c | sort ; find ./inhere/maybehere*/* -print0 | xargs -0 du -b | sort

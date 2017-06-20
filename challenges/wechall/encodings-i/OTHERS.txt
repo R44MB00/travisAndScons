@@ -1,0 +1,7 @@
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-encodings-i.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://gist.githubusercontent.com/trietptm/5661740/raw/f00c2fd5e2a29be924f9abff61b1a2f32d31e55b/binary_to_7_bit_ascii_decoding.as
+https://github.com/BirkhoffLee/wechall/tree/master/exploit/Encodings%20URL
+https://gist.github.com/trietptm/5661272
+http://sithlab.tistory.com/1095
+http://www.cnblogs.com/WangAoBo/p/6368519.html

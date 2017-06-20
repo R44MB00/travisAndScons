@@ -1,0 +1,1 @@
+la encriptacion consistia de ir sumando de un digito al valor de la posicion del caracter en ascii al final el resultado era 95c21ac8

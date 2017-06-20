@@ -1,0 +1,8 @@
+level25:
+Triple and entre los digitos de la imagen
+
+10010101
+11001001
+11110101
+- - - - -
+10000001

@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c26.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set4/26/AES_128.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set4/26/run.py
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set4/26/oracles.py

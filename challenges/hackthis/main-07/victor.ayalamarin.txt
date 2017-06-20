@@ -1,0 +1,1 @@
+Navegando por las paginas excluidas de robots.txt para navegadores, se llega a la respuesta del reto

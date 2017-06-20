@@ -1,0 +1,15 @@
+Real 4 HackThis!!
+1. Se suministran 4 páginas.
+a. https://www.hackthis.co.uk/levels/extras/real/4/top10.html
+b. https://www.hackthis.co.uk/levels/extras/real/4/safetransfer/
+c. https://www.hackthis.co.uk/levels/extras/real/4/planetbid/
+d. https://www.hackthis.co.uk/levels/extras/real/4/email_beta/
+
+2. Se ingresa como admin en (c) utilizando la lista suministrada en (a).
+3. Se detectan el usuario, la contraseña y el correo del usuario con el que se realizó la transacción, esto se logra cambiando la URL para que muestre la info que nos interesa.
+a. Us: nemisis
+b. Pass: 742929dcb631403d7c1c1efad2ca2700 encriptada en md5, desencriptada es: chicken.
+c. Emial: jfelliot@mail.com
+4. Se realiza la denuncia de olvido de contraseña en la página (b).
+5. Se accede a la página (d) con el usuario jfelliot y el pass chicken.
+6. Se obtiene la contraseña de la página (b), se accede, se hace la transferencia de fondos a la cuenta del usuario que nos pide el favor  y se borra el registro en la página (c).

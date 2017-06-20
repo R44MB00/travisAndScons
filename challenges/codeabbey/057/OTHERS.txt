@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Smoothing%20the%20Weather%20.cpp
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/smoothing%20the%20weather.py
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Smoothing%20the%20Weather
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2057/Problem%2057.cpp
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id057-Smoothing_the_Weather.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Smoothing%20the%20Weather%20.cpp

@@ -1,0 +1,11 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/multiplication-tables/c.c
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/multiplication-tables/cpp.cpp
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/multiplication-tables/go.go
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/multiplication-tables/cs.cs
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/multiplication-tables/Main.java
+https://raw.githubusercontent.com/paulinar/code-eval-challenges/master/easy/multTable.java
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/MultiplicationTable.java
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/MultiplicationTable.java
+http://stackoverflow.com/questions/23638798/python-and-codeeval-why-isnt-my-solution-to-this-multiplication-table-challeng
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/23%20-%20Multiplication%20Tables/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/23%20-%20Multiplication%20Tables/main.php

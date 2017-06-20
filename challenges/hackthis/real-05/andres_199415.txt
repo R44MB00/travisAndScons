@@ -1,0 +1,6 @@
+Real 5 HackThis!!
+1. Al verificar todos los links en la página se detectó uno que me dirigía al acceso como admin.
+2. Se intentaron varios métodos de inyección tales como  SQL y JavaScript.
+3. Se ingresó a los foros para buscar alguna ayuda, me recomendaron que buscara lo que es un NullByte en la URL.
+4. Al entender lo que es se ingresó la siguiente URL: https://www.hackthis.co.uk/levels/extras/real/5/?p=../admin.php%00
+5. Y en el código Fuente de esta página se encontraba la respuesta.

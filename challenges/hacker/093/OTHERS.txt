@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/charles-wangkai/hacker.org/master/challenge/PiHatesNines.py
+http://hackerorgsolution.blogspot.com.co/2014/09/pi-hates-nines.html

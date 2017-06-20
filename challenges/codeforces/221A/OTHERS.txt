@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/221A%20-%20Little%20Elephant%20and%20Function/221A.cpp

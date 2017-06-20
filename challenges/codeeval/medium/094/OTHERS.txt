@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/zhuli19901106/codeeval/master/moderate/simple-calculator(AC).py
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/simple-calculator/Main.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/94%20-%20Simple%20Calculator/94.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/94%20-%20Simple%20Calculator/94.php

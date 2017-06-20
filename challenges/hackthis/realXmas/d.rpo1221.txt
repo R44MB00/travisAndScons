@@ -1,0 +1,10 @@
+hackthis 
+	xmas
+		primero encontre mod.php al oprimir el boton send en submit.php
+		entre a mod.php
+		hice SQL injection
+			username 'or '1'='1
+			password 'or '1'='1
+		abri el archivo index.php 
+		y cambie todo por el contenido de xmas_new.html
+		y save

@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/VL
+https://github.com/EganMatthew/Microcorruption-Solutions/blob/master/%2315%20Vladivostok.md
+https://rakshacks.wordpress.com/2016/08/22/microcorruption-vladivostok/
+https://www.youtube.com/watch?v=u_kWi5cGtPc

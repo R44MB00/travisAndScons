@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/IncludeZ/root-me/master/Web-Server/HTTP%20Headers
+https://raw.githubusercontent.com/anomen-s/programming-challenges/master/root-me.org/Web-Server/HTTP-Headers/run.sh

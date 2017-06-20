@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id008-Arithmetic_Progression.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Arithmetic%20Progression%20.cpp
+http://www.codeabbey.com/index/forum_topic/5e9e89e0c809e61ae595455365284586
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/ArithmeticProgression.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/arithmetic_progression.rb
+

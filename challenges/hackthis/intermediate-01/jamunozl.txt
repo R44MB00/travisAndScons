@@ -1,0 +1,1 @@
+Se debia de poner en la url ?password=flubergump, ya que el tipo de forma de la pagina es GET

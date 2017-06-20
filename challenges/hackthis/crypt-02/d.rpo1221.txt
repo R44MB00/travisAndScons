@@ -1,0 +1,3 @@
+crypt 2 hackthis!!
+1. use un caesar cipher online
+2. lo puse a que buscara la key para que desencriptara

@@ -1,0 +1,14 @@
+Basic 6
+
+So here we are given an encrypted key so we need to find out what was encrypted to generate this key. First we will try a basic combination to see how the encryption script works. 
+aaaaa
+abcdef
+
+Now we see how it works, depends on the position it gives us the "n" moved character, a in position 0 equal a, a in position 2 equals b because abcdefghijk..... etc so lets try to use the key given and return the character at n position at left.
+
+9f2fe3b decrypted
+9g4ii8h encrypted
+
+As we know there are numbers, letters and especial characters, you should based the reverse encoding 
+9f2fe3b9
+9g4ii8h@

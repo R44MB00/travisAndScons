@@ -1,0 +1,1 @@
+Conseguir las credenciales del admin a través de SQL injection y romper el hash md5, eliminar los logs del sistema

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/rbarril75/CodeEval/master/Longest%20Common%20Subsequence/LCS.java
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Hard-Level/LongestCommonSubsequence.java

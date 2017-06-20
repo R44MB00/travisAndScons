@@ -1,0 +1,3 @@
+https://gist.githubusercontent.com/yuheiomori/9848625/raw/b018063a4bd9279b2e9e5ec0ecaaadd69556cfa3/main.py
+https://raw.githubusercontent.com/graemeboy/codeeval-javascript/master/counting-primes/countingprimes.js
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/counting_primes.php

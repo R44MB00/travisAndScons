@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id016-Average_of_an_array.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Average%20of%20an%20array%20.cpp
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/AverageOfArray.cs
+https://github.com/marclerodrigues/ruby_exercises

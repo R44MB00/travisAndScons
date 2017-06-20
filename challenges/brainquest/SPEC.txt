@@ -1,0 +1,14 @@
+
+- idioma: sk
+- actualizacion: si
+- clasificacion: si
+- puntuaciont: 69841
+- puntuacionb: 10000
+- usuarios: 14334
+- vinculados: 270
+- retos: 1106
+- media: 14.50%
+- dificultad: 50.00%
+- diversion: 63.89%
+- wechall: http://www.wechall.net/site/details/15/BrainQuest
+- http://www.brainquest.sk/

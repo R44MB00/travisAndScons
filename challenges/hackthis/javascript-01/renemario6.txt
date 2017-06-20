@@ -1,0 +1,1 @@
+Encontrar el valor de la variable para validar la clave.

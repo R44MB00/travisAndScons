@@ -1,0 +1,1 @@
+Crypt 5: se procede a cambiar letra por letra sabiendo que el texto está al revés, con la primer pista que es ccdf = ssap.

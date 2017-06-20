@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/clean-up-the-words/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/c/saa.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/cpp/saa.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/py2/saa.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/StringsAndArrows/py3/saa.py
+https://raw.githubusercontent.com/adambose1990/CodeEvalJavaSolutions/master/src/com/codeeval/easy/CleanuptheWords.java
+https://raw.githubusercontent.com/nealvs/codeeval/master/1-easy/205%20-%20Clean%20up%20the%20words/src/com/spriton/codeeval/Main.java

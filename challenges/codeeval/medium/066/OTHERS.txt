@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/pascals-triangle/Main.java
+https://gist.githubusercontent.com/yuheiomori/4cb5e60d23552103e38d/raw/97cedd4d3776fd3611b7737a0547e8da543a6e1f/main.py
+https://gist.githubusercontent.com/yuheiomori/30c4c2ce3b15cb4c0782/raw/0512159f5f27e34971269d0da7b5fa6a9cbaf579/main.go
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/66%20-%20Pascals%20triangle/66.js

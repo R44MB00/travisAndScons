@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/rofrol/rust-hackerrank/master/src/bin/maximizing-xor.rs
+https://raw.githubusercontent.com/andrewrk/hackerrank/master/maximizing-xor/main.rs

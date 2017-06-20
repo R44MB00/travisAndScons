@@ -1,0 +1,19 @@
+import requests
+from PIL import Image
+from StringIO import StringIO
+
+cookies = dict(PHPSESSID='',enigmafiedV4='')
+r=requests.get("http://www.enigmagroup.org/missions/programming/4/image.php",cookies=cookies)
+i = Image.open(StringIO(r.content))
+t = i.getpixel((0,0))
+s=""
+ss=""
+for j in range(i.size[1]):
+    for k in range(i.size[0]):
+        ss+=str(i.getpixel((k,j)))
+        if len(ss)==8:
+            s+=chr(int(ss,2))
+            ss=""
+payload={'answer':s[s.find(":")+1:]}
+r=requests.post("http://www.enigmagroup.org/missions/programming/4/image.php",cookies=cookies,data=payload,headers={'referer':'http://www.enigmagroup.org/missions/programming/4/index.php'})
+print r.text

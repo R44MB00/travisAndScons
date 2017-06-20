@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/jingcmu/codeeval/master/PENULTIMATE%20WORD.java
+https://raw.githubusercontent.com/jonyamo/CodeEval/master/haskell/src/PenultimateWord.hs
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/92%20-%20Penultimate%20word/92.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/92%20-%20Penultimate%20word/92.php

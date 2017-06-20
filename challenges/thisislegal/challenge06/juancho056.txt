@@ -1,0 +1,3 @@
+Site crawlers check a certain file that tells them whether or not they are allowed to include the site in a search engine. A lot of the time pages included in this have no security.  Find the protected page for this site and the challenge is already complete.
+Solución: se ingresa a /robots.txt se visualiza la extension requerida 
+http://www.thisislegal.com/robotspage

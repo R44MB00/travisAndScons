@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/compare-points/js.js
+https://gist.githubusercontent.com/satour/f2978e10ef0ddf307c15/raw/f68a5c1247d6d8ac2cd9b5d5763d099381e00563/COMPARE_POINTS.rb
+https://raw.githubusercontent.com/lcmd/Compare-Points/master/compare%20points%20code_eval/Program.cs
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ComparePoints/c%23/ComparePoints.cs
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ComparePoints/c/cp.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ComparePoints/cpp/cp.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ComparePoints/py2/cp.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ComparePoints/py3/cp.py

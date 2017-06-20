@@ -1,0 +1,1 @@
+Uso de ssl para conexiones seguras a puertos especificos	openssl s_client -ign_eof -connect localhost:30001

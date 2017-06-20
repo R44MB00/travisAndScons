@@ -1,0 +1,3 @@
+Contraseñas cifradas pueden ser muy difíciles de descifrar, pero cuando se utiliza un método común por lo general hay una manera de conseguir alrededor de él. Especialmente cuando la información cifrada son palabras comunes simples.
+Se ingresa a el codigo fuente Ctrol+U, se verifica el aechivo oculto y se busca en google.
+Se encuentra que el usuario y la clave estan encriptados:

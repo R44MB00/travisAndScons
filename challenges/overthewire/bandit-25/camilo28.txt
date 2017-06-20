@@ -1,0 +1,1 @@
+Debe diseñarse un diccionario con todas las posibles combinaciones de 4 digitos el comando para ello $cruch 4 4 “0123456789” adicional un script para automatizar 

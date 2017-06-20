@@ -1,0 +1,2 @@
+https://github.com/CyrilP/wechall/blob/master/Digraph.java
+https://github.com/gizmore/gwf3/blob/master/www/challenge/training/crypto/digraph/index.php

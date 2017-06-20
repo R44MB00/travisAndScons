@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/without-repetitions/js.js
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/without-repetitions.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/without-repetitions/main.py

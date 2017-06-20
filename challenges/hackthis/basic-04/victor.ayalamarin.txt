@@ -1,0 +1,1 @@
+Con ayuda de editores de texto y editores hexadecimales revisando el archivo en ascii se pueden obtener algunas pistas con las que se logra decifar el usuario y contraseña

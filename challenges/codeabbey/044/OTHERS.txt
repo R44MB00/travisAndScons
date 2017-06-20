@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Double%20Dice%20Roll
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2044/Problem%2044.cpp
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id044-Double_Dice_Roll.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/Double%20Dice%20Roll%20.cpp

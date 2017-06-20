@@ -1,0 +1,1 @@
+Me dan una sentencia la cual por longitud es un MD5, voy a un md5 cracker y encuentro mi respuesta.

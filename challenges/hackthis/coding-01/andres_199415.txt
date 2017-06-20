@@ -1,0 +1,9 @@
+conding 1 Hackthis
+
+se ejecuto el siguiente codigo en la consola del navegador
+
+var str = document.getElementsByTagName("textarea")[0].innerHTML;
+str= str.split(", ");
+str = str.sort();
+str = str.join(", ");
+document.getElementsByTagName("textarea")[1].innerHTML = str;

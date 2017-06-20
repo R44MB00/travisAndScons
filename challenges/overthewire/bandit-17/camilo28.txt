@@ -1,0 +1,1 @@
+Comparar dos archivos con el comando diff	diff passwords.new  passwords.old 

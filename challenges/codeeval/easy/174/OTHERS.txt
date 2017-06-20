@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/slang-flavor/main.py
+https://raw.githubusercontent.com/fabriziocucci/CodeEval/master/easy/slang-flavor/java/src/main/java/Main.java
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SlangFlavor/c%23/SlangFlavor.cs
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SlangFlavor/c/sf.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SlangFlavor/cpp/sf.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SlangFlavor/py2/sf.py
+https://raw.githubusercontent.com/sharktamer/codeeval-python/master/174-Easy-SlangFlavor.py
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/easy/slang_flavor.py

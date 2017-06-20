@@ -1,0 +1,1 @@
+Se desencripta con el algoritmo de codigo morse. Se utilizo una aplicación en java de Wechall.

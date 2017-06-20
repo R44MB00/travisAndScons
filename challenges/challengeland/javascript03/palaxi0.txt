@@ -1,0 +1,4 @@
+"En la pagina existe una funcion en javascript que usa jquery para ejecutarse, el problema va en que la pagina no tiene jquery indexado para que se ejecute correctamente la funcion, por eso vamos a insertar jquery desde javascript para poder ejecutar la funcion. var script = document.createElement('script');
+script.src = 'http://code.jquery.com/jquery-1.11.0.min.js';
+script.type = 'text/javascript';
+document.getElementsByTagName('head')[0].appendChild(script); Ahora ya tenemos Jquery ejecutando en la pagina, entonces llamamos nuestra funcion, en este caso doPost(), la cual nos arroja un error porque no existe un elemento al que se le asigna el valor final de la funcion. Luego voy a las propiedades de network y veo como se genera con ajax un numero el cual no pasó por la funcion porque no existia el elemento. Ejecuto manualmente lo que debe hacer la funcion y tengo mi valor. Esa es la respuesta."

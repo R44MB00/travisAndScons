@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Malatawy15/Algorithms-Library/master/Summer%20Practice/SPOJ/Hike%20on%20a%20Graph.cpp
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/HIKE.cpp

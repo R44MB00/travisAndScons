@@ -1,0 +1,1 @@
+Escaneo de puertos con nmap y conexiones inseguras con netcat	nc 127.0.0.1 30000

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/rofrol/rust-hackerrank/master/src/bin/alternating-characters.rs
+https://raw.githubusercontent.com/andrewrk/hackerrank/master/alternating-characters/main.rs

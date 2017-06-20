@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/yaychris/cryptopals/master/src/challenge2.rs
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c02.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set1/2/run.py
+https://raw.githubusercontent.com/akalin/cryptopals-python3/master/challenge2.py

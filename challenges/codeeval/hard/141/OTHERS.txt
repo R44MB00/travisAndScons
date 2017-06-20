@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/hard/141%20-%20Flight%20370/141.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/hard/141%20-%20Flight%20370/141.php

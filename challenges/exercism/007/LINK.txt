@@ -1,0 +1,1 @@
+http://exercism.io/exercises/rust/difference-of-squares/readme

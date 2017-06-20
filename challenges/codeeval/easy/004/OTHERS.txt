@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-primes/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-primes/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-primes/solution.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-primes/solution.sh
+https://raw.githubusercontent.com/jasonhartley/coding-challenges/master/CodeEval/SumOfPrimes/src/Main.java
+https://raw.githubusercontent.com/arnabkd/codeeval-challenges/master/sum-of-primes/Main.java
+https://raw.githubusercontent.com/AnEmortalKid/codeeval-lua/master/src/main/lua/com/anemortalkid/codeeval/lua/easy/sumofprimes/sum_of_primes.lua
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/sum_of_primes.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SumPrimes.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-primes/solution.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/4%20-%20Sum%20of%20primes/main.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/4%20-%20Sum%20of%20primes/main.js

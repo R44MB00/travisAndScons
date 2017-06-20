@@ -1,0 +1,31 @@
+ have currently been on a new bidding site called PlanetBid. Already i have sold an old item for a very good price. But the b*****d has refused to pay up.
+The problem is I have already sent the parcel, and as well as not paying he wont return it. I have collected some information that I think could be useful, e.g. usernames, email addresses etc, this is all included at the end of this message. I heard that you were a bit of a whizz at hacking, the PlanetBid security doesn't look too tight so should be quite easy with your kind of knowledge. One important thing i have found out is that he uses "Safe Transfer" to do all his online banking, and uses "email* beta" for his emails.
+Thank you in advance, hope to hear from you soon,
+Revoked.Mayhem
+P.S. I only want the money that i am owed, no more no less. Also I have heard a lot in the news about the government clamping down on hackers so beware.
+Resources:
+email* beta
+Planet Bid
+Safe Transfer
+Top 10
+My Details:
+PlanetBid username: Revoked.Mayhem
+Safe Transfer account: 64957746
+His details ar...[message corrupt]
+Para el reto se da cuatro enlaces, el nombre de una cuenta y el número de la misma.
+Primera mente se debe centrar en los indicios de que es un sitio con seguridad básica y que se tiene un enlace que habla d los 10 tipos de contraseñas más empleadas y corrompibles.
+Se ingresa al segundo enlace que es la página que describe el enunciado, se busca el acceso a cuentas y se da ingreso como admin en el link que aparece, lo cual especifica automáticamente el nombre de usuario y la contraseña es una de las 10 especificadas en uno de los enlaces dados en el enunciado.
+U Después de iniciar sesión como administrador, se encuentra la base de datos de los miembros y de la base de datos de ofertas. Desde aquí, nos encontramos con que el correo electrónico de Revoked.Mayhem es Caffe@hotbiz.com y que su identificación es 31. El ir a la base de datos las ofertas, sólo hay una transacción con un ID de vendedor que es igual a 31, y se vendió por 1,32 £. Esto también nos dice que el comprador tiene un ID que es igual a 11, que corresponde al usuario nemisis, cuyo correo electrónico es jfelliot@mail.com.
+Se debe encontrar una manera de acceder a nemisis  de correo electrónico. Sin embargo, poner a prueba las 10 contraseñas más comunes no ayuda esta vez. Vamos a echar un vistazo a la base de datos los miembros, y en concreto de la URL: 
+?members&1=user&2=email 
+Se sustituye mail por pass asi: ?members&1=user&2= pass 
+Lo cual rebela una contraseña cifrada en MD5 : 742929dcb631403d7c1c1efad2ca2700 = chicken
+Se ingresa a el 3 enlace para hacer la trasferencia de fondos como solo setiene el username y el correo se envía un recordatorio, para ingresar luego con a el primer enlace del cual se sabe cuál es el correo y la contraseña que descifro en MD5.
+Este es el correo recibido
+You have requested your details on Safe Transfer
+If you have not requested these details then someone is probably trying to illegally gain access to your account.
+Username: nemisis
+Password: i.am.awesome
+Se ingresa de nuevo a el link y se realizan la trasferencia de fondos por un valor de 1.32 euros, pero el sistema detecta la suplantación de identidad.
+Al loguearse como Admin el sistema capta la IP de destino, como lo especifica en la misma página en la parte superior izquierda, se le da [view] y se clarean los registros para no dejar rastro del suplanto de identidad.
+Se realiza todo el proceso de nuevo clarendo previamente los registros y se completa el nivel.

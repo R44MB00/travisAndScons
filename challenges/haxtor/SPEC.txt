@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: no
+- clasificacion: yes
+- puntuaciont: 16991
+- puntuacionb: 10000
+- usuarios: 19558
+- vinculados: 599
+- retos: 50
+- media: 48.97%
+- dificultad: 68.75%
+- diversion: 80.00%
+- wechall: http://www.wechall.net/site/details/30/hax_tor_hu
+- url: http://hax.tor.hu/welcome/

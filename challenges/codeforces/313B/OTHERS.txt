@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/313B%20-%20Ilya%20and%20Queries/313B.cpp

@@ -1,0 +1,1 @@
+Entro a la pagina para ver que hay un campo de comprar, me lleva a otra pagina con un valor de 100 usd, lo que hago es volver y modificar el envio de datos sobre la marcha con tamper data en firefox. Con este cambio el valor del dato a enviar a 1usd y queda listo el reto.

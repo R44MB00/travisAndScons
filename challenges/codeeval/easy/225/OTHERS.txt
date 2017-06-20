@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/testing/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Testing/c/test.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Testing/cpp/test.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Testing/py2/test.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/Testing/py3/t.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/Testing.java

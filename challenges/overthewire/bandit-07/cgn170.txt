@@ -1,0 +1,1 @@
+Usar el siguiente comando para encontrar el archivo con el password find / -type f -size 33c -and -user bandit7 -and -group bandit6

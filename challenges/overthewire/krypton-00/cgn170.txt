@@ -1,0 +1,1 @@
+Decodificar el password de ingreso con base64

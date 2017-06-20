@@ -1,0 +1,1 @@
+http://www.spoj.com/problems/PT07Z/

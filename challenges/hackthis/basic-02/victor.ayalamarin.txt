@@ -1,0 +1,1 @@
+Con ayuda del pluging User Agent Switcher, se cambio el strim del user agent para pasar el nivel.

@@ -1,0 +1,1 @@
+El reto consiste en encontrar una contraseña oculta dentro de una imagen. Abriendo la imagen por medio de un editor de texto se encuentra que la contraseña es pmloik.

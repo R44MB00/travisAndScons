@@ -1,0 +1,6 @@
+https://gist.githubusercontent.com/yuheiomori/8156153/raw/77671deb345091662f2bb213719e1386f99db535/main.go
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/swap_elements.py2
+https://gist.githubusercontent.com/WesleyLeach/16217da9fcfb9d49e20b39e5b245e8b4/raw/2e8ad7ec117a2d2af422a557d1ba710495819071/gistfile1.txt
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SwapElements.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/112%20-%20Swap%20Elements/112.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/112%20-%20Swap%20Elements/112.php

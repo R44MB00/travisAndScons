@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/shortest-repetition/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/shortest-repetition/main.py
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/shortest_repetition.py2
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/107%20-%20Shortest%20repetition/107.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/107%20-%20Shortest%20repetition/107.php

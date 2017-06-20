@@ -1,0 +1,1 @@
+El reto consiste en obtener la contraseña dado un texto codificado. El texto se encuentra codificado con Base64. Por medio de un decodificador de Base64 se encuentra que la contraseña es 6xw1qd5d.

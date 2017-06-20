@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: no
+- clasificacion: si
+- puntuaciont: 27229
+- puntuacionb: 10000
+- usuarios: 11704
+- vinculados: 691
+- retos: 190
+- media: 15.40%
+- dificultad: 69.23%
+- diversion: 56.67%
+- wechall: http://www.wechall.net/site/details/11/DareYourMind
+- url: http://www.dareyourmind.net/

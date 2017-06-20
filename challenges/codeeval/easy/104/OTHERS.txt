@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/word-to-digit/solution.sh
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/word_to_digit.py2
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/word_to_digit.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/WordToDigit.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/104%20-%20Word%20to%20Digit/104.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/104%20-%20Word%20to%20Digit/104.php

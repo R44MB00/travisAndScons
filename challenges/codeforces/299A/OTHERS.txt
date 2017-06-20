@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/svanegas/programming_solutions/master/Codeforces/299A%20-%20Ksusha%20and%20Array/299A.cpp

@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/data-recovery/main.py
+https://raw.githubusercontent.com/jawshooah/codeeval/master/easy/data-recovery/DataRecovery.scala
+https://raw.githubusercontent.com/smithandrewl/CodeEval/master/Scala/src/com/smithandrewl/codeeval/scala/datarecovery/Main.scala
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/140%20-%20Data%20recovery/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/140%20-%20Data%20recovery/main.php

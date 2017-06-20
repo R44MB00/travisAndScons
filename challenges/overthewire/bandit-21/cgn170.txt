@@ -1,0 +1,1 @@
+Iniciar 2 sesiones ssh, en una ejecutar el siguiente comando nc -l 5555 y escribir el password del reto actual y en la otra sesion ejecutar ./suconnect 5555

@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/skmanoj/codeEval/master/hard/wordSearch.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/word-search/Main.java
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/word-search.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Hard/c65%20Word%20Search.py
+https://gist.githubusercontent.com/yuheiomori/d6eca73cf7604df20639/raw/eb4b554ac78e7a17b987f02f97caa91e537c5f60/main.py

@@ -1,0 +1,1 @@
+Siguiendo las pistas se consigue la carpeta _vti_pvt, luego se busca el archivo .pwd donde se encuentra la clave encriptada con DES y el usuario.

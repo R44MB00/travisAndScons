@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.sh
+https://raw.githubusercontent.com/delynn/code-eval/master/ruby/16-number-of-ones.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/16%20-%20Number%20of%20ones/16.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/16%20-%20Number%20of%20ones/16.php

@@ -1,0 +1,12 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/cs.cs
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/go.go
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/js.js
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/n-mod-m/bash.bash
+https://gist.githubusercontent.com/yuheiomori/7382941/raw/2cc0ebc6ecc4ca07b50b8dee4d47c0f9c6132c26/n_mod_m.py
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/N-Mod-M/solution-rev-1.php
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/N-Mod-M/solution-rev-4.lua
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/N-Mod-M/solution-rev-2.bash
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/easy/N-Mod-M/solution-rev-3.js
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/modulus.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/62%20-%20N%20Mod%20M/62.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/62%20-%20N%20Mod%20M/62.php

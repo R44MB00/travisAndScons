@@ -1,0 +1,26 @@
+using System;
+using System.IO;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        using (StreamReader reader = File.OpenText(args[0]))
+        while (!reader.EndOfStream)
+        {
+            string line = reader.ReadLine();
+            if (null == line)
+                continue;
+            // do something with line
+            int numr = int.Parse(line);
+            int result = 0;
+            
+            while(0 < numr){
+                result += numr % 10;
+                numr = numr /10;
+            }
+            Console.WriteLine(result);
+        }
+    }
+}

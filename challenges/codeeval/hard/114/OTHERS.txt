@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/package-problem/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/hard/114%20-%20Package%20Problem/114.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/hard/114%20-%20Package%20Problem/114.php

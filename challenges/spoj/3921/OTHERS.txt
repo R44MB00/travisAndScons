@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/mintuhouse/spoj-solutions/master/3921-bytese2.cpp

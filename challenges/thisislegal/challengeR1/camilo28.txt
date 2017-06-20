@@ -1,0 +1,1 @@
+Conseguir acceso a la zona del admin explotando file_include()

@@ -1,0 +1,7 @@
+from struct import pack
+
+
+if pack('@h', 1) == pack('<h', 1):
+    print ("LittleEndian")
+else:
+    print ("BigEndian")

@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/jiteshsunhala/spoj-solutions/master/NOVICE43.cpp

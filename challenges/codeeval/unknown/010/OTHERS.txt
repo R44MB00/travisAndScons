@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/m2last.bash
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/m2last.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/m2last.clj
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/m2last.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/m2last.py2
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/m2last.rb
+https://raw.githubusercontent.com/mpyrozhok/coding-challenges/master/codeeval/haskell/moderate/mthtolastelement.hs

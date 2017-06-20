@@ -1,0 +1,1 @@
+El reto consiste en obtener una contraseña. Revisando el codigo fuente de la pagina se encuentra un codigo javascript donde la contraseña se encuentra ofuscada. Por medio de un interprete de javascript se encuentra la clave ejecutando un alert de la contraseña. La contraseña es Vive_laFrance.

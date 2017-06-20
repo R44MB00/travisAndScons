@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/darrensun/OJ-Solutions/master/src/com/darrensun/spoj/arith2/Main.java
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/ARITH2.cpp
+https://raw.githubusercontent.com/t3nsor/SPOJ/master/arith2.cpp

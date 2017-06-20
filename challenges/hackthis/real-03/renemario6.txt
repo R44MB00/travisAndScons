@@ -1,0 +1,1 @@
+1-> Se revisa el codigo fuente en busca de pistas, este nos lleva a login.js, donde no se tiene una informacion muy util, debido a que el sistema compara la clave con algun archivo base, empieza la busqueda por el sitio en donde deberian estar almacenadas las claves, despues de un largo rato de pruebas y errores se consigue members.js, en donde estan encriptadas las contraseñas.

@@ -1,0 +1,1 @@
+Se solventa a traves de la sustitucion de caracteres, la palabra clave de identificar es password.

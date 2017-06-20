@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/juggling-with-zeros/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/149%20-%20Juggling%20with%20zeros/149.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/149%20-%20Juggling%20with%20zeros/149.php
+https://github.com/jtibbertsma/code-eval/blob/master/juggling-with-zeros/juggling.rb

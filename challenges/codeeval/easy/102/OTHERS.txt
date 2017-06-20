@@ -1,0 +1,4 @@
+https://gist.githubusercontent.com/yuheiomori/8034533/raw/af75ed2aa95ecaa1f42e54f1f5ec75632fd4cab3/main.go
+https://gist.githubusercontent.com/yuheiomori/deeb660e62e943a7cafe/raw/8666705fb764ba1c4733c5bc7833394a37d1a44d/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/102%20-%20JSON%20menu%20IDs/102.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/102%20-%20JSON%20menu%20IDs/102.php

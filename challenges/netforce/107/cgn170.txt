@@ -1,0 +1,1 @@
+Encontrar las credenciales del usuario en el codigo ofuscado dentro de la pagina, use la consola de firebug para desofuscar parte del codigo javascript 

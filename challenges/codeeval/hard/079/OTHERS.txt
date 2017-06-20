@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/DionysiosB/CodeEval/master/MineSweeper.cpp
+https://raw.githubusercontent.com/aliabbasrizvi/CodeEval/master/MineSweeper.java
+https://gist.githubusercontent.com/yuheiomori/11529778/raw/eb74685539617a47a0558380f7ccf0594f1ade47/minesweeper.py
+https://gist.githubusercontent.com/yuheiomori/11557515/raw/d03717a2d02bad63908f9a7bc60ab8a7f9722682/main.go
+https://raw.githubusercontent.com/dcdr/CodeEval/master/hard/minesweeper/javascript/app.js
+https://gist.githubusercontent.com/yuheiomori/11557515/raw/d03717a2d02bad63908f9a7bc60ab8a7f9722682/main.go

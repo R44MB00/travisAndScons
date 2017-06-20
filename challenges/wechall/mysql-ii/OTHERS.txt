@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20MYSQL%20II/README.md
+https://silnex.kro.kr/wordpress/2016/11/22/wechalltraining-mysql-ii/
+http://blog.csdn.net/qq_19876131/article/details/50594894#t3
+http://qkqhxla1.tistory.com/217
+https://github.com/p1o2p3u1/WeChall/blob/master/Training/MySQL_Authentication_Bypass_II.md

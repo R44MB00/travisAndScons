@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/word-chain/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/135%20-%20Word%20chain/135.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/135%20-%20Word%20chain/135.php
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c135%20Word%20Chain.py

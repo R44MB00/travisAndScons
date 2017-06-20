@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/67%20-%20Hex%20To%20Decimal/67.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/67%20-%20Hex%20To%20Decimal/67.php

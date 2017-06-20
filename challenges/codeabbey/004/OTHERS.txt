@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id004-Minimum_of_Two.py
+https://ideone.com/IB9a1i
+https://www.reddit.com/r/learnprogramming/comments/3xvyw2/codeabbey_question/
+https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-1-6-15/
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/MinOfTwo.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/min_of_two.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem004/Program.cs

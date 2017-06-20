@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id128-Combinations_Counting.py
+https://github.com/JesseClarkND/codeabbey_in_C-NET/blob/master/Combinations%20Counting

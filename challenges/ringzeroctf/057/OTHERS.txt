@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/dominiquejb/ringzer0team-CTF/master/challenge57/hashbreakerreloaded.txt

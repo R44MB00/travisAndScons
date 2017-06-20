@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: no
+- clasificacion: yes
+- puntuaciont: 30930
+- puntuacionb: 10000
+- usuarios: 42399
+- vinculados: 961
+- retos: 292
+- media: 21.21%
+- dificultad: 86.77%
+- diversion: 83.82%
+- wechall: http://www.wechall.net/site/details/32/Hacker_org
+- url: http://www.hacker.org/

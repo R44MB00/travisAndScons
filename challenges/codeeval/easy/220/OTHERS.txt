@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/trick-or-treat/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TrickOrTreat/c/tot.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TrickOrTreat/cpp/tot.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TrickOrTreat/py2/tot.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/TrickOrTreat/py3/tot.py
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/TrickOrTreat.java
+https://github.com/jtibbertsma/code-eval/blob/master/trick-or-treat/trick.rb

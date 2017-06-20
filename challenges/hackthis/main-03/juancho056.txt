@@ -1,0 +1,5 @@
+Comentario: El uso de JavaScript como el único método para proteger su sitio es una mala idea, pero esto ha sido, obviamente, pasar por alto, mientras que la codificación de esta página.
+Ingreso a codigo fuente:
+<script type='text/javascript'> $(function(){ $('.level-form').submit(function(e){ if(document.getElementById('user').value == 'heaven' && document.getElementById('pass').value == 'hell') 
+Username= heaven 
+Password= hell

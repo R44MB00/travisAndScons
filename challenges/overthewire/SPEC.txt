@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: si
+- clasificacion: no
+- puntuaciont: 25301
+- puntuacionb: 10000
+- usuarios: 0
+- vinculados: 2942
+- retos: 166
+- media: 21.19%
+- dificultad: 78.12%
+- diversion: 98.69%
+- wechall: http://www.wechall.net/site/details/70/OverTheWire_org
+- url: http://overthewire.org/wargames/

@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/bats-challenge/main.py
+https://raw.githubusercontent.com/elack33/CodeEval/master/Python/Bats%20Challenge/bats.py
+https://raw.githubusercontent.com/mgorgei/codeeval/master/Medium/c146%20Bat%20Challenge.py
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.c
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.go
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.hs
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.lua
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.pl
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.r
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.rb
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/moderate/bats.bash
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/146%20-%20Bats%20Challenge/146.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/146%20-%20Bats%20Challenge/146.php

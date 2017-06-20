@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id003-Sums_in_loop.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Sums%20in%20Loop.cpp
+https://gist.github.com/anonymous/88e0ffecc308746e2e31
+https://quickgrid.wordpress.com/2015/02/16/codeabbey-volume-beginners-solutions-1-6-15/
+https://github.com/marclerodrigues/ruby_exercises/blob/master/sums_in_loops.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem003/Program.cs

@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/justify-the-text/main.py
+https://raw.githubusercontent.com/TheCK/codeChallenges/master/codeEval/src/main/java/org/ck/codeEval/medium/justifyTheText/Main.java

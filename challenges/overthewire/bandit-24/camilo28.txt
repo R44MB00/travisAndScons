@@ -1,0 +1,1 @@
+Debe crearse un script en el bash (sh) que se ejecute por el superusuario periodicamente gracias cron

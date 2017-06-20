@@ -1,0 +1,1 @@
+Usar el siguiente comando para extraer la clave del archivo data.txt cat data.txt |sort|uniq -u

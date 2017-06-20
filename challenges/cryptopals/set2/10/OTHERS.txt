@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Daeinar/cryptopals/master/src/c10.rs
+https://raw.githubusercontent.com/jaybosamiya/cryptopals-solutions/master/set2/10/run.py

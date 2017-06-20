@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/racing-chars/php.php
+https://gist.githubusercontent.com/yuheiomori/5c09c36a68b41074dfd7/raw/f17fd6eb76ee0a55cfdf03d412cb5ee7b72e7a0f/main.py
+https://raw.githubusercontent.com/pluralism/CodeEval/master/Racing%20Chars.rb
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/136%20-%20Racing%20chars/136.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/136%20-%20Racing%20chars/136.php

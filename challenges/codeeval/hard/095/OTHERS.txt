@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Brianjr0428/CodeEval/master/Hard/Advanced%20Calculator/advancedCalculator.java
+https://raw.githubusercontent.com/nikai3d/ce-challenges/master/hard/advanced_calculator.rb

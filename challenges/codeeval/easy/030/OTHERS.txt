@@ -1,0 +1,5 @@
+https://gist.githubusercontent.com/yuheiomori/2639626/raw/ae06a708ccaff5263a128be6c9715976052453aa/set_intersection.py
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/set-intersection/Main.java
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SetIntersection.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/30%20-%20Set%20intersection/30.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/30%20-%20Set%20intersection/30.php

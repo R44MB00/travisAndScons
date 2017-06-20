@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/big-digits/main.py
+https://raw.githubusercontent.com/joshimoo/Challenges/master/CodeEval/Easy/BigDigits/BigDigits.cs
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/163%20-%20Big%20digits/163.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/163%20-%20Big%20digits/163.php

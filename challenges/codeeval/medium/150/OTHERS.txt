@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/joedicastro/code_eval/master/moderate/roman_and_arabic.py2
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/150%20-%20Roman%20And%20Arabic/150.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/150%20-%20Roman%20And%20Arabic/150.php

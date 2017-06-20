@@ -1,0 +1,3 @@
+Un poco más complicado JavaScript esta vez, pero igual de inseguro.
+Para el ingreso solo se pide password al cargar la pagina, se encuentra en codigo fuente.
+Password= 9286jas

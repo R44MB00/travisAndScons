@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id028-Body_Mass_Index.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Body%20Mass%20Index%20.cpp
+https://raw.githubusercontent.com/Alackey/codeabbey-projects/master/Body%20Mass%20Index/src/Main.java
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/body%20mass%20index.py
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/BodyMassIndex.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/body_mass_index.rb
+https://raw.githubusercontent.com/bsungur/CodeAbbey/master/Problem020/Program.cs

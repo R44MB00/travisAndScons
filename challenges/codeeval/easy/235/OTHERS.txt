@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/simple-or-trump/main.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SimpleOrTrump/c/sot.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SimpleOrTrump/cpp/sot.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SimpleOrTrump/py2/sot.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/SimpleOrTrump/py3/sot.py
+https://github.com/jtibbertsma/code-eval/blob/master/simple-or-trump/trump.rb

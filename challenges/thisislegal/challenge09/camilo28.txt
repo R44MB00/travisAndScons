@@ -1,0 +1,1 @@
+El texto estaba cifrado con una sustitución de caracteres, con ayuda de herramientas propias (frecuencia.py) y otras de internet (the black chamber) y el principio de frecuencia de letras en palabras inglesas se pudo romper y conseguir la contraseña

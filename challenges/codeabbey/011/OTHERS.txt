@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id011-Sum_of_digits.py
+https://raw.githubusercontent.com/gravoo/codeabbey/master/%20Sum%20of%20digits%20.cpp
+https://www.reddit.com/r/learnprogramming/comments/24notl/c_need_help_with_sum_of_digits_from_codeabbey/
+https://github.com/Tempurturtul/CodeAbbey/blob/master/C%23/SumOfDigits.cs
+https://github.com/marclerodrigues/ruby_exercises/blob/master/sum_of_digits.rb

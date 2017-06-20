@@ -1,0 +1,1 @@
+Modificando el código fuente con firebug o cualquier otra herramienta se lograba pasar el desafío

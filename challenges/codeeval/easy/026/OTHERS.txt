@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/elbuo8/codeEval/master/FileSize.py
+https://raw.githubusercontent.com/amoerie/code-eval/master/CodeEval/FileSize.cs
+https://gist.githubusercontent.com/ianpugh/871a8e39d0c9adc4ad2a/raw/4240f2b46667720d3133e49fa6bc46fe6598f5e5/filesize.cs
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/FileSize.java
+https://gist.githubusercontent.com/a1ip/139a5dcdf7dfb0a117a7/raw/b1e72eca304641ff61b19e00e352ffe8265f4d6e/026-File-Size.rb
+https://gist.githubusercontent.com/a1ip/139a5dcdf7dfb0a117a7/raw/b1e72eca304641ff61b19e00e352ffe8265f4d6e/026-File-Size.md
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/26%20-%20File%20size/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/26%20-%20File%20size/main.php

@@ -1,0 +1,6 @@
+Se ingresa a el link del reto, se encuentran varios directorios al inicio de la pagina se exploran desde el primero y se llega a uno llamado adm/> aparecen varios links : Parent Directory
+crypt.php
+dunit.php
+index.php
+login.pwd
+srch/ Una vez se explora el link dunit.php se supera el reto. Solo era explorar por los directorios

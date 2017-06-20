@@ -1,0 +1,1 @@
+Las arañas (robots.txt) indexan contenido sensible, es necesario encontrar el archivo para ver la estructura del servidor

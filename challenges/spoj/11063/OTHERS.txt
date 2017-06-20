@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/foxx3/Spoj-Solution/master/11063.%20AP%20-%20Complete%20The%20Series%20(Easy)
+https://raw.githubusercontent.com/t3nsor/SPOJ/master/ap2.cpp
+https://raw.githubusercontent.com/srikanthmalipatel/Spoj-Problems/master/AP2-6702146-src.cpp

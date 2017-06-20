@@ -1,0 +1,2 @@
+Se emplea  el metodo get “?” y se especifica el password='flubergump'
+https://www.hackthis.co.uk/levels/intermediate/1?password=flubergump

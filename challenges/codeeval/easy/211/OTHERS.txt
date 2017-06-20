@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/adambose1990/CodeEvalJavaSolutions/master/src/com/codeeval/easy/ChardonnayorCabernet.java
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ChardonnayOrCabernet/c/coc.c
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ChardonnayOrCabernet/cpp/coc.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ChardonnayOrCabernet/py2/coc.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/ChardonnayOrCabernet/py3/coc.py

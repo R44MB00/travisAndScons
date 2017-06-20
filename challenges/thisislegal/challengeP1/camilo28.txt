@@ -1,0 +1,1 @@
+Con un algoritmo que yo mismo cree y la ayuda de selenium se puede obtener acceso a la contraseña e introducirla en la caja de texto en menos de 2 segundos (ver anexo: Código fuente)

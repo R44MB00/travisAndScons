@@ -1,0 +1,1 @@
+Buscar la usuario y clave y desencriptarla, shas256.

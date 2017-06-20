@@ -1,0 +1,8 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/RE
+http://jpaglier.blogspot.com.co/2015/02/microcorruption-v-reykjavik.html
+https://rakshacks.wordpress.com/2016/08/18/microcorruption-reykjavik/
+http://ctfunhax00r.blogspot.com.co/2017/01/microcorruption-reykjavik.html
+http://tlk.tuxfamily.org/doku.php?id=writeup:microcorruption:reykjavik
+https://www.youtube.com/watch?v=KcH-j2Hgq4I
+http://plaes.org/pages/technotes/2014-microcorruption-ctf/#reykjavik
+http://j4ckp4rd.tistory.com/81

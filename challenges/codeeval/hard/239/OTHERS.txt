@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/victortyau/CodeEval/master/AS%20QUICK%20AS%20A%20FLASH/flash.rb
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/AsQuickAsAFlash/py2/qf.py

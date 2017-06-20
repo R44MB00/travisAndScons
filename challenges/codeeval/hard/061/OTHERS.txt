@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/xisisu/CodeEval/master/Hard/Decryption.cc
+https://raw.githubusercontent.com/ferhatelmas/algo/master/codeEval/hard/decryption.py
+https://raw.githubusercontent.com/contactjiayi/CodeEval/master/decryption.py

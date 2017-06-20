@@ -1,0 +1,1 @@
+Ver archivos en /home/bandit2	ls -la; cat -

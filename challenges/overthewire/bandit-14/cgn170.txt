@@ -1,0 +1,1 @@
+Conectar con el usuario bandit14 usando la clave privada y obtener la clave del reto  ssh -i sshkey.private bandit14@localhost

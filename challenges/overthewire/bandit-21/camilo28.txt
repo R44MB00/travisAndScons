@@ -1,0 +1,1 @@
+Ver las tareas que hay en cron por el usuario bandit21, el pass esta en el archivo cron

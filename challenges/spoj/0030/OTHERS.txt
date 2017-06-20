@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/lewin/SPOJ/master/blinnet.java
+https://raw.githubusercontent.com/viraj071/SPOJ/master/BLINNET%20-%20Bytelandian%20Blingors%20Network/BLINNET.cpp
+https://raw.githubusercontent.com/t3nsor/SPOJ/master/blinnet.cpp

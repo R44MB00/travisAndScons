@@ -1,0 +1,13 @@
+- idioma: en
+- actualizacion: yes
+- clasificacion: no
+- puntuaciont: 14477
+- puntuacionb: 10000
+- usuarios: 0
+- vinculados: 468
+- retos: 10
+- media: 58.76%
+- dificultad: 75.00%
+- diversion: 95.00%
+- wechall: http://www.wechall.net/site/details/61/RedTigers_Hackit
+- url: https://redtiger.labs.overthewire.org/

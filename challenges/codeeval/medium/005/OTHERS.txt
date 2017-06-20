@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/detecting-cycles/Main.java
+https://gist.githubusercontent.com/yuheiomori/2669971/raw/bfcdd8892875c2049485d855e2f6b461784dd65a/detecting_cycles.py
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DetectingCycles/cpp/DetectingCycles.cpp
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/DetectingCycles/c/dc.c
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Detecting-Cycles/solution-rev-1.php
+https://raw.githubusercontent.com/schrodervictor/codeeval-challenges/master/moderate/Detecting-Cycles/solution-rev-2.bash
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/detecting_cycles.php

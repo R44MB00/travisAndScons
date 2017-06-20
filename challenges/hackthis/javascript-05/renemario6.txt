@@ -1,0 +1,1 @@
+Se revisan los javascript añadidos a la pagina principal, y se busca la contraseña, luego se imprime con un alert la variable.(O con FireBug)

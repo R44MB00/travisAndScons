@@ -1,0 +1,4 @@
+Se ingresa a CMD, se copia > nslookup www.hackthis.co.uk y muestra la direccion de la pagina web. Luego se busca en internet en la pagina: www.whoishostingthis.com/?q=85.159.213.101
+What is the IP of the server hosting this page: Linode
+What company hosts our server: 85.159.213.101
+X-B6-Key header:  Lajklsb#!"3jlak, en el correo de confirmación de la cuenta, se selecciona ver código fuente del mensaje

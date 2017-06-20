@@ -1,0 +1,1 @@
+Imprimir la variable que define de que tamaño debe ser la clave.

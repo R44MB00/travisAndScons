@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/mneudert/codeeval/master/easy/the-major-element/go.go
+https://raw.githubusercontent.com/pluralism/CodeEval/master/The%20Major%20Element.cpp
+https://gist.githubusercontent.com/yuheiomori/95960705119b4b25c5f2/raw/80862b3107c6d60caef59252ebff8e74a32b2ed2/main.py
+https://gist.githubusercontent.com/yuheiomori/9150141/raw/d446f82bdda228d1543c0ee42eff8cec60f5ec4c/main.py
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/TheMajorElement.java
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/the_major_element.py2
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/main.py
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/132%20-%20The%20major%20element/132.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/132%20-%20The%20major%20element/132.php

@@ -1,0 +1,4 @@
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Palindromes
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2050/Problem%2050.cpp
+https://raw.githubusercontent.com/ArnoldM904/CodeAbbey_Solutions/master/Python/id050-Palindromes.py
+https://raw.githubusercontent.com/rouxbuciu/Code-Challenges/master/codeabbey.com/palindromes.py

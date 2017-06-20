@@ -1,0 +1,1 @@
+Basic+ 1: se modifica el tipo del archivo de .txt a .bmp

@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/fabriziocucci/CodeEval/master/moderate/email-validation/java/src/main/java/Main.java
+https://raw.githubusercontent.com/stackptr/exercises/master/CodeEval/035-email-validation.js
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/email_validation.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/35%20-%20Email%20Validation/35.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/35%20-%20Email%20Validation/35.php

@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/morse-code/Main.java
+https://raw.githubusercontent.com/lucasrangit/CodeEval/master/morse_code.py
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/morse-code.lua
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/Morse.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/116%20-%20Morse%20Code/116.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/116%20-%20Morse%20Code/116.php

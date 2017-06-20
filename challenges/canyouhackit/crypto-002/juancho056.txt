@@ -1,0 +1,1 @@
+Se verifica con el comando javascript:alert(documents.cookie); y se muestra isAdmin=0; Se modifica el atributo con tamper data y enseña la contraseña

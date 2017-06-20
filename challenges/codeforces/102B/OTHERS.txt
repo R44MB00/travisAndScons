@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/mkirsche/Codeforces/master/102-B/102-B-2849496.java
+https://raw.githubusercontent.com/fuwutu/CodeForces/master/102B%20-%20Sum%20of%20Digits.cpp
+https://raw.githubusercontent.com/DionysiosB/CodeForces/master/102B-SumOfDigits.cpp

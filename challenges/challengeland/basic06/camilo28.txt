@@ -1,0 +1,1 @@
+Ingresando datos erróneos (fuzzing) obligaba a la aplicación a generar excepciones y con ellas información importante, por eso es importante la validación de los datos como el manejo de excepciones

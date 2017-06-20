@@ -1,0 +1,5 @@
+https://gist.githubusercontent.com/trendsetter37/8b5c80ea9f0674eb782d/raw/522402fe0a77914541f7d2edea12d4078e2ca9ea/first_nrc.cpp
+https://raw.githubusercontent.com/mneudert/codeeval/master/moderate/first-non-repeated-character/php.php
+https://gist.githubusercontent.com/briandiaz/b7128813acec7c180019/raw/276cc594a02ff379a6c82537b5e39db8716f6dfb/firstnonrepeatedcharacter.cs
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/12%20-%20First%20Non-Repeated%20Character/12.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/12%20-%20First%20Non-Repeated%20Character/12.php

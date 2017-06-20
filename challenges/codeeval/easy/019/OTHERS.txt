@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.sh
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/multiples-of-a-number/solution.js
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/MultiplesOfANumber.py
+https://gist.githubusercontent.com/yuheiomori/11443072/raw/9fd79880fb0abf2c1a46977143f2e712842c628f/main.c
+https://raw.githubusercontent.com/NanoDano/codeeval/master/bit-positions/bit-positions.c
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/bit_positions.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/19%20-%20Bit%20positions/19.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/19%20-%20Bit%20positions/19.php

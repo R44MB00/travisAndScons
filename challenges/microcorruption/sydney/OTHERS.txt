@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/SY
+https://ctfwriteup.wordpress.com/2014/04/08/microcorruption-sydney/
+https://desgod.github.io/blog/microcorruption-sydney
+http://n1ghtingale.me/write-ups/2015/07/08/Microcorruption-writeup-Sydney.html
+http://www.carymathews.com/research/2015/12/11/microcorruption-Sydney.html
+http://jpaglier.blogspot.com.co/2015/02/microcorruption-ii-sydney.html
+http://ctfunhax00r.blogspot.com.co/2017/01/microcorruption-sydney.html
+https://www.youtube.com/watch?v=afnpcFb0PAQ
+http://tacotimesecurity.blogspot.com.co/p/microc.html

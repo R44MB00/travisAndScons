@@ -1,0 +1,1 @@
+El archivo de texto se detecta que comienza con el encabezado de archivos de mapa de bits, se cambia la extencion a bmp y se obtiene la respuesta. 

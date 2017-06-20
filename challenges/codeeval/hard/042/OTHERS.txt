@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/habhab93/CodeEval-Ugly-Numbers/master/Main.java
+https://raw.githubusercontent.com/rickychang/code-eval-scala/master/ugly-numbers/src/main/scala/Main.scala

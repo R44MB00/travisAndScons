@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/Chainsawkitten/CodeAbbeyProblems/master/src/Problem%2038/Problem%2038.cpp
+https://raw.githubusercontent.com/JesseClarkND/codeabbey_in_C-NET/master/Quadratic%20Equation

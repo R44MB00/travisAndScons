@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/marioyc/Online-Judge-Solutions/master/SPOJ/Partial/6409%20-%20Suffix%20Array.cpp

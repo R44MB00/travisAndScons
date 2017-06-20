@@ -1,0 +1,25 @@
+# language: es
+
+Característica: resolver reto Fast Count
+  Con utilización de código en python
+  Del sitio yoire.com
+  De la categoría Lenguajes Automation
+  Con mi usuario Goso
+
+  Antecedentes:
+    Dado que estoy Registrado en el sitio yoire.com
+    Y tengo el sistema operativo Ubuntu 14.04
+    Y tengo instalado python 2.7
+    Y tengo acceso a internet utilizando Mozilla Firefox
+
+  Escenario: Solución exitosa
+    Dado un reto que me pide contar las líneas de una página web en 10 segundos
+    Cuando diseño un programa en python para hacerlo automatizado
+    Y creo una nueva sesión y le hago una perición GET a la página con cookies
+    Entonces leo el contenido de la página
+    Y le hago un split de salto de línea al contenido
+    Y la cantidad líneas es el total de las líneas menos las líneas constantes
+    Y el número de líneas constantes siempre es 53
+    Entonces hago un peticion POST con el valor de las líneas
+    Y paso el reto
+

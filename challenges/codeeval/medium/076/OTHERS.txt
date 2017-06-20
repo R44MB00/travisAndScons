@@ -1,0 +1,5 @@
+https://gist.githubusercontent.com/yuheiomori/9424169/raw/4572b3969459575f89927cc9442f9b5e802b9ae7/main.py
+https://raw.githubusercontent.com/jingcmu/codeeval/master/STRING%20ROTATION.cpp
+https://gist.githubusercontent.com/yuheiomori/9446255/raw/d03c7e2218878bfcefba8cd9354e39493cb23c61/main.go
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/76%20-%20String%20Rotation/76.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/76%20-%20String%20Rotation/76.php

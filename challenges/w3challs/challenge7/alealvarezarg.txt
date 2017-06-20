@@ -1,0 +1,1 @@
+El reto consiste en un texto cifrado por medio del codigo morse. Por de un decodificador de codigo morse online se encuentra que la contraseña es bagdad.

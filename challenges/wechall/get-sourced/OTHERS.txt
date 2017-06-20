@@ -1,0 +1,7 @@
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-get-sourced.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20Get%20Sourced/README.md
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/Get-Sourced/Solution.txt
+https://raw.githubusercontent.com/lc4t/OtherFiles/master/md/WeChall.md
+https://nopresearch.com/walkthroughs/wechall/training-get-sourced-training/
+https://b0ngsec.blogspot.com.co/2016/08/wechall-training-get-sourced.html

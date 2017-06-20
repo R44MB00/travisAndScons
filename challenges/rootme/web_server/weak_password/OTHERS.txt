@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/anomen-s/programming-challenges/master/root-me.org/Web-Server/Weak-password/notes.txt
+https://thinbashane.wordpress.com/2015/11/05/root-me-web-server-weak-password/

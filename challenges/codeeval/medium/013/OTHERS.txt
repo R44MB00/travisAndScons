@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/remove-characters/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/1-moderate/remove-characters/main.py

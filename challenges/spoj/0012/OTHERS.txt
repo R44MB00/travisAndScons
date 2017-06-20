@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/spaghetti-source/Competitive-Programming/master/SPOJ12.cc
+https://raw.githubusercontent.com/wonjohnchoi/competitions/master/spoj/SPOJ12.py

@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/FRodrigues42/codeeval-string-permutations/master/string_permutations.py
+https://gist.githubusercontent.com/yuheiomori/8555382/raw/2f35aa32724f44194b19779a30103e1a725d8d1d/main.go
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/string-permutations/Main.java
+https://raw.githubusercontent.com/Brianjr0428/CodeEval/master/Hard/String%20Permutations/permutation.java
+https://raw.githubusercontent.com/stevengchan/programming-challenges/master/CodeEval-Challenges/StringPermutations.java

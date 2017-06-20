@@ -1,0 +1,1 @@
+Ejecutar el comando ./bandit20-do /bin/sh para tener shell con el usuario bandit20 y ejecutar cat /etc/bandit_pass/bandit20 para leer el password

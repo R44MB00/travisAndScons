@@ -1,0 +1,1 @@
+El reto contienen un texto codificado con hexadecimales. Por medio de un decodificador hexadecimal online se encuentra que la contraseña es kijuyh.

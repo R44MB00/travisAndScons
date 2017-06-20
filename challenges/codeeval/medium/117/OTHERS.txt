@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/117%20-%20A%20Pile%20of%20Bricks/117.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/moderate/117%20-%20A%20Pile%20of%20Bricks/117.php

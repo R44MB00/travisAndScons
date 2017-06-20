@@ -1,0 +1,7 @@
+https://raw.githubusercontent.com/edeng/CodeEval/master/Easy/SelfDescribingNumbers.java
+https://gist.githubusercontent.com/yuheiomori/7366361/raw/4136c8ef7502e3e7e54dde92d6e4e1ba9ef2b819/main.go
+https://raw.githubusercontent.com/jawshooah/codeeval/master/easy/self-describing-numbers/SelfDescribingNumbers.scala
+https://raw.githubusercontent.com/joedicastro/code_eval/master/easy/self_describing_numbers.py2
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SelfDescribingNumbers.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/40%20-%20Self%20Describing%20Numbers/40.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/40%20-%20Self%20Describing%20Numbers/40.php

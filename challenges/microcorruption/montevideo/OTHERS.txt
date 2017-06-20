@@ -1,0 +1,5 @@
+https://raw.githubusercontent.com/linuxp3nguin/microcorruption-1/master/CTF/MO
+http://piratezpdx.blogspot.com.co/2014/11/microcorruption-montevideo.html
+http://jpaglier.blogspot.com.co/2015/02/microcorruption-vii-montevideo.html
+http://tlk.tuxfamily.org/doku.php?id=writeup:microcorruption:montevideo
+https://www.youtube.com/watch?v=yYzo4FwHY6w

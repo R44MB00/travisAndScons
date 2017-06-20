@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/Main.java
+https://raw.githubusercontent.com/mpillar/codeeval/master/0-easy/split-the-number/main.py
+https://raw.githubusercontent.com/NanoDano/codeeval/master/split-the-number/split-the-number.rb
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SplitTheNumber.java
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/131%20-%20Split%20the%20number/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/131%20-%20Split%20the%20number/main.php

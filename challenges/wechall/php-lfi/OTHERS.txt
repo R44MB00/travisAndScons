@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/p1o2p3u1/WeChall/master/Training/PHP_LFI.md
+http://sp4hack.blogspot.com.co/2012/10/we-chall-training-php-lfi.html
+http://winkar.github.io/2015/01/24/wechall.html
+https://raw.githubusercontent.com/BirkhoffLee/wechall/master/exploit/Training%20PHP%20LFI/README.md
+https://raw.githubusercontent.com/stefanoschrs/wechall/master/Exploit/Exploit%20-%20PHP%20LFI
+https://raw.githubusercontent.com/james9909/PracticeCTF/master/WeChall/PHP-LFI/Solution.txt
+http://z3r0x43.blogspot.com.co/2014/10/wechall-training-php-lfi.html
+http://joizel.readthedocs.io/ko/latest/web/LFI/[wechall]%20Warchall_Live%20LFI.html
+http://0x48.pw/2015/08/07/0x06/#0x01-Training-PHP-LFI
+http://blog.csdn.net/qq_19876131/article/details/50927701#t1

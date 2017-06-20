@@ -1,0 +1,3 @@
+https://raw.githubusercontent.com/rezwan4029/SPOJ-solutions/master/7299.%20Multiples%20of%203%20%5BMULTQ3%5D.cpp
+https://raw.githubusercontent.com/cacophonix/SPOJ/master/MULTQ3.cpp
+https://raw.githubusercontent.com/t3nsor/SPOJ/master/multq3.cpp

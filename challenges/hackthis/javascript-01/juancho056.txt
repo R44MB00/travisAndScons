@@ -1,0 +1,3 @@
+Se ingresa a el codigo fuente se identifica javascript y se confirma que la contraseña es == correct
+Se ejecuta la esta línea en el campo dirección: Javascript:alert(correct);
+Password: jrules

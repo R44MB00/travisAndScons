@@ -1,0 +1,2 @@
+https://raw.githubusercontent.com/StevenDunn/CodeEval/master/VisitToTheHeadquarter/vtth.rb
+https://raw.githubusercontent.com/mpillar/codeeval/master/2-hard/visit-to-the-headquarter/main.py

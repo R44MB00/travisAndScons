@@ -1,0 +1,23 @@
+import requests
+
+cookies = dict(PHPSESSID='',enigmafiedV4='')
+r=requests.get("http://www.enigmagroup.org/missions/programming/7/",cookies=cookies)
+s=r.text
+dept=str(s[s.find("data from the")+14:s.find(" department.",s.find("data from the")+12)])
+s=r.text[r.text.find("Company:"):r.text.find("<p class=\"style5\">")].replace("<br />","").replace("\n","").replace("\r"," ").replace("\t","")
+s=s.replace("Department: ","\nDepartment: ")
+res={}
+company=""
+total=0
+for i in s.splitlines():
+    if i.find("Company:")!=-1:
+        company=str(i[i.find(":  ")+3:])
+    else:
+        if i[i.find(":")+2:i.find(" Monthly Budget:")] in res:
+            res[str(i[i.find(":")+2:i.find(" Monthly Budget:")])]+=int((i[i.find(":",i.find(":")+1)+2:]).replace("$",""))
+        else:
+            res[str(i[i.find(":")+2:i.find(" Monthly Budget:")])]=int((i[i.find(":",i.find(":")+1)+2:]).replace("$",""))
+payload={"company":company,"department":str(dept),"total":str(res[dept])}
+url="http://www.enigmagroup.org/missions/programming/7/submit.php"
+r=requests.post(url,cookies=cookies,data=payload)
+print r.text

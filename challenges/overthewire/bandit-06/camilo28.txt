@@ -1,0 +1,1 @@
+Buscar archivo especifico por ID del user en la distro	id; cat /etc/passwd | grep bandit7 ; ;find / -uid 11006 -size '33c' -group 11006

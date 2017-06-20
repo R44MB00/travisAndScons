@@ -1,0 +1,10 @@
+https://gist.githubusercontent.com/yuheiomori/2563960/raw/9897a62f8f884710d3fa0428c5b4a5f2241151b9/sum_of_digits.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.py
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.js
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.rb
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.sh
+https://raw.githubusercontent.com/blamonet/php-code-eval-solutions/master/sum_of_digits.php
+https://raw.githubusercontent.com/SedaKunda/CodeEval/master/Easy-Level/SumDigits.java
+https://raw.githubusercontent.com/thiagoalessio/codeeval/master/easy/sum-of-digits/solution.php
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/21%20-%20Sum%20of%20digits/main.js
+https://raw.githubusercontent.com/pascal-bourut/codeeval-challenges/master/easy/21%20-%20Sum%20of%20digits/main.php

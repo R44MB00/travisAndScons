@@ -1,0 +1,2 @@
+https://gist.githubusercontent.com/yuheiomori/9203405/raw/08bbe0b3b81dea0a926bf0cf780f329500574124/main.py
+https://raw.githubusercontent.com/leaen/Codeeval-solutions/master/overlapping-rectangles.lua
