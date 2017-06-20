@@ -14,6 +14,10 @@ sudo: required
 
 before_install:
   - sudo apt-get update
+  - sudo apt-get update
+  - chmod +x precommit.sh
+  - chmod +x url.sh
+  - chmod +x nodata.sh
 
 install:
   - sudo apt-get install simhash tree pylint splint gitstats aspell aspell-es aptitude checkstyle
