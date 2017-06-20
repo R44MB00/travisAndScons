@@ -2,7 +2,7 @@
 """Recursive Directory Search
 
 This module provides functionalities that facilitate the recursive search of
-files based on a specific extention.
+files and folders based on a specific extention.
 
 """
 
@@ -32,5 +32,28 @@ def find_sources(ext, mode, directory='challenges/'):
         else:
             for filename in fnmatch.filter(filenames, 'OTHERS.' + ext):
                 matches.append(os.path.join(root, filename))
+
+    return matches
+
+
+def find_folders(directory='challenges/'):
+    """Fn to find folder names under default dir, challenges.
+
+    Args:
+        directory (string): Default dir 'challenges/'.
+
+    Returns:
+        List: matches[]. Contains list of folder names.
+
+    """
+
+    matches = []
+#   iterate through dirs and append to matches
+    for root, dirs, filenames in os.walk(directory):
+        if filenames and not dirs:
+            fname_matches = []
+            for name in filenames:
+                fname_matches.append(os.path.join(root, name))
+            matches.append(fname_matches)
 
     return matches

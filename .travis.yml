@@ -5,6 +5,8 @@ cache:
   directories:
     - build
 
+dist: trusty
+
 python:
   - "2.7"
 
@@ -14,14 +16,28 @@ before_install:
   - sudo apt-get update
 
 install:
-  - sudo apt-get install simhash tree pylint splint gitstats aspell aspell-es
-  - pip install scons
-  - pip install retry
+  - sudo apt-get install simhash tree pylint splint gitstats aspell aspell-es aptitude checkstyle
+  - sudo aptitude install shellcheck
   - gem install cucumber
+  - gem install ruby-lint
   - pip install pre-commit gitinspector
+  - pip install scons
+  - pip install requests
+  - pip install flake8
+  - pip install https://github.com/google/closure-linter/zipball/master
 
 script:
-  - scons
+  - ./precommit.sh
+  - ./url.sh
+#  - ./similarity.sh typea
+#  - ./similarity.sh typeb
+  - ./nodata.sh
+#  - ./analysis.sh
+  - scons others
+  - scons gherkin
+  - scons folders
+  - ./total.sh
+  - ./reports.sh
 
 addons:
   artifacts:
